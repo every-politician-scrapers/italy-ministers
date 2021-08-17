@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Italy",
+      "id": "Q38"
     },
     "cabinet": {
-      "id": "Qxxx",
+      "id": "Q105460407",
       "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "parent": "Q3687318"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.governo.it/it/ministri-e-sottosegretari",
+        "title": "Ministri e Sottosegretari | www.governo.it",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/italy-ministers"
 }
