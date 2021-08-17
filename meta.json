@@ -12,8 +12,8 @@
         "url":   "https://www.governo.it/it/ministri-e-sottosegretari",
         "title": "Ministri e Sottosegretari | www.governo.it",
         "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+            "code": "it",
+            "wikidata": "Q652"
         }
     },
     "agent": "every-politican-scrapers/italy-ministers"
