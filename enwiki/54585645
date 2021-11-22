@@ -1,0 +1,222 @@
+{
+  "title": "Giuseppe Cavo Dragone",
+  "pageID": 54585645,
+  "categories": [
+    "1957 births",
+    "Living people",
+    "Naval aviators",
+    "Italian admirals"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Admiral Giuseppe Cavo Dragone is an Italian naval officer, currently serving as Chief of the Defense Staff.",
+              "links": [
+                {
+                  "text": "Chief of the Defense Staff",
+                  "type": "internal",
+                  "page": "Chief of the Defence Staff (Italy)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Giuseppe Cavo Dragone"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He served as a helicopter pilot before transitioning to jets."
+            },
+            {
+              "text": "He became carrier qualified on the."
+            },
+            {
+              "text": "He joined the new Italian Harrier squadron, serving as commander."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2008 he was appointed Commander of the Italian Navy Special Forces Command (COMSUBIN) before being appointed Superintendent of the Italian Naval Academy in 2011.",
+              "links": [
+                {
+                  "text": "COMSUBIN",
+                  "type": "internal",
+                  "page": "Comando Raggruppamento Subacquei e Incursori Teseo Tesei"
+                },
+                {
+                  "type": "internal",
+                  "page": "Italian Naval Academy"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed Commander of the Italian Joint Special Forces Operations Headquarters from 3 November 2014."
+            },
+            {
+              "text": "On 21 June 2019 he replaced Admiral Valter Girardelli as Chief of the Staff of the Navy and two years later, on 19 October 2021, he was appointed by the Council of Ministers Chief of the Defence Staff.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Valter Girardelli"
+                },
+                {
+                  "text": "Council of Ministers",
+                  "type": "internal",
+                  "page": "Council of Ministers (Italy)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian naval officer",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "year": "1957",
+          "month": "02",
+          "day": "28",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Italy"
+          ],
+          "template": "navy"
+        },
+        {
+          "ship": "Lexington",
+          "id": "CV-16",
+          "list": [
+            "6"
+          ],
+          "template": "uss"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Giuseppe Cavo Dragone"
+          },
+          "image": {
+            "text": "Giuseppe Cavo Dragone 2020 (cropped).jpg"
+          },
+          "birth_date": {
+            "text": "February 28, 1957"
+          },
+          "birth_place": {
+            "text": "Arquata Scrivia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arquata Scrivia"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇮🇹"
+          },
+          "rank": {
+            "text": "Admiral"
+          },
+          "commands": {
+            "text": "Commander Joint Operations\n\nItalian Naval Academy\n\nAircraft Carrier Giuseppe Garibaldi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Italian Naval Academy"
+              },
+              {
+                "text": "Aircraft Carrier ''Giuseppe Garibaldi''",
+                "type": "internal",
+                "page": "Italian aircraft carrier Giuseppe Garibaldi"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Giuseppe Garibaldi"
+              ]
+            }
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Ludovico",
+          "first": "Marco",
+          "date": "2021-10-20",
+          "title": "Cavo Dragone al vertice della Difesa. Pilota di Harrier e interista sfegatato",
+          "url": "https://www.ilsole24ore.com/art/cavo-dragone-vertice-difesa-pilota-harrier-e-interista-sfegatato-AEKZ4Dr",
+          "access-date": "2021-10-20",
+          "website": "Il Sole 24 ORE",
+          "language": "it",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-mil"
+        },
+        {
+          "before": "Walter Girardelli",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief of Staff of the Italian Navy",
+          "years": "2019–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Enrico Credendino",
+          "template": "s-aft"
+        },
+        {
+          "before": "Enzo Vecciarelli",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief of the Defence Staff",
+          "years": "2021",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

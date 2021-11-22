@@ -1,0 +1,1514 @@
+{
+  "title": "Giancarlo Giorgetti",
+  "pageID": 4521203,
+  "categories": [
+    "1966 births",
+    "20th-century Italian politicians",
+    "21st-century Italian politicians",
+    "Bocconi University alumni",
+    "Conte I Cabinet",
+    "Draghi Cabinet",
+    "Deputies of Legislature XVIII of Italy",
+    "Deputies of Legislature XVII of Italy",
+    "Deputies of Legislature XVI of Italy",
+    "Deputies of Legislature XV of Italy",
+    "Deputies of Legislature XIV of Italy",
+    "Deputies of Legislature XIII of Italy",
+    "Lega Nord politicians",
+    "Living people",
+    "People from the Province of Varese"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Giancarlo Giorgetti (born 16 December 1966 in Cazzago Brabbia) is an Italian politician and prominent member of the League, of which he became deputy secretary in 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cazzago Brabbia"
+                },
+                {
+                  "text": "Italian politician",
+                  "type": "internal",
+                  "page": "politics of Italy"
+                },
+                {
+                  "text": "League",
+                  "type": "internal",
+                  "page": "Lega Nord"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Giancarlo Giorgetti"
+                ]
+              }
+            },
+            {
+              "text": "Since February 2021, Giorgetti is serving as Minister of Economic Development in the government of Mario Draghi.",
+              "links": [
+                {
+                  "text": "Minister of Economic Development",
+                  "type": "internal",
+                  "page": "Italian Minister of Economic Development"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mario Draghi"
+                }
+              ]
+            },
+            {
+              "text": "Previously, he was Secretary of the Council of Ministers from June 2018 until September 2019, in the government of Giuseppe Conte.",
+              "links": [
+                {
+                  "text": "Secretary of the Council of Ministers",
+                  "type": "internal",
+                  "page": "Secretary of the Council of Ministers of Italy"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Conte I Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Giuseppe Conte"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1966",
+          "month": "12",
+          "day": "16",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Giancarlo Giorgetti"
+          },
+          "image": {
+            "text": "Giancarlo Giorgetti Quirinale 2018.png"
+          },
+          "office": {
+            "text": "Minister of Economic Development",
+            "links": [
+              {
+                "text": "Minister of Economic Development",
+                "type": "internal",
+                "page": "Italian Minister of Economic Development"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Mario Draghi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mario Draghi"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 February 2021"
+          },
+          "predecessor": {
+            "text": "Stefano Patuanelli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefano Patuanelli"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Secretary of the Council of Ministers",
+            "links": [
+              {
+                "text": "Secretary of the Council of Ministers",
+                "type": "internal",
+                "page": "Secretary of the Council of Ministers of Italy"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Giuseppe Conte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Giuseppe Conte"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 June 2018"
+          },
+          "term_end1": {
+            "text": "5 September 2019"
+          },
+          "predecessor1": {
+            "text": "Maria Elena Boschi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maria Elena Boschi"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Riccardo Fraccaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Riccardo Fraccaro"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Deputy Federal Secretary of the League",
+            "links": [
+              {
+                "text": "Deputy Federal Secretary of the League",
+                "type": "internal",
+                "page": "List of Federal Secretaries of Lega Nord"
+              }
+            ]
+          },
+          "1blankname2": {
+            "text": "Secretary"
+          },
+          "1namedata2": {
+            "text": "Matteo Salvini",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Matteo Salvini"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "26 February 2016"
+          },
+          "predecessor2": {
+            "text": "Edoardo Rixi Riccardo Molinari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edoardo Rixi"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies (Italy)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "9 May 1996"
+          },
+          "constituency3": {
+            "text": "Lombardy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lombardy"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Mayor of Cazzago Brabbia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cazzago Brabbia"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "23 April 1995"
+          },
+          "term_end4": {
+            "text": "12 June 2004"
+          },
+          "predecessor4": {
+            "text": "Enrico Simonetta"
+          },
+          "successor4": {
+            "text": "Massimo Nicora"
+          },
+          "birth_date": {
+            "text": "December 16, 1966"
+          },
+          "birth_place": {
+            "text": "Cazzago Brabbia, Varese, Italy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cazzago Brabbia"
+              },
+              {
+                "text": "Varese",
+                "type": "internal",
+                "page": "Province of Varese"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Laura Ferrari"
+          },
+          "children": {
+            "text": "1",
+            "number": 1
+          },
+          "party": {
+            "text": "League",
+            "links": [
+              {
+                "text": "League",
+                "type": "internal",
+                "page": "Lega Nord"
+              }
+            ]
+          },
+          "education": {
+            "text": "Bocconi University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bocconi University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Tax advisor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tax advisor"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Giorgetti was born in 1966 in Cazzago Brabbia, a small town in the Province of Varese.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cazzago Brabbia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Province of Varese"
+                }
+              ]
+            },
+            {
+              "text": "He later graduated at the Bocconi University, becoming a tax advisor and Financial auditor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bocconi University"
+                },
+                {
+                  "text": "tax advisor",
+                  "type": "internal",
+                  "page": "Tax advisor",
+                  "anchor": "Italy"
+                },
+                {
+                  "text": "Financial auditor",
+                  "type": "internal",
+                  "page": "Financial audit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the university he was close to the Youth Front, the youth-wing of the nationalist Italian Social Movement (MSI).",
+              "links": [
+                {
+                  "text": "Youth Front",
+                  "type": "internal",
+                  "page": "Youth Front (Italy)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Italian Social Movement"
+                }
+              ]
+            },
+            {
+              "text": "However, in the early 1990s, he joined Lega Lombarda and Lega Nord, the separatist movements founded by Umberto Bossi, and on 23 April 1995 he was elected mayor of his hometown, Cazzago Brabbia, a position that he held until 12 June 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lega Lombarda"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lega Nord"
+                },
+                {
+                  "type": "internal",
+                  "page": "Umberto Bossi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Elected to the Chamber of Deputies for the first time in 1996 Italian general election, he was re-elected in 2001, 2006, 2008, 2013 and 2018.",
+              "links": [
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Italy)"
+                },
+                {
+                  "text": "1996 Italian general election",
+                  "type": "internal",
+                  "page": "1996 Italian general election"
+                },
+                {
+                  "text": "in 2001",
+                  "type": "internal",
+                  "page": "2001 Italian general election"
+                }
+              ]
+            },
+            {
+              "text": "From 2001 to 2006, he was the chairman of the Budget Committee in the Chamber."
+            },
+            {
+              "text": "Within the party, he was national secretary of Lega Lombarda from 2002 to 2012 and has been deputy federal secretary of Lega Nord since 2016."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Giorgetti was described by The New York Times as a powerful aide to Umberto Bossi, founder and federal secretary of Lega Nord from 1991 to 2012; and by The Economist as his \"dauphin\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The New York Times"
+                },
+                {
+                  "type": "internal",
+                  "page": "Umberto Bossi"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Economist"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The New York Times",
+                  "The Economist"
+                ]
+              }
+            },
+            {
+              "text": "In 2010, The Guardian described him as an \"influential member of Berlusconi's Lega Nord party\", where Berlusconi stood erroneously for Bossi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The Guardian"
+                },
+                {
+                  "text": "Berlusconi",
+                  "type": "internal",
+                  "page": "Silvio Berlusconi"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Guardian"
+                ]
+              }
+            },
+            {
+              "text": "Under Matteo Salvini, Bossi's opponent and new federal secretary of Lega Nord since 2013, Giorgetti continued to be one of the most influential members of the party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Matteo Salvini"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.linkiesta.it/it/article/2015/06/26/tanti-consiglieri-intorno-a-salvini-ma-il-leader-ascolta-solo-giorgett/26457",
+          "title": "Tanti consiglieri intorno a Salvini, ma il leader ascolta solo Giorgetti",
+          "date": "26 June 2015",
+          "website": "Linkiesta",
+          "accessdate": "13 June 2020",
+          "trans-title": "Many advisers around Salvini, but the leader only listens to Giorgetti",
+          "language": "Italian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Donadio",
+          "first": "Rachel",
+          "title": "A New Power Broker Rises in Italy",
+          "website": "The New York Times",
+          "quote": "“As a member of the league, I should say that I want to vote tomorrow,” said Giancarlo Giorgetti, the chairman of the Lower House budget committee and one of Mr. Bossi’s most powerful deputies.",
+          "date": "15 September 2010",
+          "url": "https://www.nytimes.com/2010/09/16/world/europe/16italy.html",
+          "accessdate": "13 June 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Bossi's boots: Its leader gravely ill, the Northern League faces an uncertain future",
+          "website": "The Economist",
+          "quote": "Two years ago, Mr Bossi called Giancarlo Giorgetti, the 37-year-old secretary of the Lombard League, the original core of the party, his “dauphin”.",
+          "date": "22 April 2004",
+          "url": "http://www.economist.com/node/2618080",
+          "accessdate": "13 June 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Matt Scott",
+          "title": "Questions remain over Notts County affairs ahead of court date",
+          "website": "The Guardian",
+          "quote": "It is strongly possible that the contact was made on the recommendation of Giancarlo Giorgetti, an influential member of Berlusconi's Northern League party who just so happens to be a massive Saints fan.",
+          "date": "27 January 2010",
+          "url": "https://www.theguardian.com/sport/2010/jan/27/notts-county-hmrc-debt",
+          "accessdate": "13 June 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political views and controversies",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Giorgetti is a federalist and regionalist politician who supports decentralization.",
+              "links": [
+                {
+                  "text": "federalist",
+                  "type": "internal",
+                  "page": "Federalism"
+                },
+                {
+                  "text": "regionalist",
+                  "type": "internal",
+                  "page": "Regionalism (politics)"
+                },
+                {
+                  "text": "decentralization",
+                  "type": "internal",
+                  "page": "decentralization"
+                }
+              ]
+            },
+            {
+              "text": "Speaking at the 2018 edition of the Communion and Liberation Rimini Meeting on 20 August 2018, he addressed the rise of populism, stating that \"the Italian Parliament doesn't matter anymore because it's no longer understood by citizens, who see it as a place of political inconclusiveness\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Communion and Liberation"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rimini Meeting"
+                },
+                {
+                  "text": "populism",
+                  "type": "internal",
+                  "page": "populism"
+                },
+                {
+                  "type": "internal",
+                  "page": "Italian Parliament"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "understood"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Giorgetti is a vocal supporter of a first-past-the-post based electoral system and pushes for a return to the Italian electoral law of 1993 (Mattarellum), although it was repealed in favor of the Italian electoral law of 2005 (Porcellum, subsequently declared unconstitutional) with Lega Nord's support.",
+              "links": [
+                {
+                  "text": "first-past-the-post",
+                  "type": "internal",
+                  "page": "first-past-the-post"
+                },
+                {
+                  "text": "electoral system",
+                  "type": "internal",
+                  "page": "electoral system"
+                },
+                {
+                  "type": "internal",
+                  "page": "Italian electoral law of 1993"
+                },
+                {
+                  "type": "internal",
+                  "page": "Italian electoral law of 2005"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Mattarellum",
+                  "Porcellum"
+                ]
+              }
+            },
+            {
+              "text": "In 2020 Giorgetti argued that Italy needs an electoral system that \"makes possible to govern. Of all the electoral systems I've known, the one that worked best is Mattarellum\", claiming that \"local mayors, entrepreneurs, professionals and people representing their own territory were brought into nationwide politics thanks to FPTP's single-member districts mechanism\".",
+              "links": [
+                {
+                  "text": "single-member districts",
+                  "type": "internal",
+                  "page": "single-member district"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Mattarellum"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2006 Giorgetti found himself at the center of a controversy for having refused, in 2004, a 50–100,000 euro bribe from Italian banker Gianpiero Fiorani.",
+              "links": [
+                {
+                  "text": "euro",
+                  "type": "internal",
+                  "page": "euro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gianpiero Fiorani"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://video.repubblica.it/politica/meeting-rimini-giorgetti-parlamento-non-conta-piu-nulla-democrazia-un-feticcio/312741/313370?refresh_ce",
+          "title": "Meeting Rimini, Giorgetti: \"Parlamento non conta più nulla, democrazia un feticcio\"",
+          "date": "20 August 2018",
+          "accessdate": "13 June 2020",
+          "trans-title": "Rimini Meeting, Giorgetti: \"Parliament doesn't matter anymore, democracy is a fetish\"",
+          "language": "Italian",
+          "website": "la Repubblica",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.leggioggi.it/2013/04/05/travaglio-servizio-pubblico-chi-sono-saggi-e-la-mazzetta-alla-camera/",
+          "title": "Travaglio a Servizio pubblico: chi sono i saggi e la mazzetta alla Camera",
+          "trans-title": "Travaglio speaks during Servizio pubblico: who are the wise men and the bribe in the Chamber of Deputies",
+          "date": "5 April 2013",
+          "accessdate": "13 June 2020",
+          "website": "leggioggi.it",
+          "language": "Italian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://ricerca.gelocal.it/trentinocorrierealpi/archivio/trentinocorrierealpi/2006/03/08/AA8AN_SA403.html",
+          "title": "La mazzetta per Giorgetti non si trova",
+          "trans-title": "Bribe for Giorgetti is nowhere to be found",
+          "date": "8 March 2006",
+          "accessdate": "13 June 2020",
+          "website": "la Repubblica",
+          "archiveurl": "https://web.archive.org/web/20160312172038/http://ricerca.gelocal.it/trentinocorrierealpi/archivio/trentinocorrierealpi/2006/03/08/AA8AN_SA403.html",
+          "archivedate": "12 March 2016",
+          "language": "Italian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "language": "Italian",
+          "title": "Legge elettorale, Giorgetti: \"Torniamo al Mattarellum\"",
+          "trans-title": "Electoral law, Giorgetti: \"Let's go back to Mattarellum\"",
+          "date": "14 January 2020",
+          "accessdate": "13 June 2020",
+          "url": "https://twnews.it/it-news/legge-elettorale-giorgetti-torniamo-al-mattarellum",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Electoral history",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "Election": {
+              "text": "1996",
+              "number": 1996,
+              "links": [
+                {
+                  "text": "1996",
+                  "type": "internal",
+                  "page": "1996 Italian general election"
+                }
+              ]
+            },
+            "House": {
+              "text": "Chamber of Deputies",
+              "links": [
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Italy)"
+                }
+              ]
+            },
+            "Constituency": {
+              "text": "Lombardy 2 – Sesto Calende",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lombardy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sesto Calende"
+                }
+              ]
+            },
+            "Party": {
+              "text": ""
+            },
+            "col5": {
+              "text": "LN",
+              "links": [
+                {
+                  "text": "LN",
+                  "type": "internal",
+                  "page": "Lega Nord"
+                }
+              ]
+            },
+            "Votes": {
+              "text": "29,314",
+              "number": 29314
+            },
+            "Result": {
+              "text": "Elected",
+              "formatting": {
+                "bold": [
+                  "Elected"
+                ]
+              }
+            }
+          },
+          {
+            "Election": {
+              "text": "2001",
+              "number": 2001,
+              "links": [
+                {
+                  "text": "2001",
+                  "type": "internal",
+                  "page": "2001 Italian general election"
+                }
+              ]
+            },
+            "House": {
+              "text": "Chamber of Deputies",
+              "links": [
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Italy)"
+                }
+              ]
+            },
+            "Constituency": {
+              "text": "Lombardy 2 – Sesto Calende",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lombardy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sesto Calende"
+                }
+              ]
+            },
+            "Party": {
+              "text": ""
+            },
+            "col5": {
+              "text": "LN",
+              "links": [
+                {
+                  "text": "LN",
+                  "type": "internal",
+                  "page": "Lega Nord"
+                }
+              ]
+            },
+            "Votes": {
+              "text": "41,184",
+              "number": 41184
+            },
+            "Result": {
+              "text": "Elected",
+              "formatting": {
+                "bold": [
+                  "Elected"
+                ]
+              }
+            }
+          },
+          {
+            "Election": {
+              "text": "2006",
+              "number": 2006,
+              "links": [
+                {
+                  "text": "2006",
+                  "type": "internal",
+                  "page": "2006 Italian general election"
+                }
+              ]
+            },
+            "House": {
+              "text": "Chamber of Deputies",
+              "links": [
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Italy)"
+                }
+              ]
+            },
+            "Constituency": {
+              "text": "Lombardy 1",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lombardy"
+                }
+              ]
+            },
+            "Party": {
+              "text": ""
+            },
+            "col5": {
+              "text": "LN",
+              "links": [
+                {
+                  "text": "LN",
+                  "type": "internal",
+                  "page": "Lega Nord"
+                }
+              ]
+            },
+            "Votes": {
+              "text": "–"
+            },
+            "Result": {
+              "text": "Elected",
+              "formatting": {
+                "bold": [
+                  "Elected"
+                ]
+              }
+            }
+          },
+          {
+            "Election": {
+              "text": "2008",
+              "number": 2008,
+              "links": [
+                {
+                  "text": "2008",
+                  "type": "internal",
+                  "page": "2008 Italian general election"
+                }
+              ]
+            },
+            "House": {
+              "text": "Chamber of Deputies",
+              "links": [
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Italy)"
+                }
+              ]
+            },
+            "Constituency": {
+              "text": "Lombardy 1",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lombardy"
+                }
+              ]
+            },
+            "Party": {
+              "text": ""
+            },
+            "col5": {
+              "text": "LN",
+              "links": [
+                {
+                  "text": "LN",
+                  "type": "internal",
+                  "page": "Lega Nord"
+                }
+              ]
+            },
+            "Votes": {
+              "text": "–"
+            },
+            "Result": {
+              "text": "Elected",
+              "formatting": {
+                "bold": [
+                  "Elected"
+                ]
+              }
+            }
+          },
+          {
+            "Election": {
+              "text": "2013",
+              "number": 2013,
+              "links": [
+                {
+                  "text": "2013",
+                  "type": "internal",
+                  "page": "2013 Italian general election"
+                }
+              ]
+            },
+            "House": {
+              "text": "Chamber of Deputies",
+              "links": [
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Italy)"
+                }
+              ]
+            },
+            "Constituency": {
+              "text": "Lombardy 2",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lombardy"
+                }
+              ]
+            },
+            "Party": {
+              "text": ""
+            },
+            "col5": {
+              "text": "LN",
+              "links": [
+                {
+                  "text": "LN",
+                  "type": "internal",
+                  "page": "Lega Nord"
+                }
+              ]
+            },
+            "Votes": {
+              "text": "–"
+            },
+            "Result": {
+              "text": "Elected",
+              "formatting": {
+                "bold": [
+                  "Elected"
+                ]
+              }
+            }
+          },
+          {
+            "Election": {
+              "text": "2018",
+              "number": 2018,
+              "links": [
+                {
+                  "text": "2018",
+                  "type": "internal",
+                  "page": "2018 Italian general election"
+                }
+              ]
+            },
+            "House": {
+              "text": "Chamber of Deputies",
+              "links": [
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Italy)"
+                }
+              ]
+            },
+            "Constituency": {
+              "text": "Lombardy 2",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lombardy"
+                }
+              ]
+            },
+            "Party": {
+              "text": ""
+            },
+            "col5": {
+              "text": "Lega",
+              "links": [
+                {
+                  "text": "Lega",
+                  "type": "internal",
+                  "page": "Lega Nord"
+                }
+              ]
+            },
+            "Votes": {
+              "text": "–"
+            },
+            "Result": {
+              "text": "Elected",
+              "formatting": {
+                "bold": [
+                  "Elected"
+                ]
+              }
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "template": "lega nord/meta/color"
+        },
+        {
+          "list": [
+            "15"
+          ],
+          "template": "tick"
+        },
+        {
+          "template": "lega nord/meta/color"
+        },
+        {
+          "list": [
+            "15"
+          ],
+          "template": "tick"
+        },
+        {
+          "template": "lega nord/meta/color"
+        },
+        {
+          "name": "fn1",
+          "list": [
+            "Elected in a closed list proportional representation system."
+          ],
+          "template": "efn"
+        },
+        {
+          "list": [
+            "15"
+          ],
+          "template": "tick"
+        },
+        {
+          "template": "lega nord/meta/color"
+        },
+        {
+          "name": "fn1",
+          "list": [
+            "Elected in a closed list proportional representation system."
+          ],
+          "template": "efn"
+        },
+        {
+          "list": [
+            "15"
+          ],
+          "template": "tick"
+        },
+        {
+          "template": "lega nord/meta/color"
+        },
+        {
+          "name": "fn1",
+          "list": [
+            "Elected in a closed list proportional representation system."
+          ],
+          "template": "efn"
+        },
+        {
+          "list": [
+            "15"
+          ],
+          "template": "tick"
+        },
+        {
+          "template": "lega nord/meta/color"
+        },
+        {
+          "name": "fn1",
+          "list": [
+            "Elected in a closed list proportional representation system."
+          ],
+          "template": "efn"
+        },
+        {
+          "list": [
+            "15"
+          ],
+          "template": "tick"
+        },
+        {
+          "template": "noteslist"
+        }
+      ]
+    },
+    {
+      "title": "First-past-the-post elections",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": "Candidate"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": "Coalition"
+            },
+            "col4": {
+              "text": "Votes"
+            },
+            "col5": {
+              "text": "%"
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Giancarlo Giorgetti",
+              "formatting": {
+                "bold": [
+                  "Giancarlo Giorgetti"
+                ]
+              }
+            },
+            "col3": {
+              "text": "Lega Nord",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lega Nord"
+                }
+              ]
+            },
+            "col4": {
+              "text": "29,314",
+              "number": 29314
+            },
+            "col5": {
+              "text": "37.8",
+              "number": 37.8
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Renato Montalbetti"
+            },
+            "col3": {
+              "text": "The Olive Tree",
+              "links": [
+                {
+                  "text": "The Olive Tree",
+                  "type": "internal",
+                  "page": "The Olive Tree (Italy)"
+                }
+              ]
+            },
+            "col4": {
+              "text": "27,783",
+              "number": 27783
+            },
+            "col5": {
+              "text": "30.7",
+              "number": 30.7
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Carlo Castiglioni"
+            },
+            "col3": {
+              "text": "Pole for Freedoms",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pole for Freedoms"
+                }
+              ]
+            },
+            "col4": {
+              "text": "22,633",
+              "number": 22633
+            },
+            "col5": {
+              "text": "29.2",
+              "number": 29.2
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Others"
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "1,844",
+              "number": 1844
+            },
+            "col5": {
+              "text": "2.4",
+              "number": 2.4
+            }
+          },
+          {
+            "col1": {
+              "text": "Total",
+              "formatting": {
+                "bold": [
+                  "Total"
+                ]
+              }
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "77,574",
+              "number": 77574,
+              "formatting": {
+                "bold": [
+                  "77,574"
+                ]
+              }
+            },
+            "col5": {
+              "text": "100.0",
+              "number": 100,
+              "formatting": {
+                "bold": [
+                  "100.0"
+                ]
+              }
+            }
+          }
+        ],
+        [
+          {
+            "col1": {
+              "text": "Candidate"
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": "Coalition"
+            },
+            "col4": {
+              "text": "Votes"
+            },
+            "col5": {
+              "text": "%"
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Giancarlo Giorgetti",
+              "formatting": {
+                "bold": [
+                  "Giancarlo Giorgetti"
+                ]
+              }
+            },
+            "col3": {
+              "text": "House of Freedoms",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "House of Freedoms"
+                }
+              ]
+            },
+            "col4": {
+              "text": "41,184",
+              "number": 41184
+            },
+            "col5": {
+              "text": "54.5",
+              "number": 54.5
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Renato Montalbetti"
+            },
+            "col3": {
+              "text": "The Olive Tree",
+              "links": [
+                {
+                  "text": "The Olive Tree",
+                  "type": "internal",
+                  "page": "The Olive Tree (Italy)"
+                }
+              ]
+            },
+            "col4": {
+              "text": "28,363",
+              "number": 28363
+            },
+            "col5": {
+              "text": "37.5",
+              "number": 37.5
+            }
+          },
+          {
+            "col1": {
+              "text": ""
+            },
+            "col2": {
+              "text": "Others"
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "6,042",
+              "number": 6042
+            },
+            "col5": {
+              "text": "8.0",
+              "number": 8
+            }
+          },
+          {
+            "col1": {
+              "text": "Total",
+              "formatting": {
+                "bold": [
+                  "Total"
+                ]
+              }
+            },
+            "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "75,589",
+              "number": 75589,
+              "formatting": {
+                "bold": [
+                  "75,589"
+                ]
+              }
+            },
+            "col5": {
+              "text": "100.0",
+              "number": 100,
+              "formatting": {
+                "bold": [
+                  "100.0"
+                ]
+              }
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "template": "lega nord/meta/color"
+        },
+        {
+          "template": "centre-left coalition/meta/color"
+        },
+        {
+          "template": "centre-right coalition/meta/color"
+        },
+        {
+          "template": "other/meta/color"
+        },
+        {
+          "template": "house of freedoms/meta/color"
+        },
+        {
+          "template": "centre-left coalition/meta/color"
+        },
+        {
+          "template": "other/meta/color"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "2"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons category-inline"
+        },
+        {
+          "list": [
+            "Italy",
+            "Politics"
+          ],
+          "template": "portal bar"
+        },
+        {
+          "state": "collapsed",
+          "template": "conte cabinet"
+        },
+        {
+          "state": "collapsed",
+          "template": "draghi cabinet"
+        },
+        {
+          "template": "leaders of lega nord"
+        }
+      ]
+    }
+  ]
+}
