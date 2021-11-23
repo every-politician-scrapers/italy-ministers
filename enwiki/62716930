@@ -1,0 +1,374 @@
+{
+  "title": "Federico D'Incà",
+  "pageID": 62716930,
+  "categories": [
+    "Politicians of Veneto",
+    "1976 births",
+    "Living people",
+    "21st-century Italian politicians",
+    "Conte II Cabinet",
+    "Draghi Cabinet",
+    "Five Star Movement politicians",
+    "University of Trento alumni",
+    "People from Belluno",
+    "Deputies of Legislature XVII of Italy",
+    "Deputies of Legislature XVIII of Italy",
+    "Government ministers of Italy"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Federico D'Incà (born 10 February 1976) is an Italian politician, member of the Chamber of Deputies for the Five Star Movement.",
+              "links": [
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Italy)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Five Star Movement"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Federico D'Incà"
+                ]
+              }
+            },
+            {
+              "text": "On 5 September 2019 he was appointed as Minister for Parliamentary Relations in the Conte II Cabinet.",
+              "links": [
+                {
+                  "text": "Minister for Parliamentary Relations",
+                  "type": "internal",
+                  "page": "Italian Minister for Parliamentary Relations"
+                },
+                {
+                  "type": "internal",
+                  "page": "Conte II Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1976",
+          "month": "2",
+          "day": "10",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Federico D'Incà"
+          },
+          "image": {
+            "text": "Federico D'Incà ritratto frontale ministro rapporti parlamento (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister for Parliamentary Relations",
+            "links": [
+              {
+                "text": "Minister for Parliamentary Relations",
+                "type": "internal",
+                "page": "Italian Minister for Parliamentary Relations"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Giuseppe Conte Mario Draghi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Giuseppe Conte"
+              },
+              {
+                "type": "internal",
+                "page": "Mario Draghi"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "5 September 2019"
+          },
+          "predecessor": {
+            "text": "Riccardo Fraccaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Riccardo Fraccaro"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Italian Chamber of Deputies"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "15 March 2013"
+          },
+          "constituency1": {
+            "text": "Veneto 2"
+          },
+          "birth_date": {
+            "text": "February 10, 1976"
+          },
+          "birth_place": {
+            "text": "Belluno, Veneto, Italy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Belluno"
+              },
+              {
+                "type": "internal",
+                "page": "Veneto"
+              },
+              {
+                "type": "internal",
+                "page": "Italy"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Italian"
+          },
+          "party": {
+            "text": "Five Star Movement",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Five Star Movement"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Trento",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Trento"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.thelocal.it/20190904/here-is-italy-new-cabinet-in-full",
+          "title": "Here is Italy's new cabinet in full",
+          "website": "www.thelocal.it",
+          "url-status": "live",
+          "access-date": "2020-01-02",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "VII. Fall of The Orlando Cabinet",
+          "date": "1938-12-31",
+          "work": "Italy at the Paris Peace Conference",
+          "pages": "184–200",
+          "publisher": "Columbia University Press",
+          "doi": "10.7312/albr91646-010",
+          "isbn": "978-0-231-88476-1",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "url": "https://italicsmag.com/2019/09/04/italy-new-government-conte-releases-cabinet-list/",
+          "title": "Italy's New Government: Conte Releases Cabinet List",
+          "date": "2019-09-04",
+          "website": "Italics Magazine",
+          "language": "en-US",
+          "access-date": "2020-01-02",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "D'Incà graduated in economics and commerce from the University of Trento.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Trento"
+                }
+              ]
+            },
+            {
+              "text": "He was an IT management systems analyst in a private company until 2013, and previously was a senior manager in a multinational large-scale retail trade and quality manager in a robotics and automation company."
+            },
+            {
+              "text": "He is a managing director of the Italy–USA Foundation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Italy–USA Foundation"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Politics",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In the 2013 general elections he was elected deputy of the 17th legislature of the Italian Republic in the Veneto 2 constituency for the Five Star Movement."
+            },
+            {
+              "text": "since 17 December 2013 he has been the group leader of the M5S in the Chamber of Deputies, taking over from Alessio Villarosa of which he was already deputy group leader.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alessio Villarosa"
+                }
+              ]
+            },
+            {
+              "text": "Riccardo Nuti, previously the group leader, however, remained officially president of the group for technical-bureaucratic reasons due to the parliamentary organization until 4 September 2014 when his predecessor Villarosa officially became one.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Riccardo Nuti"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 26 March 2015 he officially became president of the M5S parliamentary group, thus legally representing the group in administrative and bureaucratic areas."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2016 he held the role of vice president of the Parliamentary Commission of Inquiry for the digitization of the Public Administration."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Re-elected in 2018 again with the M5S, he was appointed quaestor of the Chamber of Deputies."
+            },
+            {
+              "text": "He is a member of the Budget, Treasury and Planning Commission, the Communication and External Information Committee, the Supervisory Committee on Documentation Activities, the Personnel Affairs Committee, the Security Committee."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 5 September 2019 he has been appointed Minister for Relations with the Parliament of the Conte II Government.",
+              "links": [
+                {
+                  "text": "Conte II Government",
+                  "type": "internal",
+                  "page": "Conte II Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "On 3 October 2019 he also received the delegation for the Reforms."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He remained in office in the Draghi Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Draghi Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "conte ii cabinet"
+        },
+        {
+          "template": "draghi cabinet"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "https://federicodinca.it/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
