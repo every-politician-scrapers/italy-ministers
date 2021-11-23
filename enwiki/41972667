@@ -118,10 +118,10 @@
             "text": "Luigi Di Maio"
           },
           "image": {
-            "text": "Luigi Di Maio May 2018.jpg"
+            "text": "Luigi Di Maio 2021 (cropped).jpg"
           },
           "caption": {
-            "text": "Di Maio in 2018"
+            "text": "Di Maio in 2021"
           },
           "office": {
             "text": "Minister of Foreign Affairs",
@@ -715,9 +715,11 @@
               "text": "Di Maio's opponents were the Senator Elena Fattori (Vice President of the 9th Permanent Senate Committee) and six other city councilors.",
               "links": [
                 {
-                  "text": "Elena Fattori",
-                  "type": "internal",
-                  "page": ":it:Elena Fattori"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "it"
+                  }
                 }
               ]
             },
@@ -1140,6 +1142,13 @@
         }
       ],
       "images": [
+        {
+          "file": "File:Luigi Di Maio May 2018.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Luigi_Di_Maio_May_2018.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Luigi_Di_Maio_May_2018.jpg",
+          "caption": "Di Maio in May 2018",
+          "links": []
+        },
         {
           "file": "File:Di Maio Toninelli Grillo.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Di_Maio_Toninelli_Grillo.jpg?width=300",
