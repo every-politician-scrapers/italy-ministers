@@ -179,16 +179,6 @@
       ],
       "infoboxes": [
         {
-          "honorific_prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "text": "His Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              }
-            ]
-          },
           "name": {
             "text": "Sergio Mattarella"
           },
@@ -575,12 +565,6 @@
         }
       ],
       "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
         {
           "template": "citation",
           "type": "inline",
