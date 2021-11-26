@@ -88,7 +88,7 @@
             "text": "Renato Brunetta"
           },
           "image": {
-            "text": "Renato Brunetta daticamera 2018.jpg"
+            "text": "Renato Brunetta 2018 (cropped).jpg"
           },
           "imagesize": {
             "text": "180px"
@@ -140,13 +140,7 @@
             ]
           },
           "predecessor1": {
-            "text": "Luigi Nicolais",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luigi Nicolais"
-              }
-            ]
+            "text": "Luigi Nicolais"
           },
           "successor1": {
             "text": "Filippo Patroni Griffi",
@@ -220,16 +214,6 @@
               }
             ]
           },
-          "nationality": {
-            "text": "Italian",
-            "links": [
-              {
-                "text": "Italian",
-                "type": "internal",
-                "page": "Italians"
-              }
-            ]
-          },
           "party": {
             "text": "Forza Italia\n(2013-present)",
             "links": [
@@ -283,19 +267,26 @@
             ]
           },
           "website": {
-            "text": "http://www.renatobrunetta.it/"
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://www.renatobrunetta.it/"
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Childhood",
+      "title": "Early life and career",
       "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Son of a street vendor and the youngest of three brothers, Renato Brunetta grew up in Venice.",
+              "text": "Brunetta was born in Venice in 1950, the youngest of three brothers.",
               "links": [
                 {
                   "type": "internal",
@@ -304,7 +295,143 @@
               ]
             },
             {
-              "text": "He says that as a boy he studied classics on his own with excellent results, despite the social gap between him and his fellow students at the Liceo Foscarini."
+              "text": "He grew up in a poor family, his father was a peddler.",
+              "links": [
+                {
+                  "text": "peddler",
+                  "type": "internal",
+                  "page": "peddler"
+                }
+              ]
+            },
+            {
+              "text": "He attended the classical lyceum Foscarini.",
+              "links": [
+                {
+                  "text": "classical lyceum",
+                  "type": "internal",
+                  "page": "liceo classico"
+                }
+              ]
+            },
+            {
+              "text": "Brunetta once said, that as a boy he often studied classics on his own, to reduce the social gap between him and his fellow students."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 2 July 1973, he graduated in political and economic sciences at the University of Padua.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Padua"
+                }
+              ]
+            },
+            {
+              "text": "He began his academic career at the same university holding various positions: from 1973 to 1974 he was assistant professor theory and development policy and applied economics."
+            },
+            {
+              "text": "In the academic year 1977–78, he became professor of economics and labour policy."
+            },
+            {
+              "text": "From 1982 to 1990, he was associate professor of fundamentals of economics at the Department of Economic and Social Analysis of the Territory at the Iuav University of Venice.",
+              "links": [
+                {
+                  "text": "Iuav University of Venice",
+                  "type": "internal",
+                  "page": "Università Iuav di Venezia"
+                }
+              ]
+            },
+            {
+              "text": "From 1991 to 1999, he was associate professor of labor economics at University of Rome Tor Vergata, where he also held the position of professor of political economy until 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Rome Tor Vergata"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since 1976, Brunetta has been enrolled as a freelance journalist in the Order of Journalists of Veneto.",
+              "links": [
+                {
+                  "text": "journalist",
+                  "type": "internal",
+                  "page": "journalist"
+                },
+                {
+                  "type": "internal",
+                  "page": "Veneto"
+                }
+              ]
+            },
+            {
+              "text": "He is a columnist of Il Sole 24 Ore and Il Giornale.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Il Sole 24 Ore"
+                },
+                {
+                  "type": "internal",
+                  "page": "Il Giornale"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Il Sole 24 Ore",
+                  "Il Giornale"
+                ]
+              }
+            },
+            {
+              "text": "Moreover, he is founder and editor of the magazine Labur – Reviews of labor economics and industrial relations, published by Wiley-Blackwell for the Center for Economic and International Studies (CEIS) of the Tor Vergata University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wiley-Blackwell"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Labur – Reviews of labor economics and industrial relations"
+                ]
+              }
+            },
+            {
+              "text": "Together with Vittorio Feltri, he wrote a series of Manuals of Political Conversation published by Libero.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vittorio Feltri"
+                },
+                {
+                  "text": "Libero",
+                  "type": "internal",
+                  "page": "Libero (newspaper)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Libero"
+                ]
+              }
+            },
+            {
+              "text": "In June 2020, he briefly became a columnist of Il Riformista, a centrist and liberal newspaper directed by Piero Sansonetti, which he left in October 2020.",
+              "formatting": {
+                "italic": [
+                  "Il Riformista"
+                ]
+              }
             }
           ]
         }
@@ -320,6 +447,24 @@
           "date": "June 15, 2008",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },

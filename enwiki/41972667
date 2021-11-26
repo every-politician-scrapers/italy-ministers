@@ -203,49 +203,34 @@
             }
           },
           "office2": {
+            "text": "President of the Committee of Ministers of the Council of Europe",
+            "links": [
+              {
+                "text": "President of the Committee of Ministers of the Council of Europe",
+                "type": "internal",
+                "page": "Committee of Ministers of the Council of Europe"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "17 November 2021"
+          },
+          "predecessor2": {
+            "text": "Péter Szijjártó",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Péter Szijjártó"
+              }
+            ]
+          },
+          "office3": {
             "text": "Minister of Economic Development",
             "links": [
               {
                 "text": "Minister of Economic Development",
                 "type": "internal",
                 "page": "Italian Minister of Economic Development"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Giuseppe Conte"
-          },
-          "term_start2": {
-            "text": "1 June 2018"
-          },
-          "term_end2": {
-            "text": "5 September 2019"
-          },
-          "predecessor2": {
-            "text": "Carlo Calenda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carlo Calenda"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Stefano Patuanelli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stefano Patuanelli"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Labour and Social Policies",
-            "links": [
-              {
-                "text": "Minister of Labour and Social Policies",
-                "type": "internal",
-                "page": "Italian Minister of Labour and Social Policies"
               }
             ]
           },
@@ -259,6 +244,43 @@
             "text": "5 September 2019"
           },
           "predecessor3": {
+            "text": "Carlo Calenda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carlo Calenda"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Stefano Patuanelli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefano Patuanelli"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister of Labour and Social Policies",
+            "links": [
+              {
+                "text": "Minister of Labour and Social Policies",
+                "type": "internal",
+                "page": "Italian Minister of Labour and Social Policies"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Giuseppe Conte"
+          },
+          "term_start4": {
+            "text": "1 June 2018"
+          },
+          "term_end4": {
+            "text": "5 September 2019"
+          },
+          "predecessor4": {
             "text": "Giuliano Poletti",
             "links": [
               {
@@ -267,7 +289,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor4": {
             "text": "Nunzia Catalfo",
             "links": [
               {
@@ -276,7 +298,7 @@
               }
             ]
           },
-          "office4": {
+          "office5": {
             "text": "Leader of the Five Star Movement",
             "links": [
               {
@@ -286,13 +308,13 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start5": {
             "text": "23 September 2017"
           },
-          "term_end4": {
+          "term_end5": {
             "text": "22 January 2020"
           },
-          "predecessor4": {
+          "predecessor5": {
             "text": "Beppe Grillo",
             "links": [
               {
@@ -301,7 +323,7 @@
               }
             ]
           },
-          "successor4": {
+          "successor5": {
             "text": "Vito Crimi",
             "links": [
               {
@@ -310,7 +332,7 @@
               }
             ]
           },
-          "office5": {
+          "office6": {
             "text": "Member of the Chamber of Deputies",
             "links": [
               {
@@ -320,10 +342,10 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start6": {
             "text": "15 March 2013"
           },
-          "constituency5": {
+          "constituency6": {
             "text": "Campania 1 (2013–2018) Naples–Acerra (2018–present)"
           },
           "birth_date": {
