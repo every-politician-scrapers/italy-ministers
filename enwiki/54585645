@@ -37,7 +37,19 @@
               "text": "He served as a helicopter pilot before transitioning to jets."
             },
             {
-              "text": "He became carrier qualified on the."
+              "text": "He became carrier qualified on the USS Lexington (CV-16).",
+              "links": [
+                {
+                  "text": "USS ''Lexington'' (CV-16)",
+                  "type": "internal",
+                  "page": "USS Lexington (CV-16)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Lexington"
+                ]
+              }
             },
             {
               "text": "He joined the new Italian Harrier squadron, serving as commander."
@@ -99,7 +111,7 @@
           "template": "navy"
         },
         {
-          "ship": "Lexington",
+          "name": "Lexington",
           "id": "CV-16",
           "list": [
             "6"
