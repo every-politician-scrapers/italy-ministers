@@ -217,24 +217,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "conte ii cabinet"
-        },
-        {
-          "template": "draghi cabinet"
-        },
-        {
-          "template": "italy-politician-stub"
-        }
-      ]
     }
   ]
 }

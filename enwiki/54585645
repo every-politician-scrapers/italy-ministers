@@ -37,19 +37,7 @@
               "text": "He served as a helicopter pilot before transitioning to jets."
             },
             {
-              "text": "He became carrier qualified on the USS Lexington (CV-16).",
-              "links": [
-                {
-                  "text": "USS ''Lexington'' (CV-16)",
-                  "type": "internal",
-                  "page": "USS Lexington (CV-16)"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Lexington"
-                ]
-              }
+              "text": "He became carrier qualified on the."
             },
             {
               "text": "He joined the new Italian Harrier squadron, serving as commander."
@@ -111,7 +99,7 @@
           "template": "navy"
         },
         {
-          "name": "Lexington",
+          "ship": "Lexington",
           "id": "CV-16",
           "list": [
             "6"
@@ -184,49 +172,6 @@
           "type": "inline",
           "data": {},
           "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-mil"
-        },
-        {
-          "before": "Walter Girardelli",
-          "template": "s-bef"
-        },
-        {
-          "title": "Chief of Staff of the Italian Navy",
-          "years": "2019–2021",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Enrico Credendino",
-          "template": "s-aft"
-        },
-        {
-          "before": "Enzo Vecciarelli",
-          "template": "s-bef"
-        },
-        {
-          "title": "Chief of the Defence Staff",
-          "years": "2021",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "authority control"
         }
       ]
     }
