@@ -89,6 +89,10 @@
           "template": "short description"
         },
         {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1979",
           "month": "01",
           "day": "04",
