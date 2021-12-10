@@ -84,7 +84,7 @@
             "text": "Mariastella Gelmini"
           },
           "image": {
-            "text": "Mariastella Gelimini 2019.jpg"
+            "text": "Mariastella Gelmini 2021 (cropped).jpg"
           },
           "office": {
             "text": "Minister of Regional Affairs and Autonomies",
@@ -209,16 +209,6 @@
               }
             ]
           },
-          "nationality": {
-            "text": "Italian",
-            "links": [
-              {
-                "text": "Italian",
-                "type": "internal",
-                "page": "Italians"
-              }
-            ]
-          },
           "alma_mater": {
             "text": "University of Reggio Calabria",
             "links": [
@@ -235,8 +225,18 @@
             "text": "Emma Patelli"
           },
           "party": {
-            "text": "FI",
+            "text": "FI (1994–2009) PdL (2009–2013) FI (2013–present)",
             "links": [
+              {
+                "text": "FI",
+                "type": "internal",
+                "page": "Forza Italia"
+              },
+              {
+                "text": "PdL",
+                "type": "internal",
+                "page": "The People of Freedom"
+              },
               {
                 "text": "FI",
                 "type": "internal",
