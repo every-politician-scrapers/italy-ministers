@@ -135,7 +135,7 @@
             "text": "Maria Rosaria Carfagna"
           },
           "image": {
-            "text": "Mara Carfagna in Bicocca.jpg"
+            "text": "Mara Carfagna 2021 cropped.jpg"
           },
           "office": {
             "text": "Minister for the South and Territorial Cohesion",
@@ -233,31 +233,6 @@
           "term_start2": {
             "text": "28 April 2006"
           },
-          "office3": {
-            "text": "Vice President of the Chamber of Deputies",
-            "links": [
-              {
-                "text": "Chamber of Deputies",
-                "type": "internal",
-                "page": "Italian Chamber of Deputies"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "29 March 2018"
-          },
-          "term_end3": {
-            "text": "15 February 2021"
-          },
-          "president3": {
-            "text": "Roberto Fico",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Roberto Fico"
-              }
-            ]
-          },
           "birth_date": {
             "text": "December 18, 1975"
           },
@@ -269,9 +244,6 @@
                 "page": "Salerno"
               }
             ]
-          },
-          "nationality": {
-            "text": "Italian"
           },
           "alma_mater": {
             "text": "University of Salerno",
@@ -307,13 +279,7 @@
             ]
           },
           "partner": {
-            "text": "Alessandro Ruben (2013–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alessandro Ruben"
-              }
-            ]
+            "text": "Alessandro Ruben (2013–present)"
           },
           "children": {
             "text": "Vittoria"
