@@ -232,6 +232,15 @@
               ]
             },
             {
+              "text": "In 2021, Politico Europe ranked him as the most powerful person in Europe.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Politico Europe"
+                }
+              ]
+            },
+            {
               "text": "In 2019, Paul Krugman described him as \"the greatest central banker of modern times.\"",
               "links": [
                 {
@@ -634,6 +643,12 @@
           "accessdate": "3 February 2021",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "template": "citation",
