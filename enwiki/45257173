@@ -229,7 +229,7 @@
             ]
           },
           "education": {
-            "text": "University of Milan European University Institute",
+            "text": "University of Milan European University Institute Aix-Marseille University",
             "links": [
               {
                 "type": "internal",
@@ -238,6 +238,10 @@
               {
                 "type": "internal",
                 "page": "European University Institute"
+              },
+              {
+                "type": "internal",
+                "page": "Aix-Marseille University"
               }
             ]
           }
