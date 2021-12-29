@@ -279,7 +279,13 @@
             ]
           },
           "partner": {
-            "text": "Alessandro Ruben (2013–present)"
+            "text": "Alessandro Ruben (2013–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alessandro Ruben"
+              }
+            ]
           },
           "children": {
             "text": "Vittoria"
