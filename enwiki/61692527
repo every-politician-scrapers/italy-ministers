@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Luciana Lamorgese (born 11 September 1953) is an Italian civil servant and prefect, and Minister of the Interior in the Conte II Cabinet since 5 September 2019.",
+              "text": "Luciana Lamorgese (born 11 September 1953) is an Italian civil servant who has been serving as Minister of the Interior in the governments of prime ministers Giuseppe Conte and Mario Draghi since 2019.",
               "links": [
                 {
                   "text": "civil servant",
@@ -28,18 +28,22 @@
                   "page": "civil servant"
                 },
                 {
-                  "text": "prefect",
-                  "type": "internal",
-                  "page": "prefect"
-                },
-                {
                   "text": "Minister of the Interior",
                   "type": "internal",
                   "page": "Italian Minister of the Interior"
                 },
                 {
+                  "text": "prime ministers",
                   "type": "internal",
-                  "page": "Conte II Cabinet"
+                  "page": "Prime Minister of Italy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Giuseppe Conte"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mario Draghi"
                 }
               ],
               "formatting": {
@@ -47,15 +51,6 @@
                   "Luciana Lamorgese"
                 ]
               }
-            },
-            {
-              "text": "On February 13, 2021, she was confirmed in the same post within the new Draghi Cabinet.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Draghi Cabinet"
-                }
-              ]
             }
           ]
         }
