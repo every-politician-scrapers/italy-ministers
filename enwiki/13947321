@@ -112,7 +112,7 @@
         {
           "sentences": [
             {
-              "text": "As of 2021, four prime ministers have served under Mattarella's presidency: Matteo Renzi, then the PD's leader and main sponsor of Mattarella's candidacy, Paolo Gentiloni, a leading member of the Democratic Party who succeeded Renzi after his resignation in 2016, Giuseppe Conte, an independent politician who governed both with right-wing and left-wing coalitions in two consecutive cabinets, as well as Mario Draghi, a banker and former President of the European Central Bank, who was appointed by Mattarella to lead a national unity government following Conte's resignation.",
+              "text": "As of 2022, four prime ministers have served under Mattarella's presidency: Matteo Renzi, then the PD's leader and main sponsor of Mattarella's candidacy, Paolo Gentiloni, a leading member of the Democratic Party who succeeded Renzi after his resignation in 2016, Giuseppe Conte, an independent politician who governed both with right-wing and left-wing coalitions in two consecutive cabinets, as well as Mario Draghi, a banker and former President of the European Central Bank, who was appointed by Mattarella to lead a national unity government following Conte's resignation.",
               "links": [
                 {
                   "type": "internal",
@@ -576,10 +576,13 @@
       ],
       "references": [
         {
+          "title": "l'elezione del Presidente Sergio Mattarella",
+          "url": "https://www.quirinale.it/page/elezione",
+          "website": "Quirinale",
+          "access-date": "1 January 2022",
+          "language": "it",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "https://www.telegraph.co.uk/news/2016/12/03/europe-holds-breath-italy-heads-polls-critical-referendum/",
