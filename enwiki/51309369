@@ -20,7 +20,15 @@
         {
           "sentences": [
             {
-              "text": "Roberto Fico (born 10 October 1974) is an Italian politician and member of the Five Star Movement serving as President of the Italian Chamber of Deputies since 2018.",
+              "text": "Roberto Fico (born 10 October 1974) is an Italian politician.",
+              "formatting": {
+                "bold": [
+                  "Roberto Fico"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Five Star Movement, and has been serving as President of the Italian Chamber of Deputies since 2018.",
               "links": [
                 {
                   "type": "internal",
@@ -36,12 +44,7 @@
                   "type": "internal",
                   "page": "Chamber of Deputies (Italy)"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Roberto Fico"
-                ]
-              }
+              ]
             },
             {
               "text": "Previously, he was the Chairman of the RAI Supervision Commission from 2013 to 2018.",
@@ -126,19 +129,11 @@
             "text": "October 10, 1974"
           },
           "birth_place": {
-            "text": "Naples, Campania, Italy",
+            "text": "Naples, Italy",
             "links": [
               {
                 "type": "internal",
                 "page": "Naples"
-              },
-              {
-                "type": "internal",
-                "page": "Campania"
-              },
-              {
-                "type": "internal",
-                "page": "Italy"
               }
             ]
           },
