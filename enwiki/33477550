@@ -182,24 +182,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "work": "la Repubblica",
-          "date": "20 October 2011",
-          "access-date": "21 October 2011",
-          "title": "Bankitalia, alla fine l'outsider: Berlusconi sceglie Ignazio Visco",
-          "url": "http://www.repubblica.it/economia/2011/10/20/news/bankitalia_il_giorno_della_verit-23534348/?ref=HRER1-1",
-          "language": "it",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

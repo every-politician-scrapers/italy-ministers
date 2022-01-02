@@ -166,26 +166,6 @@
             }
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Ludovico",
-          "first": "Marco",
-          "date": "2021-10-20",
-          "title": "Cavo Dragone al vertice della Difesa. Pilota di Harrier e interista sfegatato",
-          "url": "https://www.ilsole24ore.com/art/cavo-dragone-vertice-difesa-pilota-harrier-e-interista-sfegatato-AEKZ4Dr",
-          "access-date": "2021-10-20",
-          "website": "Il Sole 24 ORE",
-          "language": "it",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

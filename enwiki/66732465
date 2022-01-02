@@ -129,30 +129,6 @@
             "text": "Economist, professor"
           }
         }
-      ],
-      "references": [
-        {
-          "date": "2021-02-12",
-          "title": "Italy's Draghi presents new gov't",
-          "url": "https://www.laprensalatina.com/italys-draghi-presents-new-govt/",
-          "access-date": "2021-02-12",
-          "website": "La Prensa Latina Media",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "MANCA",
-          "first": "PAOLA BENEDETTA",
-          "title": "Governo Draghi: Patrizio Bianchi ministro dell'Istruzione",
-          "url": "https://www.ilrestodelcarlino.it/politica/governo-draghi-patrizio-bianchi-1.6015984",
-          "url-status": "live",
-          "access-date": "2021-02-12",
-          "website": "il Resto del Carlino",
-          "language": "it",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
