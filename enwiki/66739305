@@ -185,24 +185,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.theguardian.com/world/2021/feb/12/mario-draghis-new-italian-government-to-be-sworn-in-on-saturday",
-          "title": "Mario Draghi's new government to be sworn in on Saturday",
-          "date": "13 February 2021",
-          "work": "The Guardian",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.reuters.com/article/us-italy-politics-ministers-factbox/factbox-technocrat-ministers-in-draghis-new-italian-government-idUSKBN2AC2EQ?edition-redirect=in",
-          "title": "Factbox: Technocrat ministers in Draghi's new Italian government",
-          "date": "13 February 2021",
-          "publisher": "Reuters",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

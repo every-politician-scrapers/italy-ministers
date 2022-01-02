@@ -573,64 +573,6 @@
             "text": "Mattarella firma.svg"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "l'elezione del Presidente Sergio Mattarella",
-          "url": "https://www.quirinale.it/page/elezione",
-          "website": "Quirinale",
-          "access-date": "1 January 2022",
-          "language": "it",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.telegraph.co.uk/news/2016/12/03/europe-holds-breath-italy-heads-polls-critical-referendum/",
-          "title": "Europe holds its breath as Italy heads to the polls for critical referendum",
-          "newspaper": "The Telegraph",
-          "date": "3 December 2016",
-          "last1": "Foster",
-          "first1": "Peter",
-          "last2": "Squires",
-          "first2": "Nick",
-          "last3": "Vogt",
-          "first3": "Andrea",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Borrelli",
-          "first1": "Silvia Sciorilli",
-          "title": "Matteo Salvini calls confidence vote in Italian PM",
-          "url": "https://www.politico.eu/article/italy-salvini-calls-confidence-vote-in-pm-conte/",
-          "access-date": "5 September 2019",
-          "work": "POLITICO",
-          "date": "9 August 2019",
-          "archive-url": "https://web.archive.org/web/20190816182951/https://www.politico.eu/article/italy-salvini-calls-confidence-vote-in-pm-conte/",
-          "archive-date": "16 August 2019",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.theguardian.com/world/2021/feb/12/mario-draghis-new-italian-government-to-be-sworn-in-on-saturday",
-          "title": "Mario Draghi's new government to be sworn in on Saturday",
-          "date": "12 February 2021",
-          "website": "The Guardian",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "author": "Rovelli, Michela",
-          "title": "Governo, Gentiloni accetta l'incarico di governo: \"Un grande onore\"",
-          "url": "https://www.corriere.it/la-crisi-di-governo/notizie/crisi-governo-sergio-mattarella-convoca-gentiloni-quirinale-6b7c7ed8-bf78-11e6-ab31-2a5a06e0ce0a.shtml",
-          "language": "it",
-          "access-date": "14 April 2019",
-          "work": "Corriere della Sera",
-          "date": "11 December 2016",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

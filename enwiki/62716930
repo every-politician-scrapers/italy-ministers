@@ -172,38 +172,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.thelocal.it/20190904/here-is-italy-new-cabinet-in-full",
-          "title": "Here is Italy's new cabinet in full",
-          "website": "www.thelocal.it",
-          "url-status": "live",
-          "access-date": "2020-01-02",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "VII. Fall of The Orlando Cabinet",
-          "date": "1938-12-31",
-          "work": "Italy at the Paris Peace Conference",
-          "pages": "184–200",
-          "publisher": "Columbia University Press",
-          "doi": "10.7312/albr91646-010",
-          "isbn": "978-0-231-88476-1",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "url": "https://italicsmag.com/2019/09/04/italy-new-government-conte-releases-cabinet-list/",
-          "title": "Italy's New Government: Conte Releases Cabinet List",
-          "date": "2019-09-04",
-          "website": "Italics Magazine",
-          "language": "en-US",
-          "access-date": "2020-01-02",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

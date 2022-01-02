@@ -365,23 +365,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.repubblica.it/politica/2019/09/04/news/governo_conte_bis_ecco_la_lista_completa_dei_ministri-235193829/",
-          "title": "Governo Conte bis: ecco la lista completa dei ministri",
-          "date": "September 4, 2019",
-          "website": "Repubblica.it",
-          "accessdate": "5 September 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

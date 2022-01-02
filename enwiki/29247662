@@ -244,21 +244,6 @@
             "text": "Lawyer · professor · politician"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Profile of Maria Elisabetta Alberti Casellati",
-          "url": "http://www.senato.it/leg/18/BGT/Schede/Attsen/00000032.htm",
-          "publisher": "The official website of the Senate of the Italian Republic",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -380,40 +380,6 @@
             "text": "Luigi Di Maio signature.svg"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.firstthings.com/web-exclusives/2018/06/italy-challenges-the-postwar-order",
-          "title": "Italy Challenges the Postwar Order - Alessandra Bocchi",
-          "website": "First Things",
-          "access-date": "17 February 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.ilsole24ore.com/art/notizie/2017-09-23/di-maio-candidato-premier-m5s-quasi-31mila-voti-191644.shtml?uuid=AELlWgYC",
-          "title": "Di Maio candidato premier M5S con quasi 31mila voti",
-          "website": "Il Sole 24 ORE",
-          "access-date": "17 February 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-01-22",
-          "title": "Luigi Di Maio resigns as leader of Italy's Five Star Movement",
-          "url": "http://www.theguardian.com/world/2020/jan/22/luigi-di-maio-resigns-as-leader-of-italys-five-star-movement",
-          "access-date": "2021-09-23",
-          "website": "the Guardian",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
