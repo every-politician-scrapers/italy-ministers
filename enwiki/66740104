@@ -63,27 +63,6 @@
               }
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "From 2019 until 2021, Cingolani was the technology and innovation officer at Leonardo S.p.A.; before this, he was scientific director at the Istituto Italiano di Tecnologia in Genoa from 2005 to 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Leonardo S.p.A."
-                },
-                {
-                  "type": "internal",
-                  "page": "Istituto Italiano di Tecnologia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Genoa"
-                }
-              ]
-            }
-          ]
         }
       ],
       "templates": [
