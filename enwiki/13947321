@@ -35,7 +35,7 @@
         {
           "sentences": [
             {
-              "text": "Sergio Mattarella (born 23 July 1941) is an Italian politician, jurist, academic, and lawyer who has served as president of Italy since 2015.",
+              "text": "Sergio Mattarella (born 23 July 1941) is an Italian politician, jurist, academic, and lawyer who has served as the president of Italy since 2015.",
               "links": [
                 {
                   "text": "president of Italy",
@@ -146,7 +146,7 @@
       ],
       "templates": [
         {
-          "description": "12th president of Italy",
+          "description": "President of Italy since 2015",
           "template": "short description"
         },
         {
