@@ -134,7 +134,7 @@
             ]
           },
           "primeminister": {
-            "text": "Giuseppe Conte Mario Draghi",
+            "text": "Giuseppe Conte\nMario Draghi",
             "links": [
               {
                 "type": "internal",
@@ -346,7 +346,7 @@
             "text": "15 March 2013"
           },
           "constituency6": {
-            "text": "Campania 1 (2013–2018) Naples–Acerra (2018–present)"
+            "text": "Campania 1 (2013–2018)\nNaples–Acerra (2018–present)"
           },
           "birth_date": {
             "text": "July 6, 1986"
