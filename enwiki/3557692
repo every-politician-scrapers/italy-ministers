@@ -395,11 +395,8 @@
           "image": {
             "text": "Mario Draghi 2021 cropped.jpg"
           },
-          "caption": {
-            "text": "Draghi in 2021"
-          },
           "office1": {
-            "text": "Prime Minister of Italy",
+            "text": "87th Prime Minister of Italy",
             "links": [
               {
                 "type": "internal",
