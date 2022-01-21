@@ -367,6 +367,7 @@
           "year": "1947",
           "month": "9",
           "day": "3",
+          "df": "y",
           "template": "birth date and age"
         },
         {
@@ -396,7 +397,7 @@
             "text": "Mario Draghi 2021 cropped.jpg"
           },
           "office1": {
-            "text": "87th Prime Minister of Italy",
+            "text": "Prime Minister of Italy",
             "links": [
               {
                 "type": "internal",
@@ -414,7 +415,7 @@
             ]
           },
           "term_start1": {
-            "text": "February 13, 2021"
+            "text": "13 February 2021"
           },
           "predecessor1": {
             "text": "Giuseppe Conte",
@@ -448,10 +449,10 @@
             ]
           },
           "term_start2": {
-            "text": "November 1, 2011"
+            "text": "1 November 2011"
           },
           "term_end2": {
-            "text": "October 31, 2019"
+            "text": "31 October 2019"
           },
           "predecessor2": {
             "text": "Jean-Claude Trichet",
@@ -482,10 +483,10 @@
             ]
           },
           "term_start3": {
-            "text": "April 2, 2009"
+            "text": "2 April 2009"
           },
           "term_end3": {
-            "text": "November 4, 2011"
+            "text": "4 November 2011"
           },
           "predecessor3": {
             "text": "Position established",
@@ -514,10 +515,10 @@
             ]
           },
           "term_start4": {
-            "text": "January 16, 2006"
+            "text": "16 January 2006"
           },
           "term_end4": {
-            "text": "October 31, 2011"
+            "text": "31 October 2011"
           },
           "predecessor4": {
             "text": "Antonio Fazio",
