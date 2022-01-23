@@ -13,7 +13,8 @@
     "People from San Giorgio su Legnano",
     "Presidents of the Constitutional Court of Italy",
     "University of Milano-Bicocca faculty",
-    "Vice Presidents of the Constitutional Court of Italy"
+    "Vice Presidents of the Constitutional Court of Italy",
+    "University of Milan alumni"
   ],
   "sections": [
     {
@@ -253,6 +254,16 @@
               {
                 "type": "internal",
                 "page": "Aix-Marseille University"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
               }
             ]
           }
