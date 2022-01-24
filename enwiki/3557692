@@ -36,7 +36,7 @@
         {
           "sentences": [
             {
-              "text": "Mario Draghi (born 3 September 1947) is an Italian economist, banker, academic and politician who is the current Prime Minister of Italy since 13 February 2021.",
+              "text": "Mario Draghi (born 3 September 1947) is an Italian economist, banker, academic and civil servant who is the current Prime Minister of Italy since 13 February 2021.",
               "links": [
                 {
                   "text": "economist",
@@ -54,9 +54,9 @@
                   "page": "academic"
                 },
                 {
-                  "text": "politician",
+                  "text": "civil servant",
                   "type": "internal",
-                  "page": "politician"
+                  "page": "civil servant"
                 },
                 {
                   "type": "internal",
