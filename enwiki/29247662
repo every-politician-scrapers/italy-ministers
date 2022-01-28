@@ -40,17 +40,12 @@
         {
           "sentences": [
             {
-              "text": "Maria Elisabetta Casellati, née Alberti (born 12 August 1946), is an Italian lawyer and politician serving as President of the Italian Senate since 2018.",
+              "text": "Maria Elisabetta Casellati (born 12 August 1946) is an Italian lawyer and politician serving as President of the Italian Senate since 2018.",
               "links": [
-                {
-                  "text": "née",
-                  "type": "internal",
-                  "page": "née"
-                },
                 {
                   "text": "Italian",
                   "type": "internal",
-                  "page": "Italy"
+                  "page": "Italians"
                 },
                 {
                   "text": "President",
@@ -64,8 +59,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Maria Elisabetta Casellati",
-                  "Alberti"
+                  "Maria Elisabetta Casellati"
                 ]
               }
             },
@@ -101,6 +95,18 @@
           "day": "12",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Alberti"
+          ],
+          "template": "née"
+        },
+        {
+          "list": [
+            "Often known by both her maiden and married surnames as Maria Elisabetta Alberti Casellati."
+          ],
+          "template": "notetag"
         }
       ],
       "infoboxes": [
