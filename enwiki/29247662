@@ -19,6 +19,7 @@
     "Women government ministers of Italy",
     "21st-century Italian women politicians",
     "20th-century Italian women politicians",
+    "Candidates for President of Italy",
     "Presidents of the Italian Senate",
     "Senators of Legislature XII of Italy",
     "Senators of Legislature XIV of Italy",
@@ -78,6 +79,20 @@
                   "text": "Forza Italia",
                   "type": "internal",
                   "page": "Forza Italia (2013)"
+                }
+              ]
+            },
+            {
+              "text": "In 2022, she is nominated as candidate for President of Italy by centre-right coalition.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Italy"
+                },
+                {
+                  "text": "centre-right coalition",
+                  "type": "internal",
+                  "page": "centre-right coalition"
                 }
               ]
             }
