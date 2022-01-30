@@ -93,7 +93,7 @@
               ]
             },
             {
-              "text": "On 31 January 2015, Mattarella was elected to the presidency at the fourth ballot, supported by a broad centre to centre-left majority led by the Democratic Party (PD).",
+              "text": "On 31 January 2015, Mattarella was elected to the presidency on the fourth ballot, supported by a broad centre to centre-left majority led by the Democratic Party (PD), and was re-elected on the eighth ballot to a second term on 29 January 2022.",
               "links": [
                 {
                   "text": "elected",
@@ -104,6 +104,11 @@
                   "text": "Democratic Party",
                   "type": "internal",
                   "page": "Democratic Party (Italy)"
+                },
+                {
+                  "text": "re-elected",
+                  "type": "internal",
+                  "page": "2022 Italian presidential election"
                 }
               ]
             }
