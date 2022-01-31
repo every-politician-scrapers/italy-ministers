@@ -3,14 +3,18 @@
   "pageID": 13947321,
   "categories": [
     "1941 births",
+    "20th-century Italian politicians",
+    "21st-century Italian politicians",
     "Candidates for President of Italy",
     "Christian Democracy (Italy) politicians",
-    "20th-century Italian politicians",
     "Democracy is Freedom – The Daisy politicians",
     "Democratic Party (Italy) politicians",
-    "21st-century Italian politicians",
+    "Deputy Prime Ministers of Italy",
     "Education ministers of Italy",
+    "First Class of the Order of the Star of Romania",
     "Government ministers of Italy",
+    "Grand Crosses Special Class of the Order of Merit of the Federal Republic of Germany",
+    "Honorary Knights Commander of the Order of the British Empire",
     "Italian Ministers of Defence",
     "Italian People's Party (1994) politicians",
     "Italian Roman Catholics",
@@ -19,13 +23,10 @@
     "Members of the Chamber of Deputies (Italy)",
     "Politicians from Palermo",
     "Presidents of Italy",
-    "Deputy Prime Ministers of Italy",
-    "Recipients of the Heydar Aliyev Order",
-    "Honorary Knights Commander of the Order of the British Empire",
     "Recipients of the Collar of the Order of the Cross of Terra Mariana",
-    "Grand Crosses Special Class of the Order of Merit of the Federal Republic of Germany",
+    "Recipients of the Heydar Aliyev Order",
     "Sapienza University of Rome alumni",
-    "First Class of the Order of the Star of Romania"
+    "Mattarella family"
   ],
   "sections": [
     {
@@ -35,12 +36,11 @@
         {
           "sentences": [
             {
-              "text": "Sergio Mattarella (born 23 July 1941) is an Italian politician, jurist, academic, and lawyer who has served as the president of Italy since 2015.",
+              "text": "Sergio Mattarella (born 23 July 1941) is an Italian politician, jurist, academic and lawyer who has served as President of Italy since 2015.",
               "links": [
                 {
-                  "text": "president of Italy",
                   "type": "internal",
-                  "page": "president of Italy"
+                  "page": "President of Italy"
                 }
               ],
               "formatting": {
@@ -48,26 +48,15 @@
                   "Sergio Mattarella"
                 ]
               }
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "A Christian leftist politician, Mattarella served as Minister for Parliamentary Relations from 1987 to 1989, Minister of Public Education from 1989 to 1990, Deputy Prime Minister of Italy from 1998 to 1999 and Minister of Defence from 1999 to 2001.",
+              "text": "He previously served as Italian Minister for Parliamentary Relations from 1987 to 1989, Italian Minister of Education from 1989 to 1990, Deputy Prime Minister of Italy from 1998 to 1999 and Italian Minister of Defence from 1999 to 2001.",
               "links": [
                 {
-                  "text": "Christian leftist",
-                  "type": "internal",
-                  "page": "Christian left"
-                },
-                {
-                  "text": "Minister for Parliamentary Relations",
                   "type": "internal",
                   "page": "Italian Minister for Parliamentary Relations"
                 },
                 {
-                  "text": "Minister of Public Education",
                   "type": "internal",
                   "page": "Italian Minister of Education"
                 },
@@ -76,24 +65,22 @@
                   "page": "Deputy Prime Minister of Italy"
                 },
                 {
-                  "text": "Minister of Defence",
                   "type": "internal",
                   "page": "Italian Minister of Defence"
                 }
               ]
             },
             {
-              "text": "In 2011, he became an elected judge on the Constitutional Court.",
+              "text": "In 2011, Mattarella became an elected judge on the Constitutional Court of Italy.",
               "links": [
                 {
-                  "text": "Constitutional Court",
                   "type": "internal",
                   "page": "Constitutional Court of Italy"
                 }
               ]
             },
             {
-              "text": "On 31 January 2015, Mattarella was elected to the presidency on the fourth ballot, supported by a broad centre to centre-left majority led by the Democratic Party (PD), and was re-elected on the eighth ballot to a second term on 29 January 2022.",
+              "text": "On 31 January 2015, he was elected to the presidency on the fourth ballot, supported by the centre-left coalition majority led by the Democratic Party (PD) and centrist parties.",
               "links": [
                 {
                   "text": "elected",
@@ -101,12 +88,22 @@
                   "page": "2015 Italian presidential election"
                 },
                 {
+                  "text": "centre-left coalition",
+                  "type": "internal",
+                  "page": "centre-left coalition"
+                },
+                {
                   "text": "Democratic Party",
                   "type": "internal",
                   "page": "Democratic Party (Italy)"
-                },
+                }
+              ]
+            },
+            {
+              "text": "He was reelected for a second term on 29 January 2022, becoming the second Italian President to be reelected.",
+              "links": [
                 {
-                  "text": "re-elected",
+                  "text": "reelected",
                   "type": "internal",
                   "page": "2022 Italian presidential election"
                 }
@@ -117,7 +114,7 @@
         {
           "sentences": [
             {
-              "text": "As of 2022, four prime ministers have served under Mattarella's presidency: Matteo Renzi, then the PD's leader and main sponsor of Mattarella's candidacy, Paolo Gentiloni, a leading member of the Democratic Party who succeeded Renzi after his resignation in 2016, Giuseppe Conte, an independent politician who governed both with right-wing and left-wing coalitions in two consecutive cabinets, as well as Mario Draghi, a banker and former President of the European Central Bank, who was appointed by Mattarella to lead a national unity government following Conte's resignation.",
+              "text": "As of 2022, four prime ministers have served under Mattarella's presidency, among them Matteo Renzi, then the PD's leader and main sponsor of Mattarella's candidacy, Paolo Gentiloni, a leading member of the PD who succeeded Renzi after his resignation in 2016, Giuseppe Conte, an independent politician who governed both with right-wing and left-wing coalitions in two consecutive cabinets, and Mario Draghi, a banker and former president of the European Central Bank, who was appointed by Mattarella to lead a national unity government following Conte's resignation.",
               "links": [
                 {
                   "type": "internal",
@@ -132,12 +129,18 @@
                   "page": "Giuseppe Conte"
                 },
                 {
+                  "text": "independent politician",
+                  "type": "internal",
+                  "page": "independent politician"
+                },
+                {
                   "type": "internal",
                   "page": "Mario Draghi"
                 },
                 {
+                  "text": "president of the European Central Bank",
                   "type": "internal",
-                  "page": "President of the European Central Bank"
+                  "page": "president of the European Central Bank"
                 },
                 {
                   "text": "national unity government",
@@ -153,6 +156,10 @@
         {
           "description": "President of Italy since 2015",
           "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "use dmy dates"
         },
         {
           "_list": "OMRI OMCA",
@@ -184,16 +191,6 @@
       ],
       "infoboxes": [
         {
-          "honorific_prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "text": "His Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              }
-            ]
-          },
           "name": {
             "text": "Sergio Mattarella"
           },
@@ -246,16 +243,9 @@
             ]
           },
           "office1": {
-            "text": "Judge of the Constitutional Court",
+            "text": "Judge of the Constitutional Court of Italy",
             "links": [
               {
-                "text": "Judge",
-                "type": "internal",
-                "page": "Constitutional Court of Italy",
-                "anchor": "Membership"
-              },
-              {
-                "text": "Constitutional Court",
                 "type": "internal",
                 "page": "Constitutional Court of Italy"
               }
@@ -274,10 +264,9 @@
             "text": "Ugo De Siervo"
           },
           "successor1": {
-            "text": "Augusto Barbera",
+            "text": "Augusto Antonio Barbera",
             "links": [
               {
-                "text": "Augusto Barbera",
                 "type": "internal",
                 "page": "Augusto Antonio Barbera"
               }
@@ -290,10 +279,9 @@
             "text": "2 February 2015"
           },
           "office2": {
-            "text": "Minister of Defence",
+            "text": "Italian Minister of Defence",
             "links": [
               {
-                "text": "Minister of Defence",
                 "type": "internal",
                 "page": "Italian Minister of Defence"
               }
@@ -379,10 +367,9 @@
             ]
           },
           "office4": {
-            "text": "Minister of Public Education",
+            "text": "Italian Minister of Education",
             "links": [
               {
-                "text": "Minister of Public Education",
                 "type": "internal",
                 "page": "Italian Minister of Education"
               }
@@ -422,10 +409,9 @@
             ]
           },
           "office5": {
-            "text": "Minister for Parliamentary Relations",
+            "text": "Italian Minister for Parliamentary Relations",
             "links": [
               {
-                "text": "Minister for Parliamentary Relations",
                 "type": "internal",
                 "page": "Italian Minister for Parliamentary Relations"
               }
@@ -508,7 +494,7 @@
             ]
           },
           "party": {
-            "text": "Independent (2008–present)",
+            "text": "Independent (since 2008)",
             "links": [
               {
                 "text": "Independent",
@@ -546,7 +532,7 @@
             "text": "Marisa Chiazzese (m. 1966-2012)"
           },
           "children": {
-            "text": "Laura\n\nBernardo Giorgio\n\nFrancesco",
+            "text": "3, including Laura",
             "links": [
               {
                 "text": "Laura",
@@ -565,10 +551,9 @@
             ]
           },
           "alma_mater": {
-            "text": "Sapienza University",
+            "text": "Sapienza University of Rome",
             "links": [
               {
-                "text": "Sapienza University",
                 "type": "internal",
                 "page": "Sapienza University of Rome"
               }
