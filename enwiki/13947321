@@ -20,13 +20,13 @@
     "Italian Roman Catholics",
     "Judges of the Constitutional Court of Italy",
     "Living people",
+    "Mattarella family",
     "Members of the Chamber of Deputies (Italy)",
     "Politicians from Palermo",
     "Presidents of Italy",
     "Recipients of the Collar of the Order of the Cross of Terra Mariana",
     "Recipients of the Heydar Aliyev Order",
-    "Sapienza University of Rome alumni",
-    "Mattarella family"
+    "Sapienza University of Rome alumni"
   ],
   "sections": [
     {
@@ -36,11 +36,12 @@
         {
           "sentences": [
             {
-              "text": "Sergio Mattarella (born 23 July 1941) is an Italian politician, jurist, academic and lawyer who has served as President of Italy since 2015.",
+              "text": "Sergio Mattarella (born 23 July 1941) is an Italian politician, jurist, academic, and lawyer who has served as the president of Italy since 2015.",
               "links": [
                 {
+                  "text": "president of Italy",
                   "type": "internal",
-                  "page": "President of Italy"
+                  "page": "president of Italy"
                 }
               ],
               "formatting": {
@@ -50,7 +51,7 @@
               }
             },
             {
-              "text": "He previously served as Italian Minister for Parliamentary Relations from 1987 to 1989, Italian Minister of Education from 1989 to 1990, Deputy Prime Minister of Italy from 1998 to 1999 and Italian Minister of Defence from 1999 to 2001.",
+              "text": "He previously served as Italian Minister for Parliamentary Relations from 1987 to 1989, Italian Minister of Education from 1989 to 1990, Deputy Prime Minister of Italy from 1998 to 1999, and Italian Minister of Defence from 1999 to 2001.",
               "links": [
                 {
                   "type": "internal",
@@ -100,10 +101,10 @@
               ]
             },
             {
-              "text": "He was reelected for a second term on 29 January 2022, becoming the second Italian President to be reelected.",
+              "text": "He was re-elected for a second term on 29 January 2022, becoming the second Italian president to be re-elected.",
               "links": [
                 {
-                  "text": "reelected",
+                  "text": "re-elected",
                   "type": "internal",
                   "page": "2022 Italian presidential election"
                 }
@@ -156,6 +157,10 @@
         {
           "description": "President of Italy since 2015",
           "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "use british english"
         },
         {
           "date": "January 2022",
@@ -279,9 +284,10 @@
             "text": "2 February 2015"
           },
           "office2": {
-            "text": "Italian Minister of Defence",
+            "text": "Minister of Defence",
             "links": [
               {
+                "text": "Minister of Defence",
                 "type": "internal",
                 "page": "Italian Minister of Defence"
               }
@@ -367,9 +373,10 @@
             ]
           },
           "office4": {
-            "text": "Italian Minister of Education",
+            "text": "Minister of Education",
             "links": [
               {
+                "text": "Minister of Education",
                 "type": "internal",
                 "page": "Italian Minister of Education"
               }
@@ -409,9 +416,10 @@
             ]
           },
           "office5": {
-            "text": "Italian Minister for Parliamentary Relations",
+            "text": "Minister for Parliamentary Relations",
             "links": [
               {
+                "text": "Minister for Parliamentary Relations",
                 "type": "internal",
                 "page": "Italian Minister for Parliamentary Relations"
               }
