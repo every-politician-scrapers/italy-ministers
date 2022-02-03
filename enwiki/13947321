@@ -39,6 +39,11 @@
               "text": "Sergio Mattarella (born 23 July 1941) is an Italian politician, jurist, academic, and lawyer who has served as the president of Italy since 2015.",
               "links": [
                 {
+                  "text": "jurist",
+                  "type": "internal",
+                  "page": "jurist"
+                },
+                {
                   "text": "president of Italy",
                   "type": "internal",
                   "page": "president of Italy"
@@ -97,16 +102,25 @@
                   "text": "Democratic Party",
                   "type": "internal",
                   "page": "Democratic Party (Italy)"
+                },
+                {
+                  "text": "centrist",
+                  "type": "internal",
+                  "page": "Centrism"
                 }
               ]
             },
             {
-              "text": "He was re-elected for a second term on 29 January 2022, becoming the second Italian president to be re-elected.",
+              "text": "He was re-elected for a second term on 29 January 2022, becoming the second Italian president to be re-elected, the first one being Giorgio Napolitano.",
               "links": [
                 {
                   "text": "re-elected",
                   "type": "internal",
                   "page": "2022 Italian presidential election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Giorgio Napolitano"
                 }
               ]
             }
@@ -115,7 +129,7 @@
         {
           "sentences": [
             {
-              "text": "As of 2022, four prime ministers have served under Mattarella's presidency, among them Matteo Renzi, then the PD's leader and main sponsor of Mattarella's candidacy, Paolo Gentiloni, a leading member of the PD who succeeded Renzi after his resignation in 2016, Giuseppe Conte, an independent politician who governed both with right-wing and left-wing coalitions in two consecutive cabinets, and Mario Draghi, a banker and former president of the European Central Bank, who was appointed by Mattarella to lead a national unity government following Conte's resignation.",
+              "text": "As of 2022, four prime ministers have served under Mattarella's presidency, among them Matteo Renzi, then the PD's leader and main sponsor of Mattarella's candidacy, Paolo Gentiloni, a leading member of the PD who succeeded Renzi after his resignation in 2016, Giuseppe Conte, at that time an independent politician who governed both with right-wing and left-wing coalitions in two consecutive cabinets, and Mario Draghi, a banker and former president of the European Central Bank, who was appointed by Mattarella to lead a national unity government following Conte's resignation.",
               "links": [
                 {
                   "type": "internal",

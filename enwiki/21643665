@@ -72,7 +72,7 @@
         {
           "sentences": [
             {
-              "text": "He was a prominent member of the Italian People's Party (PPI), of the Daisy and the first Deputy Secretary of the Democratic Party.",
+              "text": "Franceschini was a prominent member of the Italian People's Party (PPI), of the Daisy and the first Deputy Secretary of the Democratic Party.",
               "links": [
                 {
                   "text": "Italian People's Party",
@@ -124,7 +124,7 @@
                 {
                   "text": "centrist",
                   "type": "internal",
-                  "page": "Centrism"
+                  "page": "centrist"
                 },
                 {
                   "text": "Christian leftist",
@@ -146,6 +146,10 @@
         }
       ],
       "templates": [
+        {
+          "description": "Italian lawyer, writer, and politician (born 1958)",
+          "template": "short description"
+        },
         {
           "date": "July 2020",
           "template": "use dmy dates"
