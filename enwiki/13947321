@@ -173,6 +173,13 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Sergio Mattarella"
+          ],
+          "date": "February 2022",
+          "template": "expand italian"
+        },
+        {
           "date": "January 2022",
           "template": "use british english"
         },
@@ -387,10 +394,10 @@
             ]
           },
           "office4": {
-            "text": "Minister of Education",
+            "text": "Minister of Public Education",
             "links": [
               {
-                "text": "Minister of Education",
+                "text": "Minister of Public Education",
                 "type": "internal",
                 "page": "Italian Minister of Education"
               }
