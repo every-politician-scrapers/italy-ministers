@@ -351,13 +351,6 @@
       ],
       "templates": [
         {
-          "list": [
-            "Mario Draghi"
-          ],
-          "date": "February 2022",
-          "template": "expand italian"
-        },
-        {
           "description": "Prime minister of Italy since 2021",
           "template": "short description"
         },

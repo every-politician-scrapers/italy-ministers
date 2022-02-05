@@ -93,7 +93,7 @@
               {
                 "text": "President of the Chamber of Deputies",
                 "type": "internal",
-                "page": "List of Presidents of the Italian Chamber of Deputies"
+                "page": "List of presidents of the Chamber of Deputies (Italy)"
               }
             ]
           },
@@ -109,7 +109,40 @@
               }
             ]
           },
-          "order1": {
+          "office1": {
+            "text": "Chairman of the RAI Supervision Commission",
+            "links": [
+              {
+                "type": "internal",
+                "page": "RAI"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "6 June 2013"
+          },
+          "term_end1": {
+            "text": "22 March 2018"
+          },
+          "predecessor1": {
+            "text": "Sergio Zavoli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sergio Zavoli"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Alberto Barachini",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alberto Barachini"
+              }
+            ]
+          },
+          "order2": {
             "text": "Member of the Chamber of Deputies",
             "links": [
               {
@@ -119,10 +152,10 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "15 March 2013"
           },
-          "constituency1": {
+          "constituency2": {
             "text": "Campania 1 (2013–2018) Naples–Fuorigrotta (2018–present)"
           },
           "birth_date": {
