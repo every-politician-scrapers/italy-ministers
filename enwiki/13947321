@@ -36,7 +36,7 @@
         {
           "sentences": [
             {
-              "text": "Sergio Mattarella (born 23 July 1941) is an Italian politician, jurist, academic, and lawyer who has served as the president of Italy since 2015.",
+              "text": "Sergio Mattarella (born 23 July 1941) is an Italian politician, jurist, academic and lawyer who has served as the president of Italy since 2015.",
               "links": [
                 {
                   "text": "president of Italy",
@@ -49,9 +49,27 @@
                   "Sergio Mattarella"
                 ]
               }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A Christian leftist politician, Mattarella was a leading member of the Christian Democracy from the early 1980s until its dissolution.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Christian leftist"
+                },
+                {
+                  "text": "Christian Democracy",
+                  "type": "internal",
+                  "page": "Christian Democracy (Italy)"
+                }
+              ]
             },
             {
-              "text": "He previously served as Italian Minister for Parliamentary Relations from 1987 to 1989, Italian Minister of Education from 1989 to 1990, Deputy Prime Minister of Italy from 1998 to 1999, and Italian Minister of Defence from 1999 to 2001.",
+              "text": "He also served as Italian Minister for Parliamentary Relations from 1987 to 1989, and Italian Minister of Education from 1989 to 1990.",
               "links": [
                 {
                   "type": "internal",
@@ -60,6 +78,16 @@
                 {
                   "type": "internal",
                   "page": "Italian Minister of Education"
+                }
+              ]
+            },
+            {
+              "text": "In 1994, Mattarella was among the founders of the Italian People's Party (PPI), serving as Deputy Prime Minister of Italy from 1998 to 1999, and Italian Minister of Defence from 1999 to 2001.",
+              "links": [
+                {
+                  "text": "Italian People's Party",
+                  "type": "internal",
+                  "page": "Italian People's Party (1994)"
                 },
                 {
                   "type": "internal",
@@ -72,16 +100,35 @@
               ]
             },
             {
-              "text": "In 2011, Mattarella became an elected judge on the Constitutional Court of Italy.",
+              "text": "In 2002, he joined The Daisy, while in 2007, Mattarella founded the Democratic Party (PD), which however left when he retired from politics in 2008.",
+              "links": [
+                {
+                  "text": "The Daisy",
+                  "type": "internal",
+                  "page": "Democracy is Freedom – The Daisy"
+                },
+                {
+                  "text": "Democratic Party",
+                  "type": "internal",
+                  "page": "Democratic Party (Italy)"
+                }
+              ]
+            },
+            {
+              "text": "In 2011, Mattarella became a judge of the Constitutional Court of Italy.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Constitutional Court of Italy"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "On 31 January 2015, he was elected to the presidency on the fourth ballot, supported by the centre-left coalition majority led by the Democratic Party (PD) and centrist parties.",
+              "text": "On 31 January 2015, he was elected to the presidency on the fourth ballot, supported by the centre-left coalition majority led by the Democratic Party and centrist parties.",
               "links": [
                 {
                   "text": "elected",
@@ -94,11 +141,6 @@
                   "page": "centre-left coalition"
                 },
                 {
-                  "text": "Democratic Party",
-                  "type": "internal",
-                  "page": "Democratic Party (Italy)"
-                },
-                {
                   "text": "centrist",
                   "type": "internal",
                   "page": "centrist"
@@ -106,7 +148,7 @@
               ]
             },
             {
-              "text": "He was re-elected for a second term on 29 January 2022, becoming the second Italian president to be re-elected, the first being his predecessor Giorgio Napolitano.",
+              "text": "Mattarella was re-elected for a second term on 29 January 2022, becoming the second Italian president to be re-elected, the first being his predecessor Giorgio Napolitano.",
               "links": [
                 {
                   "text": "re-elected",
@@ -166,13 +208,6 @@
         {
           "description": "President of Italy since 2015",
           "template": "short description"
-        },
-        {
-          "list": [
-            "Sergio Mattarella"
-          ],
-          "date": "February 2022",
-          "template": "expand italian"
         },
         {
           "date": "January 2022",
@@ -486,17 +521,23 @@
             "text": "28 April 2008"
           },
           "constituency6": {
-            "text": "Sicily (1983–2001; 2006–2008)\nTrentino-Alto Adige (2001–2006)",
+            "text": "Palermo (1983–1994)\n Sicily 1 (1994–2001; 2006–2008)\nTrentino-Alto Adige (2001–2006)",
             "links": [
               {
-                "text": "Sicily",
+                "text": "Palermo",
                 "type": "internal",
-                "page": "List of Italian constituencies"
+                "page": "List of Italian constituencies (1946–1994)",
+                "anchor": "Palermo–Trapani–Agrigento–Caltanissetta"
+              },
+              {
+                "text": "Sicily 1",
+                "type": "internal",
+                "page": "Sicily 1 (Chamber of Deputies constituency)"
               },
               {
                 "text": "Trentino-Alto Adige",
                 "type": "internal",
-                "page": "List of Italian constituencies"
+                "page": "Trentino-Alto Adige/Südtirol (Chamber of Deputies constituency)"
               }
             ]
           },
@@ -531,29 +572,7 @@
             ]
           },
           "otherparty": {
-            "text": "DC (before 1994)\nPPI (1994–2002)\nDL (2002–2007)\nPD (2007–2008)",
-            "links": [
-              {
-                "text": "DC",
-                "type": "internal",
-                "page": "Christian Democracy (Italy)"
-              },
-              {
-                "text": "PPI",
-                "type": "internal",
-                "page": "Italian People's Party (1994)"
-              },
-              {
-                "text": "DL",
-                "type": "internal",
-                "page": "Democracy is Freedom – The Daisy"
-              },
-              {
-                "text": "PD",
-                "type": "internal",
-                "page": "Democratic Party (Italy)"
-              }
-            ]
+            "text": "Christian Democracy (before 1994)\nItalian People's Party (1994–2002)\nThe Daisy (2002–2007)\nDemocratic Party (2007–2008)"
           },
           "spouse": {
             "text": "Marisa Chiazzese (m. 1966-2012)"
