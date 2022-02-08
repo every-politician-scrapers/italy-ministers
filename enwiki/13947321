@@ -36,7 +36,7 @@
         {
           "sentences": [
             {
-              "text": "Sergio Mattarella (born 23 July 1941) is an Italian politician, jurist, academic and lawyer who has served as the president of Italy since 2015.",
+              "text": "Sergio Mattarella (born 23 July 1941) is an Italian politician, jurist, academic, and lawyer who has served as the president of Italy since 2015.",
               "links": [
                 {
                   "text": "president of Italy",
@@ -49,17 +49,14 @@
                   "Sergio Mattarella"
                 ]
               }
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "A Christian leftist politician, Mattarella was a leading member of the Christian Democracy from the early 1980s until its dissolution.",
+              "text": "A Christian leftist politician, he was a leading member of the Christian Democracy party from the early 1980s until its dissolution.",
               "links": [
                 {
+                  "text": "Christian leftist",
                   "type": "internal",
-                  "page": "Christian leftist"
+                  "page": "Christian left"
                 },
                 {
                   "text": "Christian Democracy",
@@ -69,20 +66,22 @@
               ]
             },
             {
-              "text": "He also served as Italian Minister for Parliamentary Relations from 1987 to 1989, and Italian Minister of Education from 1989 to 1990.",
+              "text": "He also served as Minister for Parliamentary Relations from 1987 to 1989, and Minister of Education from 1989 to 1990.",
               "links": [
                 {
+                  "text": "Minister for Parliamentary Relations",
                   "type": "internal",
                   "page": "Italian Minister for Parliamentary Relations"
                 },
                 {
+                  "text": "Minister of Education",
                   "type": "internal",
                   "page": "Italian Minister of Education"
                 }
               ]
             },
             {
-              "text": "In 1994, Mattarella was among the founders of the Italian People's Party (PPI), serving as Deputy Prime Minister of Italy from 1998 to 1999, and Italian Minister of Defence from 1999 to 2001.",
+              "text": "In 1994, Mattarella was among the founders of the Italian People's Party (PPI), serving as Deputy Prime Minister of Italy from 1998 to 1999, and Minister of Defence from 1999 to 2001.",
               "links": [
                 {
                   "text": "Italian People's Party",
@@ -94,13 +93,14 @@
                   "page": "Deputy Prime Minister of Italy"
                 },
                 {
+                  "text": "Minister of Defence",
                   "type": "internal",
                   "page": "Italian Minister of Defence"
                 }
               ]
             },
             {
-              "text": "In 2002, he joined The Daisy, while in 2007, Mattarella founded the Democratic Party (PD), which however left when he retired from politics in 2008.",
+              "text": "He joined The Daisy in 2002 and was one of the founders of the Democratic Party (PD) in 2007, and left it when he retired from politics in 2008.",
               "links": [
                 {
                   "text": "The Daisy",
@@ -128,7 +128,7 @@
         {
           "sentences": [
             {
-              "text": "On 31 January 2015, he was elected to the presidency on the fourth ballot, supported by the centre-left coalition majority led by the Democratic Party and centrist parties.",
+              "text": "On 31 January 2015, Mattarella was elected to the presidency on the fourth ballot, supported by the centre-left coalition majority led by the PD and centrist parties.",
               "links": [
                 {
                   "text": "elected",
@@ -160,11 +160,7 @@
                   "page": "Giorgio Napolitano"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "As of 2022, four prime ministers have served under Mattarella's presidency, among them Matteo Renzi, then the PD's leader and main sponsor of Mattarella's candidacy, Paolo Gentiloni, a leading member of the PD who succeeded Renzi after his resignation in 2016, Giuseppe Conte, at that time an independent politician who governed both with right-wing and left-wing coalitions in two consecutive cabinets, and Mario Draghi, a banker and former president of the European Central Bank, who was appointed by Mattarella to lead a national unity government following Conte's resignation.",
               "links": [
@@ -572,7 +568,29 @@
             ]
           },
           "otherparty": {
-            "text": "Christian Democracy (before 1994)\nItalian People's Party (1994–2002)\nThe Daisy (2002–2007)\nDemocratic Party (2007–2008)"
+            "text": "DC (before 1994)\nPPI (1994–2002)\nThe Daisy (2002–2007)\nPD (2007–2008)",
+            "links": [
+              {
+                "text": "DC",
+                "type": "internal",
+                "page": "Christian Democracy (Italy)"
+              },
+              {
+                "text": "PPI",
+                "type": "internal",
+                "page": "Italian People's Party (1994)"
+              },
+              {
+                "text": "The Daisy",
+                "type": "internal",
+                "page": "Democracy is Freedom – The Daisy"
+              },
+              {
+                "text": "PD",
+                "type": "internal",
+                "page": "Democratic Party (Italy)"
+              }
+            ]
           },
           "spouse": {
             "text": "Marisa Chiazzese (m. 1966-2012)"

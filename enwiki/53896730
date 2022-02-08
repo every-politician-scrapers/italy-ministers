@@ -85,7 +85,7 @@
       ],
       "templates": [
         {
-          "description": "Italian politician",
+          "description": "Italian politician (born 1979)",
           "template": "short description"
         },
         {
@@ -216,7 +216,7 @@
             "text": "15 March 2013"
           },
           "constituency3": {
-            "text": "Basilicata (2013–2018) Tuscany (2018–present)",
+            "text": "Basilicata (2013–2018) Tuscany (since 2018)",
             "links": [
               {
                 "type": "internal",
@@ -245,7 +245,7 @@
             ]
           },
           "party": {
-            "text": "DS (2005–2007) PD (2007–2017) Art.1 (2017–present)",
+            "text": "DS (2005–2007) PD (2007–2017) Art.1 (since 2017)",
             "links": [
               {
                 "text": "DS",

@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Roberto Cingolani (born 23 December 1961) is an Italian physicist, academic and manager who has been serving as Minister for Ecological Transition in the cabinet of Prime Minister Mario Draghi since 13 February 2021.",
+              "text": "Roberto Cingolani (born 23 December 1961) is an Italian physicist, academic, and manager who has been serving as Minister for Ecological Transition in the cabinet of Prime Minister Mario Draghi since 13 February 2021.",
               "links": [
                 {
                   "text": "physicist",
@@ -67,7 +67,7 @@
       ],
       "templates": [
         {
-          "description": "Italian physicist, academic and politician",
+          "description": "Italian physicist, academic, and politician (born 1961)",
           "template": "short description"
         },
         {
