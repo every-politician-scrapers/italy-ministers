@@ -128,7 +128,7 @@
       ],
       "templates": [
         {
-          "description": "Italian politician",
+          "description": "Italian politician (born 1969)",
           "template": "short description"
         },
         {
@@ -330,9 +330,9 @@
             "text": "Member of the Chamber of Deputies",
             "links": [
               {
-                "text": "Member of the Chamber of Deputies",
+                "text": "Chamber of Deputies",
                 "type": "internal",
-                "page": "Italian Chamber of Deputies"
+                "page": " Chamber of Deputies (Italy)"
               }
             ]
           },
@@ -366,23 +366,25 @@
             ]
           },
           "party": {
-            "text": "Communist Party (Before 1991)\nDemocratic Party of the Left (1991–1998)\nDemocrats of the Left (1998–2007)\nDemocratic Party (2007–present)",
+            "text": "PCI (before 1991)\nPDS (1991–1998)\nDS (1998–2007)\nPD (since 2007)",
             "links": [
               {
-                "text": "Communist Party",
+                "text": "PCI",
                 "type": "internal",
                 "page": "Italian Communist Party"
               },
               {
+                "text": "PDS",
                 "type": "internal",
                 "page": "Democratic Party of the Left"
               },
               {
+                "text": "DS",
                 "type": "internal",
                 "page": "Democrats of the Left"
               },
               {
-                "text": "Democratic Party",
+                "text": "PD",
                 "type": "internal",
                 "page": "Democratic Party (Italy)"
               }

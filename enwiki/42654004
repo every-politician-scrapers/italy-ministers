@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Lorenzo Guerini (born 21 November 1966) is an Italian politician, member of the Democratic Party.",
+              "text": "Lorenzo Guerini (born 21 November 1966) is an Italian politician and member of the Democratic Party.",
               "links": [
                 {
                   "text": "Democratic Party",
@@ -93,7 +93,7 @@
       ],
       "templates": [
         {
-          "description": "Italian politician",
+          "description": "Italian politician (born 1966)",
           "template": "short description"
         },
         {
@@ -175,13 +175,13 @@
             "text": "Raffaele Volpi"
           },
           "office2": {
-            "text": "Deputy Secretary of the Democratic Party",
+            "text": "Deputy secretary of the Democratic Party",
             "links": [
               {
-                "text": "Deputy Secretary",
+                "text": "Deputy secretary",
                 "type": "internal",
-                "page": "List of Secretaries of the Democratic Party (Italy)",
-                "anchor": "Deputy Secretaries"
+                "page": "List of secretaries of the Democratic Party (Italy)",
+                "anchor": "Deputy secretaries"
               },
               {
                 "text": "Democratic Party",
@@ -238,7 +238,7 @@
               {
                 "text": "Chamber of Deputies",
                 "type": "internal",
-                "page": "Italian Chamber of Deputies"
+                "page": "Chamber of Deputies (Italy)"
               }
             ]
           },
@@ -283,11 +283,12 @@
             ]
           },
           "office5": {
-            "text": "President of the Province of Lodi",
+            "text": "President of the province of Lodi",
             "links": [
               {
+                "text": "province of Lodi",
                 "type": "internal",
-                "page": "Province of Lodi"
+                "page": "province of Lodi"
               }
             ]
           },
@@ -326,7 +327,7 @@
             ]
           },
           "party": {
-            "text": "DC (before 1994) PPI (1994–2002) DL (2002–2007) PD (2007–present)",
+            "text": "DC (before 1994) PPI (1994–2002) DL (2002–2007) PD (since 2007)",
             "links": [
               {
                 "text": "DC",
@@ -355,10 +356,9 @@
             "number": 3
           },
           "alma_mater": {
-            "text": "Cattolica University of Milan",
+            "text": "Università Cattolica del Sacro Cuore",
             "links": [
               {
-                "text": "Cattolica University of Milan",
                 "type": "internal",
                 "page": "Università Cattolica del Sacro Cuore"
               }
