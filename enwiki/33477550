@@ -27,9 +27,8 @@
                   "page": "economist"
                 },
                 {
-                  "text": "Bank of Italy",
                   "type": "internal",
-                  "page": "Banca d'Italia"
+                  "page": "Governor of the Bank of Italy"
                 }
               ],
               "formatting": {
@@ -115,9 +114,8 @@
             "text": "Deputy Director General of the Bank of Italy",
             "links": [
               {
-                "text": "Bank of Italy",
                 "type": "internal",
-                "page": "Banca d'Italia"
+                "page": "Bank of Italy"
               }
             ]
           },
