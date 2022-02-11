@@ -71,6 +71,10 @@
           "template": "short description"
         },
         {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1971",
           "month": "07",
           "day": "18",
