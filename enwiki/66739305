@@ -167,11 +167,15 @@
             ]
           },
           "alma_mater": {
-            "text": "University of Padua",
+            "text": "University of Padua University of York",
             "links": [
               {
                 "type": "internal",
                 "page": "University of Padua"
+              },
+              {
+                "type": "internal",
+                "page": "University of York"
               }
             ]
           },
