@@ -3,7 +3,9 @@ Q332711,President of Italy,Q38,Q38,,Q13178430,1948-01-01,,Q1220,,President of It
 Q796897,Prime Minister of Italy,Q38,Q38,,Q213928,1948-01-01,,,,Prime Minister of Italy
 Q658082,Italian Minister of Agriculture,Q38,Q38,,Q27999241,,,,,
 Q55096558,Minister of Budget,Q38,Q38,,Q30693223,1947-06-06,1997-12-31,,Q55087428,
+Q55088865,minister without portfolio for the coordination of civil protection,Q38,Q38,,,,,,,
 Q25514257,Italian Minister of Communications,Q38,Q38,,Q3721660,1946-07-14,2008-05-08,,Q27991508,
+Q55049421,Minister of Cultural Heritage and Activities,Q38,Q38,,Q3721664,,,,,
 Q28002426,Italian Minister of Cultural Heritage and Activities and Tourism,Q38,Q38,,Q3721664,,,,,
 Q1538785,Italian Minister of Defence,Q38,Q38,,Q27999682,,,,,
 Q105541338,Italian Minister for Disabilities,Q38,,,,2018,,,,Italian Minister for Disabilities
@@ -14,6 +16,7 @@ Q34153264,Italian Minister of Education,Q38,Q38,,Q20204273,,,,Q3721646,
 Q3721646,"Italian Minister of Education, Universities and Research",Q38,Q38,,Q28001237,,,Q34153264,,
 Q32137240,Italian Minister of the Environment,Q38,Q38,,Q30715600,,2021,,Q108128155,Italian Minister of the Environment
 Q55074659,Italian Minister for Equal Opportunities,Q38,Q38,,Q3721668,,,,,Italian Minister for Equal Opportunities
+Q55045585,Italian minister for EU Affairs,Q38,Q38,,Q3721666,1951-07-26,,,,
 Q55045454,Italian Minister of Family,Q38,Q38,,Q30098699,,,,,
 Q55121922,Minister for Family and Social Solidarity,Q38,Q38,,,,,,,
 Q55087463,Italian Finance Minister,Q38,Q38,,Q3721656,1946-06-13,2001-06-11,,Q28002382,
@@ -26,16 +29,22 @@ Q55065187,Minister for Integration of the Italian Republic,Q38,Q38,,Q3708844,201
 Q1541071,Italian Minister of the Interior,Q38,Q38,,Q28001188,,,,,
 Q25973167,Italian Minister of Justice,Q38,Q38,,Q1540253,1946-07-14,,,,
 Q28000241,Italian Minister of Labour and Social Affairs,Q38,Q38,,Q3721633,,,,,
+Q55024074,Minister of Legislative Simplification,Q38,Q38,,,2008-05-08,2011-11-16,,,
 Q27999166,Italian Minister for Parliamentary Relations,Q38,Q38,,Q3721663,1954-02-10,,,,
+Q55075011,Minister for Program Delivery,Q38,Q38,,Q3721667,,,,,
 Q55044982,Italian Minister of Public Administration,Q38,Q38,,Q20204278,,,,,Italian Minister of Public Administration
 Q54873257,Italian Minister of Public Works,Q38,Q38,,Q20204271,1946-07-14,2001-06-11,,,
 Q33125109,Italian Minister of Regional Affairs and Autonomies,Q38,Q38,,Q3721624,1970-03-28,,,,
 Q55045153,Italian Minister for the South and Territorial Cohesion,Q38,Q38,,Q20953794,,,,,Italian Minister for the South and Territorial Cohesion
+Q55053641,Minister for Sport,Q38,Q38,,Q20243136,2006-05-17,,,,
 Q55168394,Minister of state investments,Q38,Q38,,Q3721657,1957-03-03,1994-05-11,,,
 Q55076432,Italian Minister for Technological Innovation,Q38,Q38,,Q67205134,2001-06-11,,,,Italian Minister for Technological Innovation
 Q55096606,Italian minister of Tourism,Q38,Q38,,Q89490839,,,,,
+Q55075202,Minister of Tourism and Sports,Q38,Q38,,Q89490839,,,,,
 Q27999438,Italian Minister of Transports,Q38,Q38,,Q28555386,1946-07-14,2008-05-08,Q6092845,Q6092845,
 Q6092845,Italian Minister of Transports and Infrastructures,Q38,Q38,,Q3721655,2001-06-11,,Q6092842,Q6092842,
+Q55096536,Minister of the Treasury of Italy,Q38,Q38,,,,1997-12-31,,Q55087428,
+Q55087428,"Minister of the Treasury, Budget and Economic Planning",Q38,Q38,,Q24066027,1998-01-01,2001-06-11,Q55096536,Q28002382,
 Q54879307,"minister of universities, science and technology",Q38,Q38,,Q3721647,1988-04-13,2008-05-08,Q54879125,,
 Q55075086,Italian Minister of Youth,Q38,Q38,,Q20204277,,,,,Italian Minister of Youth
 Q55121936,Minister without portfolio of the Italian Republic,Q38,Q38,,,,,,,
