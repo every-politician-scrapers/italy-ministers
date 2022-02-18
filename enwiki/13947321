@@ -49,9 +49,13 @@
                   "Sergio Mattarella"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "A Christian leftist politician, he was a leading member of the Christian Democracy party from the early 1980s until its dissolution.",
+              "text": "A Christian leftist politician, Mattarella was a leading member of the Christian Democracy party from the early 1980s until its dissolution.",
               "links": [
                 {
                   "text": "Christian leftist",
@@ -66,7 +70,7 @@
               ]
             },
             {
-              "text": "He also served as Minister for Parliamentary Relations from 1987 to 1989, and Minister of Education from 1989 to 1990.",
+              "text": "He served as Minister for Parliamentary Relations from 1987 to 1989, and Minister of Education from 1989 to 1990.",
               "links": [
                 {
                   "text": "Minister for Parliamentary Relations",
@@ -115,7 +119,7 @@
               ]
             },
             {
-              "text": "In 2011, Mattarella became a judge of the Constitutional Court of Italy.",
+              "text": "He also served as a judge of the Constitutional Court of Italy from 2011 to 2015.",
               "links": [
                 {
                   "type": "internal",
@@ -148,7 +152,7 @@
               ]
             },
             {
-              "text": "Mattarella was re-elected for a second term on 29 January 2022, becoming the second Italian president to be re-elected, the first being his predecessor Giorgio Napolitano.",
+              "text": "He was re-elected for a second term on 29 January 2022, becoming the second Italian president to be re-elected, the first being his predecessor Giorgio Napolitano.",
               "links": [
                 {
                   "text": "re-elected",
@@ -162,7 +166,7 @@
               ]
             },
             {
-              "text": "As of 2022, four prime ministers have served under Mattarella's presidency, among them Matteo Renzi, then the PD's leader and main sponsor of Mattarella's candidacy, Paolo Gentiloni, a leading member of the PD who succeeded Renzi after his resignation in 2016, Giuseppe Conte, at that time an independent politician who governed both with right-wing and left-wing coalitions in two consecutive cabinets, and Mario Draghi, a banker and former president of the European Central Bank, who was appointed by Mattarella to lead a national unity government following Conte's resignation.",
+              "text": "As of 2022, four prime ministers have served under his presidency, among them Matteo Renzi, then the PD's leader and main sponsor of his presidential candidacy, Paolo Gentiloni, a leading member of the PD who succeeded Renzi after his resignation in 2016, Giuseppe Conte, at that time an independent politician who governed both with right-wing and left-wing coalitions in two consecutive cabinets, and Mario Draghi, a banker and former president of the European Central Bank, who was appointed to lead a national unity government following Conte's resignation.",
               "links": [
                 {
                   "type": "internal",
