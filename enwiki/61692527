@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Luciana Lamorgese (born 11 September 1953) is an Italian civil servant who has been serving as Minister of the Interior in the governments of prime ministers Giuseppe Conte and Mario Draghi since 2019.",
+              "text": "Luciana Lamorgese (born 11 September 1953) is an Italian civil servant who has been serving as Minister of the Interior in the governments of Prime Ministers Giuseppe Conte and Mario Draghi since 2019.",
               "links": [
                 {
                   "text": "civil servant",
@@ -33,7 +33,7 @@
                   "page": "Italian Minister of the Interior"
                 },
                 {
-                  "text": "prime ministers",
+                  "text": "Prime Ministers",
                   "type": "internal",
                   "page": "Prime Minister of Italy"
                 },
@@ -56,6 +56,10 @@
         }
       ],
       "templates": [
+        {
+          "description": "Italian civil servant (born 1953)",
+          "template": "short description"
+        },
         {
           "year": "1953",
           "month": "09",
