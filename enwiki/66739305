@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Daniele Franco (born 7 June 1953) is an Italian economist, banker and civil servant who has been serving as Minister of Economy and Finance in the cabinet of Prime Minister Mario Draghi since 13 February 2021.",
+              "text": "Daniele Franco (born 7 June 1953) is an Italian economist, central banker and civil servant who has been serving as Minister of Economy and Finance in the cabinet of Prime Minister Mario Draghi since 13 February 2021.",
               "links": [
                 {
                   "text": "economist",
@@ -29,9 +29,9 @@
                   "page": "economist"
                 },
                 {
-                  "text": "banker",
+                  "text": "central banker",
                   "type": "internal",
-                  "page": "banker"
+                  "page": "central bank"
                 },
                 {
                   "text": "civil servant",

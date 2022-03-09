@@ -283,12 +283,11 @@
             ]
           },
           "office5": {
-            "text": "President of the province of Lodi",
+            "text": "President of the Province of Lodi",
             "links": [
               {
-                "text": "province of Lodi",
                 "type": "internal",
-                "page": "province of Lodi"
+                "page": "Province of Lodi"
               }
             ]
           },
