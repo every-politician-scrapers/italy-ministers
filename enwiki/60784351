@@ -1,185 +1,24 @@
 {
-  "title": "Massimo Garavaglia",
-  "pageID": 60784351,
-  "categories": [
-    "1968 births",
-    "Draghi Cabinet",
-    "Living people",
-    "People from Cuggiono",
-    "20th-century Italian politicians",
-    "21st-century Italian politicians",
-    "Bocconi University alumni",
-    "University of Milan alumni",
-    "Lega Nord politicians",
-    "Deputies of Legislature XV of Italy",
-    "Senators of Legislature XVI of Italy",
-    "Senators of Legislature XVII of Italy",
-    "Deputies of Legislature XVIII of Italy",
-    "Mayors of places in Lombardy"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Massimo Garavaglia (born 8 April 1968 in Cuggiono) is an Italian politician.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cuggiono"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Massimo Garavaglia"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Italian politician",
-          "template": "short description"
-        },
-        {
-          "df": "y",
-          "year": "1968",
-          "month": "4",
-          "day": "8",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Massimo Garavaglia"
-          },
-          "image": {
-            "text": "Massimo Garavaglia daticamera 2018.jpg"
-          },
-          "office": {
-            "text": "Minister of Tourism",
-            "links": [
-              {
-                "text": "Minister of Tourism",
-                "type": "internal",
-                "page": "Italian Minister of Tourism"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mario Draghi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mario Draghi"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "13 February 2021"
-          },
-          "predecessor": {
-            "text": "Dario Franceschini (as Minister of Cultural Heritage and Tourism)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dario Franceschini"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of the Chamber of Deputies",
-            "links": [
-              {
-                "text": "Member of the Chamber of Deputies",
-                "type": "internal",
-                "page": "Chamber of Deputies (Italy)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "23 March 2018"
-          },
-          "constituency1": {
-            "text": "Lombardy 1"
-          },
-          "term_start2": {
-            "text": "28 April 2006"
-          },
-          "term_end2": {
-            "text": "28 April 2008"
-          },
-          "constituency2": {
-            "text": "Lombardy 1"
-          },
-          "office3": {
-            "text": "Member of the Senate",
-            "links": [
-              {
-                "text": "Member of the Senate",
-                "type": "internal",
-                "page": "Senate of the Republic (Italy)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "28 April 2008"
-          },
-          "term_end3": {
-            "text": "7 May 2013"
-          },
-          "constituency3": {
-            "text": "Lombardy"
-          },
-          "birth_date": {
-            "text": "April 8, 1968"
-          },
-          "birth_place": {
-            "text": "Cuggiono, Italy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cuggiono"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Italian"
-          },
-          "profession": {
-            "text": "Politician, Business consultant"
-          },
-          "party": {
-            "text": "Northern League",
-            "links": [
-              {
-                "text": "Northern League",
-                "type": "internal",
-                "page": "Lega Nord"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Bocconi University University of Milan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bocconi University"
-              },
-              {
-                "type": "internal",
-                "page": "University of Milan"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Massimo Garavaglia",
+  "image": "Massimo Garavaglia daticamera 2018.jpg",
+  "office": "Minister of Tourism",
+  "primeminister": "Mario Draghi",
+  "term_start": "13 February 2021",
+  "predecessor": "Dario Franceschini (as Minister of Cultural Heritage and Tourism)",
+  "office1": "Member of the Chamber of Deputies",
+  "term_start1": "23 March 2018",
+  "constituency1": "Lombardy 1",
+  "term_start2": "28 April 2006",
+  "term_end2": "28 April 2008",
+  "constituency2": "Lombardy 1",
+  "office3": "Member of the Senate",
+  "term_start3": "28 April 2008",
+  "term_end3": "7 May 2013",
+  "constituency3": "Lombardy",
+  "birth_date": "April 8, 1968",
+  "birth_place": "Cuggiono, Italy",
+  "nationality": "Italian",
+  "profession": "Politician, Business consultant",
+  "party": "Northern League",
+  "alma_mater": "Bocconi University University of Milan"
 }

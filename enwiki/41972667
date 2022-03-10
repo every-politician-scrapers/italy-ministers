@@ -1,386 +1,44 @@
 {
-  "title": "Luigi Di Maio",
-  "pageID": 41972667,
-  "categories": [
-    "1986 births",
-    "21st-century Italian politicians",
-    "Conte I Cabinet",
-    "Conte II Cabinet",
-    "Draghi Cabinet",
-    "Deputies of Legislature XVII of Italy",
-    "Deputies of Legislature XVIII of Italy",
-    "Deputy Prime Ministers of Italy",
-    "Five Star Movement politicians",
-    "Foreign ministers of Italy",
-    "Government ministers of Italy",
-    "Italian Roman Catholics",
-    "Living people",
-    "Members of the Chamber of Deputies (Italy)",
-    "People from Avellino",
-    "University of Naples Federico II alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Luigi Di Maio (born 6 July 1986) is an Italian politician serving as Minister of Foreign Affairs since 5 September 2019.",
-              "links": [
-                {
-                  "text": "Minister of Foreign Affairs",
-                  "type": "internal",
-                  "page": "Italian Minister of Foreign Affairs"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Luigi Di Maio"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as Deputy Prime Minister of Italy and Minister of Economic Development, Labour and Social Policies from 2018 to 2019, and as Vice President of the Chamber of Deputies in the XVII Italian legislature.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Deputy Prime Minister of Italy"
-                },
-                {
-                  "text": "Minister of Economic Development",
-                  "type": "internal",
-                  "page": "Italian Minister of Economic Development"
-                },
-                {
-                  "text": "Labour and Social Policies",
-                  "type": "internal",
-                  "page": "Italian Minister of Labour and Social Policies"
-                },
-                {
-                  "text": "Chamber of Deputies",
-                  "type": "internal",
-                  "page": "Italian Chamber of Deputies"
-                }
-              ]
-            },
-            {
-              "text": "From September 2017 to January 2020, he was the leader of the Five Star Movement, an anti-establishment party founded by Beppe Grillo.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Five Star Movement"
-                },
-                {
-                  "type": "internal",
-                  "page": "Beppe Grillo"
-                }
-              ]
-            },
-            {
-              "text": "He resigned from this position to quell discontent and stem the flow of party dissertions and expulsions after he led the party into coalition with the centre-left Democratic Party.",
-              "links": [
-                {
-                  "text": "Democratic Party",
-                  "type": "internal",
-                  "page": "Democratic Party (Italy)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Italian politician",
-          "template": "short description"
-        },
-        {
-          "date": "January 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1986",
-          "month": "7",
-          "day": "6",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "transcription": "luˈiːdʒi di ˈmaːjo",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Luigi Di Maio"
-          },
-          "image": {
-            "text": "Luigi Di Maio 2021 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Di Maio in 2021"
-          },
-          "office": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Italian Minister of Foreign Affairs"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Giuseppe Conte\nMario Draghi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Giuseppe Conte"
-              },
-              {
-                "type": "internal",
-                "page": "Mario Draghi"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "5 September 2019"
-          },
-          "predecessor": {
-            "text": "Enzo Moavero Milanesi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Enzo Moavero Milanesi"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Deputy Prime Minister of Italy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Italy"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Giuseppe Conte"
-          },
-          "alongside1": {
-            "text": "Matteo Salvini",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Matteo Salvini"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 June 2018"
-          },
-          "term_end1": {
-            "text": "5 September 2019"
-          },
-          "predecessor1": {
-            "text": "Angelino Alfano (2014)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Angelino Alfano"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Vacant",
-            "formatting": {
-              "italic": [
-                "Vacant"
-              ]
-            }
-          },
-          "office2": {
-            "text": "President of the Committee of Ministers of the Council of Europe",
-            "links": [
-              {
-                "text": "President of the Committee of Ministers of the Council of Europe",
-                "type": "internal",
-                "page": "Committee of Ministers of the Council of Europe"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "17 November 2021"
-          },
-          "predecessor2": {
-            "text": "Péter Szijjártó",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Péter Szijjártó"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Economic Development",
-            "links": [
-              {
-                "text": "Minister of Economic Development",
-                "type": "internal",
-                "page": "Italian Minister of Economic Development"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Giuseppe Conte"
-          },
-          "term_start3": {
-            "text": "1 June 2018"
-          },
-          "term_end3": {
-            "text": "5 September 2019"
-          },
-          "predecessor3": {
-            "text": "Carlo Calenda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carlo Calenda"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Stefano Patuanelli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stefano Patuanelli"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Labour and Social Policies",
-            "links": [
-              {
-                "text": "Minister of Labour and Social Policies",
-                "type": "internal",
-                "page": "Italian Minister of Labour and Social Policies"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Giuseppe Conte"
-          },
-          "term_start4": {
-            "text": "1 June 2018"
-          },
-          "term_end4": {
-            "text": "5 September 2019"
-          },
-          "predecessor4": {
-            "text": "Giuliano Poletti",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Giuliano Poletti"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Nunzia Catalfo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nunzia Catalfo"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Leader of the Five Star Movement",
-            "links": [
-              {
-                "text": "Leader of the Five Star Movement",
-                "type": "internal",
-                "page": "List of Leaders of the Five Star Movement"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "23 September 2017"
-          },
-          "term_end5": {
-            "text": "22 January 2020"
-          },
-          "predecessor5": {
-            "text": "Beppe Grillo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Beppe Grillo"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Vito Crimi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vito Crimi"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Member of the Chamber of Deputies",
-            "links": [
-              {
-                "text": "Chamber of Deputies",
-                "type": "internal",
-                "page": "Chamber of Deputies (Italy)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "15 March 2013"
-          },
-          "constituency6": {
-            "text": "Campania 1 (2013–2018)\nNaples–Acerra (2018–present)"
-          },
-          "birth_date": {
-            "text": "July 6, 1986"
-          },
-          "birth_place": {
-            "text": "Avellino, Italy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Avellino"
-              },
-              {
-                "type": "internal",
-                "page": "Italy"
-              }
-            ]
-          },
-          "party": {
-            "text": "Five Star Movement",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Five Star Movement"
-              }
-            ]
-          },
-          "partner": {
-            "text": "Virginia Saba"
-          },
-          "signature": {
-            "text": "Luigi Di Maio signature.svg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Luigi Di Maio",
+  "image": "Luigi Di Maio 2021 (cropped).jpg",
+  "caption": "Di Maio in 2021",
+  "office": "Minister of Foreign Affairs",
+  "primeminister": "Giuseppe Conte\nMario Draghi",
+  "term_start": "5 September 2019",
+  "predecessor": "Enzo Moavero Milanesi",
+  "office1": "Deputy Prime Minister of Italy",
+  "primeminister1": "Giuseppe Conte",
+  "alongside1": "Matteo Salvini",
+  "term_start1": "1 June 2018",
+  "term_end1": "5 September 2019",
+  "predecessor1": "Angelino Alfano (2014)",
+  "successor1": "Vacant",
+  "office2": "President of the Committee of Ministers of the Council of Europe",
+  "term_start2": "17 November 2021",
+  "predecessor2": "Péter Szijjártó",
+  "office3": "Minister of Economic Development",
+  "primeminister3": "Giuseppe Conte",
+  "term_start3": "1 June 2018",
+  "term_end3": "5 September 2019",
+  "predecessor3": "Carlo Calenda",
+  "successor3": "Stefano Patuanelli",
+  "office4": "Minister of Labour and Social Policies",
+  "primeminister4": "Giuseppe Conte",
+  "term_start4": "1 June 2018",
+  "term_end4": "5 September 2019",
+  "predecessor4": "Giuliano Poletti",
+  "successor4": "Nunzia Catalfo",
+  "office5": "Leader of the Five Star Movement",
+  "term_start5": "23 September 2017",
+  "term_end5": "22 January 2020",
+  "predecessor5": "Beppe Grillo",
+  "successor5": "Vito Crimi",
+  "office6": "Member of the Chamber of Deputies",
+  "term_start6": "15 March 2013",
+  "constituency6": "Campania 1 (2013–2018)\nNaples–Acerra (2018–present)",
+  "birth_date": "July 6, 1986",
+  "birth_place": "Avellino, Italy",
+  "party": "Five Star Movement",
+  "partner": "Virginia Saba",
+  "signature": "Luigi Di Maio signature.svg"
 }
