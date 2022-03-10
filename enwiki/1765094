@@ -1,278 +1,31 @@
 {
-  "title": "Renato Brunetta",
-  "pageID": 1765094,
-  "categories": [
-    "1950 births",
-    "Draghi Cabinet",
-    "Living people",
-    "Politicians of Veneto",
-    "Politicians from Venice",
-    "The People of Freedom politicians",
-    "Forza Italia (2013) politicians",
-    "Italian Socialist Party politicians",
-    "Italian economists",
-    "Italian journalists",
-    "Italian male journalists",
-    "Labor economists",
-    "Forza Italia MEPs",
-    "MEPs for Italy 2004–2009",
-    "MEPs for Italy 1999–2004",
-    "University of Rome Tor Vergata faculty"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Renato Brunetta (born 15 May 1950 in Venice) is an Italian economist and politician who was minister for public administration and innovation from May 2008 to November 2011 in the Berlusconi government.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Venice"
-                },
-                {
-                  "text": "economist",
-                  "type": "internal",
-                  "page": "economist"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Renato Brunetta"
-                ]
-              }
-            },
-            {
-              "text": "He is currently the head of Forza Italia's group of deputies in the Chamber of Deputies."
-            },
-            {
-              "text": "He is currently serving as minister of Public Administration in the Draghi government."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Italian economist and politician",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "date": "September 2021",
-          "template": "advert"
-        },
-        {
-          "year": "1950",
-          "month": "5",
-          "day": "15",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Renato Brunetta"
-          },
-          "image": {
-            "text": "Renato Brunetta 2018 (cropped).jpg"
-          },
-          "imagesize": {
-            "text": "180px"
-          },
-          "office": {
-            "text": "Minister of Public Administration",
-            "links": [
-              {
-                "text": "Minister of Public Administration",
-                "type": "internal",
-                "page": "Italian Minister of Public Administration"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mario Draghi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mario Draghi"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "13 February 2021"
-          },
-          "predecessor": {
-            "text": "Fabiana Dadone",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fabiana Dadone"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "8 May 2008"
-          },
-          "term_end1": {
-            "text": "16 November 2011"
-          },
-          "primeminister1": {
-            "text": "Silvio Berlusconi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Silvio Berlusconi"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Luigi Nicolais"
-          },
-          "successor1": {
-            "text": "Filippo Patroni Griffi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Filippo Patroni Griffi"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the Chamber of Deputies",
-            "links": [
-              {
-                "text": "Chamber of Deputies",
-                "type": "internal",
-                "page": "Chamber of Deputies (Italy)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "23 April 2008"
-          },
-          "constituency2": {
-            "text": "Veneto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Veneto"
-              }
-            ]
-          },
-          "parliament3": {
-            "text": "European"
-          },
-          "constituency_mp3": {
-            "text": "North-East Italy",
-            "links": [
-              {
-                "text": "North-East Italy",
-                "type": "internal",
-                "page": "North-East Italy (European Parliament constituency)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "20 July 2004"
-          },
-          "term_end3": {
-            "text": "28 April 2008"
-          },
-          "term_start4": {
-            "text": "20 July 1999"
-          },
-          "term_end4": {
-            "text": "19 July 2004"
-          },
-          "birth_date": {
-            "text": "May 15, 1950"
-          },
-          "birth_place": {
-            "text": "Venice, Italy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Venice"
-              },
-              {
-                "type": "internal",
-                "page": "Italy"
-              }
-            ]
-          },
-          "party": {
-            "text": "Forza Italia\n(2013-present)",
-            "links": [
-              {
-                "text": "Forza Italia",
-                "type": "internal",
-                "page": "Forza Italia (2013)"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Italian Socialist Party\n(1983-1994)\nForza Italia\n(1994-2009)\nThe People of Freedom\n(2009-2013)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Italian Socialist Party"
-              },
-              {
-                "type": "internal",
-                "page": "Forza Italia"
-              },
-              {
-                "type": "internal",
-                "page": "The People of Freedom"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Titti Giovannoni"
-          },
-          "alma_mater": {
-            "text": "University of Padua",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Padua"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Economist\nPolitician",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Economist"
-              },
-              {
-                "type": "internal",
-                "page": "Politician"
-              }
-            ]
-          },
-          "website": {
-            "text": "Official website",
-            "links": [
-              {
-                "text": "Official website",
-                "type": "external",
-                "site": "http://www.renatobrunetta.it/"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Renato Brunetta",
+  "image": "Renato Brunetta 2018 (cropped).jpg",
+  "imagesize": "180px",
+  "office": "Minister of Public Administration",
+  "primeminister": "Mario Draghi",
+  "term_start": "13 February 2021",
+  "predecessor": "Fabiana Dadone",
+  "term_start1": "8 May 2008",
+  "term_end1": "16 November 2011",
+  "primeminister1": "Silvio Berlusconi",
+  "predecessor1": "Luigi Nicolais",
+  "successor1": "Filippo Patroni Griffi",
+  "office2": "Member of the Chamber of Deputies",
+  "term_start2": "23 April 2008",
+  "constituency2": "Veneto",
+  "parliament3": "European",
+  "constituency_mp3": "North-East Italy",
+  "term_start3": "20 July 2004",
+  "term_end3": "28 April 2008",
+  "term_start4": "20 July 1999",
+  "term_end4": "19 July 2004",
+  "birth_date": "May 15, 1950",
+  "birth_place": "Venice, Italy",
+  "party": "Forza Italia\n(2013-present)",
+  "otherparty": "Italian Socialist Party\n(1983-1994)\nForza Italia\n(1994-2009)\nThe People of Freedom\n(2009-2013)",
+  "spouse": "Titti Giovannoni",
+  "alma_mater": "University of Padua",
+  "profession": "Economist\nPolitician",
+  "website": "Official website"
 }
