@@ -1,0 +1,325 @@
+id,name,relationship,relative,relativename
+Q1041908,Carlo Bo,relative,Q108936371,Vincenzo Bo
+Q1041908,Carlo Bo,spouse,Q3849340,Marise Ferro
+Q1055202,Lapo Pistelli,father,Q3876321,Nicola Pistelli
+Q1055449,Matteo Salvini,spouse,Q29580180,Fabrizia Ieluzzi
+Q1055575,Raffaele Costa,child,Q3725703,Enrico Costa
+Q10579018,Monica Cirinnà,spouse,Q3733432,Esterino Montino
+Q1060314,Raffaele Fitto,father,Q3946056,Salvatore Fitto
+Q1071031,Paolo Gentiloni,relative,Q4013441,Ottorino Gentiloni
+Q1071082,Barbara Pollastrini,spouse,Q3932705,Renato Mannheimer
+Q1071082,Barbara Pollastrini,spouse,Q58036409,Pietro Modiano
+Q1098169,Claudio Scajola,father,Q105711966,Ferdinando Scajola
+Q1098169,Claudio Scajola,mother,Q105715694,Maria Vittoria Truini
+Q1098169,Claudio Scajola,relative,Q105715849,Ferdinando Truini
+Q1098169,Claudio Scajola,sibling,Q105715654,Maria Teresa Scajola
+Q1098169,Claudio Scajola,sibling,Q105715655,Maurizio Scajola
+Q1098169,Claudio Scajola,sibling,Q18812258,Alessandro Scajola
+Q11860,Silvio Berlusconi,child,Q18235147,Luigi Berlusconi
+Q11860,Silvio Berlusconi,child,Q25210469,Eleonora Berlusconi
+Q11860,Silvio Berlusconi,child,Q3634593,Barbara Berlusconi
+Q11860,Silvio Berlusconi,child,Q468797,Marina Berlusconi
+Q11860,Silvio Berlusconi,child,Q940243,Pier Silvio Berlusconi
+Q11860,Silvio Berlusconi,father,Q15291073,Luigi Berlusconi
+Q11860,Silvio Berlusconi,mother,Q15291074,Rosa Bossi
+Q11860,Silvio Berlusconi,partner,Q55281541,Marta Fascina
+Q11860,Silvio Berlusconi,sibling,Q15291085,Maria Antonietta Berlusconi
+Q11860,Silvio Berlusconi,sibling,Q2050307,Paolo Berlusconi
+Q11860,Silvio Berlusconi,spouse,Q15291055,Carla Dall'Oglio
+Q11860,Silvio Berlusconi,spouse,Q268099,Veronica Lario
+Q1220,Giorgio Napolitano,spouse,Q18785847,Clio Bittoni
+Q122345,Ombretta Colli,child,Q3701047,Dalia Gaberščik
+Q122345,Ombretta Colli,spouse,Q1010602,Giorgio Gaber
+Q1224,Carlo Azeglio Ciampi,spouse,Q3080523,Franca Pilla
+Q1228,Oscar Luigi Scalfaro,child,Q97461162,Marianna Scalfaro
+Q1228,Oscar Luigi Scalfaro,spouse,Q108701087,Maria Inzitari
+Q1230,Francesco Cossiga,child,Q767345,Giuseppe Cossiga
+Q1230,Francesco Cossiga,spouse,Q94666406,Giuseppa Sigurani
+Q1235,Giovanni Leone,child,Q75497034,Gian Carlo Leone
+Q1235,Giovanni Leone,child,Q76254944,Mauro Leone
+Q1235,Giovanni Leone,child,Q76254946,Giulio Leone
+Q1235,Giovanni Leone,child,Q76254948,Paolo Leone
+Q1235,Giovanni Leone,father,Q102066963,Mauro Leone
+Q1235,Giovanni Leone,mother,Q102067047,Maria Gioffredi
+Q1235,Giovanni Leone,sibling,Q101086002,Carlo Leone
+Q1235,Giovanni Leone,spouse,Q69881499,Vittoria Michitto
+Q1246500,Gianrico Carofiglio,sibling,Q5479275,Francesco Carofiglio
+Q12467437,Carlo Calenda,father,Q65127229,Fabio Calenda
+Q12467437,Carlo Calenda,mother,Q449801,Cristina Comencini
+Q12467437,Carlo Calenda,relative,Q3893543,Paola Comencini
+Q12467437,Carlo Calenda,relative,Q457170,Francesca Comencini
+Q12467437,Carlo Calenda,relative,Q53015,Luigi Comencini
+Q1332769,Nicola Zingaretti,sibling,Q1374312,Luca Zingaretti
+Q1379919,Francesco De Martino,child,Q23047393,Guido De Martino
+Q1394411,Ignazio La Russa,father,Q3619074,Antonino La Russa
+Q1394411,Ignazio La Russa,sibling,Q1055437,Romano Maria la Russa
+Q1394411,Ignazio La Russa,sibling,Q4013330,Vincenzo La Russa
+Q1394911,Clemente Mastella,spouse,Q3948159,Sandra Lonardo
+Q1439643,Giovanni Kessler,father,Q993405,Bruno Kessler
+Q1439643,Giovanni Kessler,spouse,Q18325706,Daria de Pretis
+Q1459321,Vittorio Cecchi Gori,father,Q712878,Mario Cecchi Gori
+Q1459321,Vittorio Cecchi Gori,partner,Q1608028,Valeria Marini
+Q1459321,Vittorio Cecchi Gori,partner,Q293117,Maria Grazia Buccella
+Q1459321,Vittorio Cecchi Gori,spouse,Q3937247,Rita Rusić
+Q15142811,Maria Burani Procaccini,child,Q64585327,Nicola Procaccini
+Q15143059,Maria Elena Boschi,partner,Q1117917,Giulio Berruti
+Q151608,Claudio Abbado,child,Q3701853,Daniele Abbado
+Q151608,Claudio Abbado,father,Q1850160,Michelangelo Abbado
+Q151608,Claudio Abbado,sibling,Q1641210,Marcello Abbado
+Q15303869,Patrizia Paoletti Tangheroni,spouse,Q3846513,Marco Tangheroni
+Q15401878,Patrizia Bisinella,partner,Q976712,Flavio Tosi
+Q15535578,Rosanna Scopelliti,father,Q3619125,Antonio Scopelliti
+Q15589948,Sandro Delmastro delle Vedove,child,Q55282045,Andrea Delmastro Delle Vedove
+Q15631879,Stefania Covello,father,Q17490253,Francesco Alberto Covello
+Q15791588,Francesco Scoma,father,Q106686910,Carmelo Scoma
+Q15829777,Marcello Pittella,father,Q16550409,Domenico Pittella
+Q15829777,Marcello Pittella,sibling,Q971234,Gianni Pittella
+Q15931520,Flavia Piccoli Nardelli,father,Q1426951,Flaminio Piccoli
+Q15967959,Cristian Iannuzzi,mother,Q16039360,Ivana Simeoni
+Q15975933,Cosimo Ferri,father,Q3054632,Enrico Ferri
+Q16039360,Ivana Simeoni,child,Q15967959,Cristian Iannuzzi
+Q16525385,Alfredo Bazoli,relative,Q3972369,Stefano Bazoli
+Q16530425,Azzurra Cancelleri,sibling,Q67501575,Giancarlo Cancelleri
+Q16540320,Claudio Borghi,spouse,Q104494995,Giorgia Fantin Borghi
+Q16561995,Gregorio Gitti,father,Q19060501,Tarcisio Gitti
+Q16572359,Lia Quartapelle,father,Q26253787,Luigi Quartapelle Procopio
+Q16572359,Lia Quartapelle,spouse,Q1098092,Claudio Martelli
+Q16576916,Massimiliano Manfredi,sibling,Q45359418,Gaetano Manfredi
+Q1803484,Oskar Peterlini,sibling,Q1580682,Hans Karl Peterlini
+Q185007,Rita Levi-Montalcini,relative,Q3734270,Eugenia Sacerdote de Lustig
+Q185007,Rita Levi-Montalcini,sibling,Q2164235,Gino Levi-Montalcini
+Q185007,Rita Levi-Montalcini,sibling,Q3893578,Paola Levi-Montalcini
+Q18674897,Eugenio Jannelli,father,Q18758645,Gabriele Jannelli
+Q2246709,Bobo Craxi,father,Q192818,Bettino Craxi
+Q2246709,Bobo Craxi,sibling,Q390378,Stefania Craxi
+Q2246844,Alfonso Andria,sibling,Q64857343,Marcello Andria
+Q2246855,Paolo Cirino Pomicino,sibling,Q3645695,Bruno Cirino
+Q2247371,Irene Pivetti,relative,Q3609217,Aldo Gabrielli
+Q2247371,Irene Pivetti,sibling,Q4010194,Veronica Pivetti
+Q230046,Gianni Rivera,child,Q14753732,Nicole
+Q230046,Gianni Rivera,child,Q18393856,Gianni
+Q230046,Gianni Rivera,child,Q3666236,Chantal
+Q23047393,Guido De Martino,father,Q1379919,Francesco De Martino
+Q239024,Letizia Moratti,spouse,Q3762696,Gian Marco Moratti
+Q2426702,Vittorio Sgarbi,sibling,Q16268759,Elisabetta Sgarbi
+Q2428130,Thomas Widmann,father,Q1449444,Franz Widmann
+Q2460954,Giorgio La Malfa,father,Q1248333,Ugo La Malfa
+Q248926,Josefa Idem,spouse,Q3778930,Guglielmo Guerrini
+Q255788,Fiamma Nirenstein,mother,Q54811144,Wanda Lattes
+Q266651,Mara Carfagna,spouse,Q3610270,Alessandro Ruben
+Q26805762,Luigi Follieri,father,Q26770222,Mario Follieri
+Q268801,Manuela Di Centa,sibling,Q379569,Giorgio Di Centa
+Q268801,Manuela Di Centa,spouse,Q5427843,Fabio Meraldi
+Q2710513,Haidi Giuliani,child,Q164791,Carlo Giuliani
+Q285543,Alessandra Mussolini,child,Q105268643,Romano Floriani Mussolini
+Q285543,Alessandra Mussolini,father,Q446421,Romano Mussolini
+Q285543,Alessandra Mussolini,mother,Q3847521,Anna Maria Villani Scicolone
+Q285543,Alessandra Mussolini,relative,Q259934,Edda Mussolini
+Q285543,Alessandra Mussolini,relative,Q2665964,Bruno Mussolini
+Q285543,Alessandra Mussolini,relative,Q3617765,Anna Maria Mussolini
+Q285543,Alessandra Mussolini,relative,Q43252,Sophia Loren
+Q285543,Alessandra Mussolini,relative,Q640292,Vittorio Mussolini
+Q285543,Alessandra Mussolini,sibling,Q42759545,Rachele Mussolini
+Q286469,Sergio Pininfarina,child,Q3894381,Paolo Pininfarina
+Q286469,Sergio Pininfarina,child,Q494753,Andrea Pininfarina
+Q286469,Sergio Pininfarina,father,Q551406,Battista Farina
+Q286469,Sergio Pininfarina,relative,Q2040,Giuseppe Farina
+Q294460,Mario Draghi,child,Q105315400,Federica Draghi
+Q294460,Mario Draghi,child,Q107604158,Giacomo Draghi
+Q294460,Mario Draghi,sibling,Q105283563,Andreina Draghi
+Q3080973,Francesco Giro,sibling,Q3293449,Mario Giro
+Q319547,Walter Veltroni,father,Q4015575,Vittorio Veltroni
+Q319547,Walter Veltroni,mother,Q15310642,Ivanka Kotnik
+Q319547,Walter Veltroni,relative,Q3678133,Ciril Kotnik
+Q327879,Luigi Berlinguer,sibling,Q3956028,Sergio Berlinguer
+Q3289628,Marcello De Angelis,sibling,Q3870133,Nanni De Angelis
+Q3311251,Michela Marzano,father,Q87400566,Ferruccio Marzano
+Q3311251,Michela Marzano,sibling,Q105128088,Arturo Marzano
+Q3311251,Michela Marzano,spouse,Q3160339,Jacques de Saint Victor
+Q3362638,Paolo Guzzanti,child,Q1050695,Caterina Guzzanti
+Q3362638,Paolo Guzzanti,child,Q1052910,Corrado Guzzanti
+Q3362638,Paolo Guzzanti,child,Q772416,Sabina Guzzanti
+Q340239,Achille Occhetto,spouse,Q3629789,Aureliana Alberici
+Q3557671,Corradino Mineo,relative,Q23050108,Mario Mineo
+Q3557671,Corradino Mineo,relative,Q3694176,Corradino Mineo
+Q356351,Gianni Agnelli,child,Q2268126,Edoardo Agnelli
+Q356351,Gianni Agnelli,child,Q3290590,Margherita Agnelli
+Q356351,Gianni Agnelli,father,Q1798074,Edoardo Agnelli
+Q356351,Gianni Agnelli,mother,Q4013965,Virginia Bourbon del Monte
+Q356351,Gianni Agnelli,relative,Q1065346,Alain Elkann
+Q356351,Gianni Agnelli,relative,Q138351,Andrea Agnelli
+Q356351,Gianni Agnelli,relative,Q3071879,Filippo Caracciolo
+Q356351,Gianni Agnelli,relative,Q3106984,Giovanni Alberto Agnelli
+Q356351,Gianni Agnelli,relative,Q553958,Carlo Caracciolo
+Q356351,Gianni Agnelli,sibling,Q16501095,Giorgio Agnelli
+Q356351,Gianni Agnelli,sibling,Q16501177,Clara Agnelli
+Q356351,Gianni Agnelli,sibling,Q23047420,Maria Sole Agnelli
+Q356351,Gianni Agnelli,sibling,Q276023,Susanna Agnelli
+Q356351,Gianni Agnelli,sibling,Q967846,Umberto Agnelli
+Q356351,Gianni Agnelli,spouse,Q3290404,Marella Agnelli
+Q3613897,Amedeo Matacena,partner,Q3609664,Alessandra Canale
+Q3616756,Angela Filipponio Tatarella,spouse,Q2847139,Giuseppe Tatarella
+Q3658857,Carla Mazzuca Poggiolini,father,Q3293502,Mario Mazzuca
+Q3658857,Carla Mazzuca Poggiolini,spouse,Q3702196,Danilo Poggiolini
+Q3667497,Chiara Moroni,father,Q3956193,Sergio Moroni
+Q3702604,Dario Ginefra,spouse,Q3827834,Laura Ravetto
+Q3723925,Emanuele Fiano,father,Q1479470,Nedo Fiano
+Q3724350,Emilio Bonifazi,spouse,Q98851331,Monica Calamai
+Q3725703,Enrico Costa,father,Q1055575,Raffaele Costa
+Q3725850,Enrico La Loggia,father,Q3770766,Giuseppe La Loggia
+Q3725850,Enrico La Loggia,relative,Q3725848,Enrico La Loggia
+Q3733432,Esterino Montino,spouse,Q10579018,Monica Cirinnà
+Q3737980,Fabrizio Cicchitto,partner,Q16735537,Marta Ajò
+Q3741557,Federica Mogherini,father,Q404356,Flavio Mogherini
+Q3749290,Franca Chiaromonte,father,Q3760935,Gerardo Chiaromonte
+Q3749638,Francesco Boccia,spouse,Q3879474,Nunzia De Girolamo
+Q3750290,Francesco Merloni,father,Q3622674,Aristide Merloni
+Q3750290,Francesco Merloni,relative,Q3847449,Maria Paola Merloni
+Q3750290,Francesco Merloni,sibling,Q104165919,Antonio Merloni
+Q3750290,Francesco Merloni,sibling,Q265754,Vittorio Merloni
+Q3750475,Francesco Pionati,father,Q96749523,Giovanni Pionati
+Q3751262,Franco Debenedetti,father,Q3939940,Rodolfo Debenedetti
+Q3751262,Franco Debenedetti,sibling,Q123638,Carlo De Benedetti
+Q3762168,Giacomo Mancini,father,Q3904026,Pietro Mancini
+Q3762642,Gian Franco Schietroma,father,Q3702392,Dante Schietroma
+Q3765505,Giorgio Gori,spouse,Q3697552,Cristina Parodi
+Q3766565,Giovanni Battista Bachelet,father,Q4015280,Vittorio Bachelet
+Q3768072,Giovanni Russo,child,Q108923563,Marco Russo
+Q3768072,Giovanni Russo,sibling,Q3659814,Carlo Russo
+Q3768253,Giovanni Toti,spouse,Q3962032,Siria Magri
+Q3827827,Laura Pennacchi,sibling,Q604061,Antonio Pennacchi
+Q3827834,Laura Ravetto,spouse,Q3702604,Dario Ginefra
+Q3839817,Luigi Manconi,spouse,Q1115871,Bianca Berlinguer
+Q3845107,Manuela Repetti,partner,Q954698,Sandro Bondi
+Q3845998,Marco Causi,spouse,Q33122281,Monique Veaute
+Q3846354,Marco Perduca,relative,Q3620025,Antonio Perduca
+Q3846823,Maretta Scoca,father,Q3946218,Salvatore Scoca
+Q3846823,Maretta Scoca,sibling,Q21209033,Franco Gaetano Scoca
+Q3847313,Maria Grazia Laganà,father,Q3848701,Mario Laganà
+Q3847313,Maria Grazia Laganà,spouse,Q323657,Francesco Fortugno
+Q3847449,Maria Paola Merloni,father,Q265754,Vittorio Merloni
+Q3847449,Maria Paola Merloni,relative,Q3750290,Francesco Merloni
+Q3847479,Maria Rita Rossa,father,Q3779443,Guido Rossa
+Q3847895,Mariella Bocciardo,spouse,Q2050307,Paolo Berlusconi
+Q3848255,Mario Adinolfi,father,Q2473979,Ugo Adinolfi
+Q38484,Romano Prodi,sibling,Q3742011,Giorgio Prodi
+Q38484,Romano Prodi,sibling,Q3751532,Franco Prodi
+Q38484,Romano Prodi,sibling,Q3767981,Giovanni Prodi
+Q38484,Romano Prodi,sibling,Q3894406,Paolo Prodi
+Q38484,Romano Prodi,sibling,Q744324,Vittorio Prodi
+Q38484,Romano Prodi,spouse,Q17991252,Flavia Franzoni
+Q3848875,Mario Occhiuto,sibling,Q3939013,Roberto Occhiuto
+Q3849206,Mario Valducci,spouse,Q21196712,Annalisa Bruchi
+Q3852400,Maura Cossutta,father,Q678252,Armando Cossutta
+Q3856623,Michele Gesualdi,sibling,Q3750036,Francesco Gesualdi
+Q3870121,Nando Dalla Chiesa,father,Q723595,Carlo Alberto Dalla Chiesa
+Q3870121,Nando Dalla Chiesa,sibling,Q3961150,Simona Dalla Chiesa
+Q3870121,Nando Dalla Chiesa,sibling,Q629237,Rita Dalla Chiesa
+Q3879474,Nunzia De Girolamo,spouse,Q3749638,Francesco Boccia
+Q388442,Dario Franceschini,father,Q3765462,Giorgio Franceschini
+Q389134,Gabriella Carlucci,sibling,Q273073,Milly Carlucci
+Q389134,Gabriella Carlucci,sibling,Q559928,Anna Carlucci
+Q3893090,Pancho Pardi,father,Q3830263,Leo Pardi
+Q390378,Stefania Craxi,father,Q192818,Bettino Craxi
+Q390378,Stefania Craxi,sibling,Q2246709,Bobo Craxi
+Q3903879,Pietro Folena,father,Q1350256,Gianfranco Folena
+Q3939013,Roberto Occhiuto,sibling,Q3848875,Mario Occhiuto
+Q3941254,Rosa Maria Villecco,spouse,Q569777,Nicola Calipari
+Q3946247,Salvatore Vassallo,spouse,Q16268441,Elisabetta Gualmini
+Q3948159,Sandra Lonardo,spouse,Q1394911,Clemente Mastella
+Q3948285,Sandro Ruotolo,relative,Q2272111,Silvia Ruotolo
+Q3956186,Sergio Mattarella,child,Q18921228,Bernardo Giorgio Mattarella
+Q3956186,Sergio Mattarella,child,Q34252497,Laura Mattarella
+Q3956186,Sergio Mattarella,father,Q3638792,Bernardo Mattarella
+Q3956186,Sergio Mattarella,godparent,Q3825635,Salvatore Aldisio
+Q3956186,Sergio Mattarella,mother,Q18959978,Maria Buccellato
+Q3956186,Sergio Mattarella,relative,Q18921198,Lauro Chiazzese
+Q3956186,Sergio Mattarella,sibling,Q18942442,Antonino Mattarella
+Q3956186,Sergio Mattarella,sibling,Q2063147,Piersanti Mattarella
+Q3956186,Sergio Mattarella,spouse,Q18921193,Marisa Chiazzese
+Q3972355,Stefano Baccelli,father,Q31374149,Piero Baccelli
+Q4007598,Valdo Spini,father,Q3765764,Giorgio Spini
+Q4013521,Vincenzo Siniscalchi,father,Q63526022,Francesco Saverio Siniscalchi
+Q42514248,Laurent Viérin,father,Q3028404,Dino Viérin
+Q437336,Eva Klotz,father,Q97037,Georg Klotz
+Q444509,Franca Rame,child,Q968602,Jacopo Fo
+Q444509,Franca Rame,father,Q3713204,Domenico Rame
+Q444509,Franca Rame,sibling,Q3726020,Enrico Rame
+Q444509,Franca Rame,spouse,Q765,Dario Fo
+Q445665,Elsa Fornero,child,Q90068893,Silvia Deaglio
+Q445665,Elsa Fornero,spouse,Q3848521,Mario Deaglio
+Q447895,Giovanna Melandri,sibling,Q507868,Francesca Melandri
+Q452164,Rosa Russo Iervolino,father,Q3617176,Angelo Raffaele Jervolino
+Q452164,Rosa Russo Iervolino,mother,Q3847238,Maria De Unterrichter Jervolino
+Q452164,Rosa Russo Iervolino,relative,Q3713084,Domenico Jervolino
+Q452164,Rosa Russo Iervolino,relative,Q3779258,Guido De Unterrichter
+Q45359418,Gaetano Manfredi,sibling,Q16576916,Massimiliano Manfredi
+Q463130,Gianni Alemanno,spouse,Q52418695,Isabella Rauti
+Q47563,Matteo Renzi,father,Q51136224,Tiziano Renzi
+Q47563,Matteo Renzi,mother,Q51136321,Laura Bovoli
+Q47563,Matteo Renzi,sibling,Q58649504,Samuele Renzi
+Q47563,Matteo Renzi,spouse,Q18350440,Agnese Landini
+Q47602,Massimo D'Alema,father,Q3770384,Giuseppe D'Alema
+Q47832,Umberto Bossi,child,Q2144453,Renzo Bossi
+Q50005,Giulio Andreotti,child,Q108674598,Serena Andreotti
+Q50005,Giulio Andreotti,child,Q5299694,Lamberto Andreotti
+Q50005,Giulio Andreotti,spouse,Q108674674,Livia Andreotti
+Q50841191,Lucia Borgonzoni,relative,Q3609136,Aldo Borgonzoni
+Q51880096,Elisabetta Ripani,father,Q105208524,Giulio Ripani
+Q52418695,Isabella Rauti,father,Q922336,Pino Rauti
+Q52418695,Isabella Rauti,spouse,Q463130,Gianni Alemanno
+Q52420169,Andrea Cangini,child,Q55217035,Franco Cangini
+Q535345,Francesco Rutelli,relative,Q982524,Mario Rutelli
+Q535345,Francesco Rutelli,spouse,Q3634667,Barbara Palombelli
+Q53844829,Giuseppe Conte,relative,Q2105051,Ewa Aulin
+Q547449,Francesco Musotto,father,Q3767799,Giovanni Musotto
+Q547449,Francesco Musotto,relative,Q3750336,Francesco Musotto
+Q5501196,Paolo Di Laura Frattura,father,Q18417902,Fernando Di Laura Frattura
+Q551188,Rocco Buttiglione,sibling,Q3616749,Angela Buttiglione
+Q55281541,Marta Fascina,partner,Q11860,Silvio Berlusconi
+Q55282045,Andrea Delmastro Delle Vedove,father,Q15589948,Sandro Delmastro delle Vedove
+Q558991,Tommaso Padoa-Schioppa,father,Q15936509,Fabio Padoa-Schioppa
+Q558991,Tommaso Padoa-Schioppa,partner,Q3634690,Barbara Spinelli
+Q558991,Tommaso Padoa-Schioppa,sibling,Q3619982,Antonio Padoa-Schioppa
+Q558991,Tommaso Padoa-Schioppa,spouse,Q3745861,Fiorella Kostoris
+Q603390,Antonio Martino,father,Q139055,Gaetano Martino
+Q61014728,Paolo Zangrillo,sibling,Q56379031,Alberto Zangrillo
+Q616525,Gianfranco Miccichè,sibling,Q3757053,Gaetano Miccichè
+Q634620,Piero Marrazzo,father,Q1122259,Giuseppe Marrazzo
+Q645165,Carlo Giovanardi,sibling,Q5219275,Daniele Giovanardi
+Q659163,Giancarlo Giorgetti,relative,Q3851410,Massimo Ponzellini
+Q65953161,Paolo Siani,sibling,Q3762973,Giancarlo Siani
+Q659712,Luca Barbareschi,partner,Q521022,Lucrezia Lante Della Rovere
+Q666504,Giuliano Pisapia,father,Q3762619,Gian Domenico Pisapia
+Q666504,Giuliano Pisapia,spouse,Q3677362,Cinzia Sasso
+Q674957,Enrico Letta,father,Q28922825,Giorgio Letta
+Q674957,Enrico Letta,relative,Q1225624,Gianni Letta
+Q674957,Enrico Letta,relative,Q16559055,Giampaolo Letta
+Q677894,Siegfried Brugger,father,Q17364249,Peter Brugger
+Q678252,Armando Cossutta,child,Q3852400,Maura Cossutta
+Q68586055,Camillo D'Alessandro,sibling,Q21264577,Roberta D'Alessandro
+Q687662,Stefano Caldoro,father,Q17453227,Antonio Caldoro
+Q706525,Mario Tronti,relative,Q978509,Renato Zero
+Q707862,Santo Versace,sibling,Q229437,Donatella Versace
+Q707862,Santo Versace,sibling,Q264490,Gianni arturo Versace
+Q75585900,Michele Figurelli,child,Q75587819,Luna Figurelli
+Q75585900,Michele Figurelli,child,Q75587821,Emiliano Figurelli
+Q75585900,Michele Figurelli,child,Q75587822,Lucrezio Figurelli
+Q75585900,Michele Figurelli,father,Q75573215,Don Fernando Figurelli
+Q75585900,Michele Figurelli,mother,Q75585867,Donna Maria Orgera
+Q75585900,Michele Figurelli,spouse,Q75585929,Principessa Adelaida Notarbartolo di Sciara
+Q767345,Giuseppe Cossiga,father,Q1230,Francesco Cossiga
+Q767345,Giuseppe Cossiga,mother,Q94666406,Giuseppa Sigurani
+Q780378,Umberto Veronesi,child,Q56850272,Paolo Veronesi
+Q78162844,Nicola Provenza,father,Q110503462,Vittorio Provenza
+Q78162844,Nicola Provenza,sibling,Q110510314,Luigi Provenza
+Q8262071,Matteo Orfini,father,Q3848886,Mario Orfini
+Q902439,Gianni De Michelis,sibling,Q1056824,Cesare G. De Michelis
+Q902439,Gianni De Michelis,sibling,Q3665404,Cesare De Michelis
+Q934331,Giulio Santagata,sibling,Q3846460,Marco Santagata
+Q94293385,Maria Assunta Accili Sabbatini,father,Q19727792,Achille Accili
+Q954698,Sandro Bondi,partner,Q3845107,Manuela Repetti
+Q956652,Renato Ruggiero,child,Q3934610,Riccardo Ruggiero
+Q958889,Pietro Ichino,sibling,Q3615787,Andrea Ichino
+Q971234,Gianni Pittella,father,Q16550409,Domenico Pittella
+Q971234,Gianni Pittella,sibling,Q15829777,Marcello Pittella
