@@ -9,6 +9,7 @@ Q1060314,Raffaele Fitto,father,Q3946056,Salvatore Fitto
 Q1071031,Paolo Gentiloni,relative,Q4013441,Ottorino Gentiloni
 Q1071082,Barbara Pollastrini,spouse,Q3932705,Renato Mannheimer
 Q1071082,Barbara Pollastrini,spouse,Q58036409,Pietro Modiano
+Q109570358,Andrea Gentile,father,Q3619638,Antonio Gentile
 Q1098169,Claudio Scajola,father,Q105711966,Ferdinando Scajola
 Q1098169,Claudio Scajola,mother,Q105715694,Maria Vittoria Truini
 Q1098169,Claudio Scajola,relative,Q105715849,Ferdinando Truini
@@ -63,6 +64,7 @@ Q1459321,Vittorio Cecchi Gori,partner,Q293117,Maria Grazia Buccella
 Q1459321,Vittorio Cecchi Gori,spouse,Q3937247,Rita Rusić
 Q15142811,Maria Burani Procaccini,child,Q64585327,Nicola Procaccini
 Q15143059,Maria Elena Boschi,partner,Q1117917,Giulio Berruti
+Q15143059,Maria Elena Boschi,partner,Q3615550,Andrea Bruno Savelli
 Q151608,Claudio Abbado,child,Q3701853,Daniele Abbado
 Q151608,Claudio Abbado,father,Q1850160,Michelangelo Abbado
 Q151608,Claudio Abbado,sibling,Q1641210,Marcello Abbado
@@ -159,6 +161,8 @@ Q356351,Gianni Agnelli,sibling,Q967846,Umberto Agnelli
 Q356351,Gianni Agnelli,spouse,Q3290404,Marella Agnelli
 Q3613897,Amedeo Matacena,partner,Q3609664,Alessandra Canale
 Q3616756,Angela Filipponio Tatarella,spouse,Q2847139,Giuseppe Tatarella
+Q3619638,Antonio Gentile,child,Q109570358,Andrea Gentile
+Q3619638,Antonio Gentile,sibling,Q111660900,Pino Gentile
 Q3658857,Carla Mazzuca Poggiolini,father,Q3293502,Mario Mazzuca
 Q3658857,Carla Mazzuca Poggiolini,spouse,Q3702196,Danilo Poggiolini
 Q3667497,Chiara Moroni,father,Q3956193,Sergio Moroni
@@ -301,7 +305,7 @@ Q68586055,Camillo D'Alessandro,sibling,Q21264577,Roberta D'Alessandro
 Q687662,Stefano Caldoro,father,Q17453227,Antonio Caldoro
 Q706525,Mario Tronti,relative,Q978509,Renato Zero
 Q707862,Santo Versace,sibling,Q229437,Donatella Versace
-Q707862,Santo Versace,sibling,Q264490,Gianni arturo Versace
+Q707862,Santo Versace,sibling,Q264490,Gianni Versace
 Q75585900,Michele Figurelli,child,Q75587819,Luna Figurelli
 Q75585900,Michele Figurelli,child,Q75587821,Emiliano Figurelli
 Q75585900,Michele Figurelli,child,Q75587822,Lucrezio Figurelli
