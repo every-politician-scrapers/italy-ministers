@@ -1,4 +1,6 @@
 position,title
+Q14469746,Undersecretary of State
+Q3965289,Undersecretary to the Presidency of the Council
 Q4011164,Vice President of the Council of Ministers
 Q47528550,president of Abruzzo
 Q47528608,president of Aosta Valley
@@ -21,6 +23,7 @@ Q47530290,president of Trentino-South Tyrol
 Q7241294,president of Tuscany
 Q7241297,president of Umbria
 Q7241299,president of Veneto
+Q74230370,president of the Province of Agrigento
 Q80368573,president of the Province of Alessandria
 Q75717851,president of the Province of Ancona
 Q73759142,president of the Province of Arezzo
@@ -37,6 +40,8 @@ Q78095806,president of the Province of Brindisi
 Q74548044,president of the Province of Campobasso
 Q74227317,president of the Province of Carbonia-Iglesias
 Q78097173,president of the Province of Caserta
+Q74218744,president of the Province of Catania
+Q76338111,president of the Province of Catanzaro
 Q75716142,president of the Province of Chieti
 Q80458193,president of the Province of Como
 Q76338152,president of the Province of Cosenza
@@ -48,6 +53,8 @@ Q24198461,president of the Province of Florence
 Q78095803,president of the Province of Foggia
 Q80356775,president of the Province of Forlì-Cesena
 Q78098980,president of the Province of Frosinone
+Q73779989,president of the Province of Genoa
+Q74220911,president of the Province of Gorizia
 Q73677786,president of the Province of Grosseto
 Q75026026,president of the Province of Imperia
 Q74549432,president of the Province of Isernia
@@ -63,12 +70,17 @@ Q80352460,president of the Province of Macerata
 Q80472422,president of the Province of Mantua
 Q73750112,president of the Province of Massa-Carrara
 Q74227732,president of the Province of Medio Campidano
+Q74218794,president of the Province of Messina
+Q73778982,president of the Province of Milan
 Q80356663,president of the Province of Modena
 Q42571950,president of the Province of Monza and Brianza
+Q73781133,president of the Province of Naples
 Q80374280,president of the Province of Novara
 Q74227968,president of the Province of Ogliastra
 Q74226859,president of the Province of Olbia-Tempio
+Q74229182,president of the Province of Oristano
 Q80362552,president of the Province of Padua
+Q74218679,president of the Province of Palermo
 Q80356622,president of the Province of Parma
 Q80458162,president of the Province of Pavia
 Q74667515,president of the Province of Perugia
@@ -79,6 +91,7 @@ Q73678527,president of the Province of Pisa
 Q74220983,president of the Province of Pordenone
 Q74663114,president of the Province of Potenza
 Q73747435,president of the Province of Prato
+Q74230495,president of the Province of Ragusa
 Q80356756,president of the Province of Ravenna
 Q74218859,president of the Province of Reggio Calabria
 Q80356704,president of the Province of Reggio Emilia
@@ -87,6 +100,7 @@ Q80356790,president of the Province of Rimini
 Q73777520,president of the Province of Rome
 Q80363676,president of the Province of Rovigo
 Q78097176,president of the Province of Salerno
+Q75026928,president of the Province of Savona
 Q80472454,president of the Province of Sondrio
 Q78095808,president of the Province of Taranto
 Q75716180,president of the Province of Teramo
