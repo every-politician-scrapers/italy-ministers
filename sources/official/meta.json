@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Italy",
+      "id": "Q38"
+    },
+    "cabinet": {
+      "id": "Q105460407",
+      "start": "2021-02-13",
+      "parent": "Q3687318"
+    },
+    "source": {
+        "url":   "https://www.governo.it/it/ministri-e-sottosegretari",
+        "title": "Ministri e Sottosegretari | www.governo.it",
+        "lang":  {
+            "code": "it",
+            "wikidata": "Q652"
+        }
+    },
+    "agent": "every-politican-scrapers/italy-ministers"
+}
