@@ -1,0 +1,295 @@
+{
+  "title": "Sergio Abramo",
+  "pageID": 54287856,
+  "categories": [
+    "Living people",
+    "1958 births",
+    "People from Catanzaro",
+    "Forza Italia (2013) politicians",
+    "21st-century Italian politicians",
+    "Mayors of places in Calabria",
+    "Presidents of the Province of Catanzaro"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sergio Abramo (born 29 March 1958) is an Italian politician and entrepreneur.",
+              "formatting": {
+                "bold": [
+                  "Sergio Abramo"
+                ]
+              }
+            },
+            {
+              "text": "He is member of the Forza Italia.",
+              "links": [
+                {
+                  "text": "Forza Italia",
+                  "type": "internal",
+                  "page": "Forza Italia (2013)"
+                }
+              ]
+            },
+            {
+              "text": "He was born in Catanzaro, Italy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Catanzaro"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "November 2020",
+          "template": "use mdy dates"
+        },
+        {
+          "description": "Italian politician and entrepreneur",
+          "template": "short description"
+        },
+        {
+          "year": "1958",
+          "month": "03",
+          "day": "29",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sergio Abramo"
+          },
+          "image": {
+            "text": "Sergio Abramo (cropped).jpg"
+          },
+          "office": {
+            "text": "Mayor of Catanzaro",
+            "links": [
+              {
+                "text": "Mayor of Catanzaro",
+                "type": "internal",
+                "page": "List of mayors of Catanzaro"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 May 2012"
+          },
+          "term_end": {
+            "text": "30 June 2022"
+          },
+          "predecessor": {
+            "text": "Michele Traversa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michele Traversa"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Nicola Fiorita",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicola Fiorita"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "11 May 1997"
+          },
+          "term_end2": {
+            "text": "18 April 2005"
+          },
+          "predecessor2": {
+            "text": "Benito Gualtieri",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Benito Gualtieri"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Rosario Olivo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rosario Olivo"
+              }
+            ]
+          },
+          "office3": {
+            "text": "President of the Province of Catanzaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Province of Catanzaro"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "31 October 2018"
+          },
+          "predecessor3": {
+            "text": "Enzo Bruno",
+            "links": [
+              {
+                "text": "Enzo Bruno",
+                "type": "internal",
+                "page": "Enzo Bruno (politician)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 29, 1958"
+          },
+          "birth_place": {
+            "text": "Catanzaro, Italy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Catanzaro"
+              }
+            ]
+          },
+          "party": {
+            "text": "Forza Italia (until 2021) Coraggio Italia (since 2021)",
+            "links": [
+              {
+                "text": "Forza Italia",
+                "type": "internal",
+                "page": "Forza Italia (2013)"
+              },
+              {
+                "type": "internal",
+                "page": "Coraggio Italia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Italian"
+          },
+          "occupation": {
+            "text": "Politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.corriere.it/politica/12_maggio_12/catanzaro-sequestrate-schede-elettorali_3503f544-9c5e-11e1-a2f4-f4353ea0ae1a.shtml",
+          "language": "it",
+          "title": "Comunali a Catanzaro,la procura sequestra tutte le schede",
+          "publisher": "Corriere.it",
+          "access-date": "12 June 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.repubblica.it/politica/2012/05/12/news/catanzaro_voto_di_scambio_sequestrate_le_schede_elettorali-35020347/",
+          "language": "it",
+          "title": "Catanzaro, \"voto di scambio\" sequestrate le schede elettorali",
+          "publisher": "repubblica.it",
+          "access-date": "12 June 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.catanzaroinforma.it/pgn/news.php?id=41692#",
+          "language": "it",
+          "title": "Concluso scrutinio sezione 85 Abramo sindaco per 130 voti",
+          "publisher": "catanzaroinforma.it",
+          "access-date": "12 June 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.catanzaroinforma.it/pgn/news.php?id=41753#",
+          "language": "it",
+          "title": "Sequestro schede, Abramo soddisfatto per la decisione della Procura",
+          "publisher": "catanzaroinforma.it",
+          "access-date": "12 June 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Enzo Bruno",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Province of Catanzaro",
+          "years": "2018–2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "TBD",
+          "template": "s-aft"
+        },
+        {
+          "before": "Michele Traversa",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Catanzaro",
+          "years": "2012–2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Nicola Fiorita",
+          "template": "s-aft"
+        },
+        {
+          "before": "Benito Gualtieri",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Catanzaro",
+          "years": "1997–2005",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Rosario Olivo",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "italyprovincialcapitalmayors"
+        },
+        {
+          "template": "italyregionalcapitalmayors"
+        },
+        {
+          "template": "italy-mayor-stub"
+        }
+      ]
+    }
+  ]
+}

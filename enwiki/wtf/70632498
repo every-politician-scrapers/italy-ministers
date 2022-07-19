@@ -1,0 +1,179 @@
+{
+  "title": "Barbara Floridia",
+  "pageID": 70632498,
+  "categories": [
+    "Living people",
+    "1977 births",
+    "21st-century Italian women politicians",
+    "Senators of Legislature XVIII of Italy",
+    "Five Star Movement politicians",
+    "Women government ministers of Italy",
+    "University of Messina alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Barbara Floridia (born 5 February 1977) is an Italian politician who currently serves as a Senator.",
+              "formatting": {
+                "bold": [
+                  "Barbara Floridia"
+                ]
+              }
+            },
+            {
+              "text": "She is also undersecretary of state at the Ministry of Education, University and Research in the Draghi government.",
+              "links": [
+                {
+                  "text": "undersecretary of state",
+                  "type": "internal",
+                  "page": "Undersecretary (Italy)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ministry of Education, University and Research"
+                },
+                {
+                  "text": "Draghi government",
+                  "type": "internal",
+                  "page": "Draghi Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian politician",
+          "template": "short description"
+        },
+        {
+          "date": "May 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "April 2022",
+          "template": "expand italian"
+        },
+        {
+          "df": "y",
+          "year": "1977",
+          "month": "2",
+          "day": "5",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Barbara Floridia"
+          },
+          "image": {
+            "text": "Barbara Floridia datisenato 2018.jpg"
+          },
+          "order": {
+            "text": "Member of the Senate",
+            "links": [
+              {
+                "text": "Member of the Senate",
+                "type": "internal",
+                "page": "Italian Senate"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 March 2018"
+          },
+          "birth_date": {
+            "text": "February 5, 1977"
+          },
+          "birth_place": {
+            "text": "Messina, Italy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Messina"
+              }
+            ]
+          },
+          "party": {
+            "text": "Five Star Movement",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Five Star Movement"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Italian"
+          },
+          "alma_mater": {
+            "text": "University of Messina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Messina"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Teacher"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "senato.it - Scheda di attività di Barbara FLORIDIA - XVIII Legislatura",
+          "url": "https://www.senato.it/leg/18/BGT/Schede/Attsen/00032634.htm",
+          "access-date": "2022-04-26",
+          "website": "www.senato.it",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of current Italian senators",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of current Italian senators"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "italy-politician-stub"
+        }
+      ]
+    }
+  ]
+}

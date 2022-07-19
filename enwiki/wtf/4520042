@@ -1,0 +1,1050 @@
+{
+  "title": "Luca Zaia",
+  "pageID": 4520042,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "Presidents of Veneto",
+    "Presidents of the Province of Treviso",
+    "Agriculture ministers of Italy",
+    "Venetist politicians",
+    "Venetian independence activists",
+    "Lega Nord politicians",
+    "People from Conegliano",
+    "Members of the Regional Council of Veneto",
+    "20th-century Italian politicians",
+    "21st-century Italian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Luca Zaia (born 27 March 1968) is an Italian and Venetist politician, who has been President of Veneto since 2010.",
+              "links": [
+                {
+                  "text": "Venetist",
+                  "type": "internal",
+                  "page": "Venetian nationalism"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of Veneto"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Luca Zaia"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to that, Zaia was President of the Province of Treviso from 1998 to 2005, Vice President of Veneto from 2005 to 2008 and Minister of Agriculture in Silvio Berlusconi's fourth cabinet from 2008 to 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Province of Treviso"
+                },
+                {
+                  "text": "Minister of Agriculture",
+                  "type": "internal",
+                  "page": "Ministry of Agricultural, Food and Forestry Policies (Italy)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Silvio Berlusconi"
+                },
+                {
+                  "text": "fourth cabinet",
+                  "type": "internal",
+                  "page": "Berlusconi IV Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian and Venetist politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1968",
+          "month": "3",
+          "day": "27",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Raffaella Monti",
+          "from": "1998",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Luca Zaia"
+          },
+          "image": {
+            "text": "Luca Zaia 2017 (cropped).jpg"
+          },
+          "office": {
+            "text": "President of Veneto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Veneto"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 April 2010"
+          },
+          "predecessor": {
+            "text": "Giancarlo Galan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Giancarlo Galan"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Agriculture",
+            "links": [
+              {
+                "text": "Minister of Agriculture",
+                "type": "internal",
+                "page": "Italian Minister of Agriculture"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Silvio Berlusconi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Silvio Berlusconi"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "8 May 2008"
+          },
+          "term_end1": {
+            "text": "16 April 2010"
+          },
+          "predecessor1": {
+            "text": "Paolo De Castro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paolo De Castro"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Giancarlo Galan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Giancarlo Galan"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Vice President of Veneto",
+            "links": [
+              {
+                "text": "Vice President of Veneto",
+                "type": "internal",
+                "page": "2005 Venetian regional election",
+                "anchor": "Council composition"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Giancarlo Galan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Giancarlo Galan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "19 May 2005"
+          },
+          "term_end2": {
+            "text": "6 June 2008"
+          },
+          "predecessor2": {
+            "text": "Fabio Gava",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fabio Gava"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Franco Manzato",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Franco Manzato"
+              }
+            ]
+          },
+          "office3": {
+            "text": "President of the Province of Treviso",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Province of Treviso"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "10 June 1998"
+          },
+          "term_end3": {
+            "text": "9 May 2005"
+          },
+          "predecessor3": {
+            "text": "Giovanni Mazzonetto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Giovanni Mazzonetto"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Leonardo Muraro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leonardo Muraro"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 27, 1968"
+          },
+          "birth_place": {
+            "text": "Conegliano, Italy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Conegliano"
+              },
+              {
+                "type": "internal",
+                "page": "Italy"
+              }
+            ]
+          },
+          "party": {
+            "text": "Lega Nord",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lega Nord"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Raffaella Monti (m. 1998)"
+          },
+          "alma_mater": {
+            "text": "University of Udine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Udine"
+              }
+            ]
+          },
+          "website": {
+            "text": "Official website"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Luca Zaia joined Liga Veneta–Lega Nord in the early 1990s, after having met Gian Paolo Gobbo, and was first elected to public office in 1993, when he became municipal councillor of Godega di Sant'Urbano.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Liga Veneta"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lega Nord"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gian Paolo Gobbo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Godega di Sant'Urbano"
+                }
+              ]
+            },
+            {
+              "text": "Two years later, in 1995, he successfully ran for provincial councillor and, after the election, was appointed provincial minister of Agriculture."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 1998 provincial election, Zaia was elected President of the Province of Treviso with 60.0% of the vote in the second round, after arriving ahead in the first round with 41.4% and refusing to accept the support of any other party other than his own.",
+              "links": [
+                {
+                  "text": "1998 provincial election",
+                  "type": "internal",
+                  "page": "Provincial elections in Veneto",
+                  "anchor": "1998 provincial elections"
+                },
+                {
+                  "type": "internal",
+                  "page": "Province of Treviso"
+                }
+              ]
+            },
+            {
+              "text": "At the time, he was the youngest provincial president of Italy."
+            },
+            {
+              "text": "In 2002 he was re-elected with a landslide 68.9% of the vote in the second round and continued to govern the province with the sole support of his party.",
+              "links": [
+                {
+                  "text": "2002",
+                  "type": "internal",
+                  "page": "Provincial elections in Veneto",
+                  "anchor": "2002 provincial elections"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2005, Zaia was appointed Vice President of Veneto and regional minister of Agriculture and Tourism in Galan III Government, but left in May 2008 in order to take office as federal Minister of Agriculture in Berlusconi IV Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Galan III Government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Berlusconi IV Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2009, The People of Freedom (PdL) determined that the coalition candidate in the 2010 regional election would be a member of Lega Nord.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The People of Freedom"
+                },
+                {
+                  "text": "2010 regional election",
+                  "type": "internal",
+                  "page": "2010 Venetian regional election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lega Nord"
+                }
+              ]
+            },
+            {
+              "text": "Subsequently, the national council of Liga Veneta (LV) nominated Zaia for President of the region."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.cattaneo.org/archivi/adele/province/provin98.xls",
+          "title": "Archived copy",
+          "access-date": "2008-11-03",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20110722091302/http://www.cattaneo.org/archivi/adele/province/provin98.xls",
+          "archive-date": "2011-07-22",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.repubblica.it/elezioni2002/province.html",
+          "title": "Repubblica.it",
+          "access-date": "30 March 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://archiviostorico.corriere.it/2009/dicembre/17/Pdl_Udc_basta_tensioni_Regionali_co_8_091217033.shtml",
+          "title": "Archivio Corriere della Sera",
+          "access-date": "30 March 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://corrieredelveneto.corriere.it/veneto/notizie/politica/2009/19-dicembre-2009/zaia-candidato-c-sigillo-lega--1602180583635.shtml",
+          "title": "Zaia candidato: c'è il sigillo della Lega \"Felice di questa grande responsabilità\" - Corriere del Veneto",
+          "access-date": "30 March 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.consiglioveneto.it/crvportal/pageContainer.jsp?n=5&p=5&c=1&e=12&t=0&key=451",
+          "title": "Consiglio Regionale Veneto - Il Consiglio",
+          "access-date": "30 March 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "President of Veneto",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In the 2010 regional election Zaia was elected President of Veneto by winning 60.2% of the vote.",
+              "links": [
+                {
+                  "text": "2010 regional election",
+                  "type": "internal",
+                  "page": "2010 Venetian regional election"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of Veneto"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2015 regional election Zaia was re-elected President of Veneto with 50.1%, despite the split occurred in his party when Flavio Tosi, who later won 11.9% of the vote, left in order to form the Tosi List for Veneto.",
+              "links": [
+                {
+                  "text": "2015 regional election",
+                  "type": "internal",
+                  "page": "2015 Venetian regional election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Flavio Tosi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tosi List for Veneto"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2020 regional election Zaia was re-elected for a third consecutive term with 76.8% of the vote, becoming the most voted regional President ever in Italy.",
+              "links": [
+                {
+                  "text": "2020 regional election",
+                  "type": "internal",
+                  "page": "2020 Venetian regional election"
+                }
+              ]
+            },
+            {
+              "text": "Additionally, Zaia's personal list won 44.6% of the vote, while the party's official list won 16.9%."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://regionali2010.interno.it/regio100328/R05.htm",
+          "title": "Ministry of the Interior – 2010 regional election in Veneto",
+          "access-date": "30 March 2017",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20100401033628/http://regionali2010.interno.it/regio100328/R05.htm",
+          "archive-date": "1 April 2010",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Social issues",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In early times of his administration, Zaia tried to limit the RU-486 abortive pill.",
+              "links": [
+                {
+                  "text": "RU-486",
+                  "type": "internal",
+                  "page": "Mifepristone"
+                }
+              ]
+            },
+            {
+              "text": "However, the Italian Medicines Agency declared that his position was unconstitutional in view of how the question is regulated by the Law 194 of 1978.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Italian Medicines Agency"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2013 Zaia spoke against the LGBT adoption, saying: \"I have nothing against gays, but the possibility of adoption seems to me to be an extreme measure with unpredictable effects.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "LGBT adoption"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Zaia however liberalised artificial insemination for women up to 50 years.",
+              "links": [
+                {
+                  "text": "artificial insemination",
+                  "type": "internal",
+                  "page": "artificial insemination"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.ilgiornale.it/news/i-neo-governatori-leghisti-no-ru486.html",
+          "title": "I neo governatori leghisti: \"No alla Ru486\"",
+          "author": "Enza Cusmai",
+          "publisher": "Il Giornale",
+          "date": "April 2, 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://mattinopadova.gelocal.it/regione/2013/01/12/news/zaia-assolutamente-contrario-adozioni-gay-1.6337670",
+          "title": "Zaia: assolutamente contrario adozioni gay",
+          "publisher": "Il Mattino",
+          "date": "January 12, 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://corrieredelveneto.corriere.it/veneto/notizie/politica/2011/16-giugno-2011/fecondazione-assistita-mamme-fino-50-anni-190878362342.shtml",
+          "title": "Fecondazione assistita, mamme fino a 50 anni - Corriere del Veneto",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.famigliacristiana.it/articolo/veneto-fecondazione-assistita-fino-a-50-anni_170611210549.aspx",
+          "title": "Veneto, ticket fecondazione",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Economic issues",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In August 2010, an anti-globalization group demonstrated in Vivaro against the planting of genetically modified organisms.",
+              "links": [
+                {
+                  "text": "anti-globalization group",
+                  "type": "internal",
+                  "page": "Anti-globalization movement"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vivaro"
+                },
+                {
+                  "text": "genetically modified organisms",
+                  "type": "internal",
+                  "page": "genetically modified organism"
+                }
+              ]
+            },
+            {
+              "text": "The demonstration was supported by Zaia, who demanded a \"return to legality\", even though his predecessor Giancarlo Galan, a member of his coalition, was in favour of GMOs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Giancarlo Galan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After a flood in 2010, Zaia and his coalition changed a regional law to permit the reconstruction of rural ruins up to 800 cubic metres."
+            },
+            {
+              "text": "The Democratic Party claimed that this was an attempt at \"cementification\"."
+            },
+            {
+              "text": "The National Association of Building Constructors (ANCE) also called the law a \"bad choice\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Zaia was criticized when, after the flood, he asked for more funds for the reconstruction, saying, \"It's a shame spending €250,000,000 for four stones in Pompei.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pompei"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.repubblica.it/rubriche/poteri-invisibili/2010/12/23/news/immobiliare_veneto-10541093/",
+          "title": "Lega di lotta e di cemento",
+          "author": "Alberto Statera",
+          "publisher": "La Repubblica",
+          "date": "December 23, 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://archiviostorico.corriere.it/2010/novembre/09/Premier_nel_Veneto_alluvionato_Zaia_co_9_101109030.shtml",
+          "title": "Premier nel Veneto alluvionato Zaia: vergogna i soldi a Pompei",
+          "author": "Francesco Alberti",
+          "publisher": "Corriere della Sera",
+          "date": "November 9, 2010",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Venetian independence",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zaia announced that he too had voted (yes) in the unofficial, non-binding, online and privately organised 2014 Venetian independence referendum and explained that he would seek \"total independence\" for Veneto.",
+              "links": [
+                {
+                  "text": "online",
+                  "type": "internal",
+                  "page": "electronic voting"
+                },
+                {
+                  "text": "2014 Venetian independence referendum",
+                  "type": "internal",
+                  "page": "2014 Venetian independence referendum"
+                }
+              ]
+            },
+            {
+              "text": "Zaia has compared the status of the Veneto within Italy to that of Crimea within Ukraine.",
+              "links": [
+                {
+                  "text": "Crimea",
+                  "type": "internal",
+                  "page": "Autonomous Republic of Crimea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ukraine"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.veronasera.it/cronaca/verona-referendum-indipendenza-veneto-macina-voti-online-segni-sentimento-condiviso-18-marzo-2014.html",
+          "title": "Verona, il referendum per l'indipendenza del Veneto macina voti online: \"Segni di sentimento condiviso\"",
+          "publisher": "VeronaSera",
+          "date": "March 18, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.telegraph.co.uk/news/worldnews/europe/italy/10708733/President-of-Veneto-joins-campaign-for-Venetian-independence-from-Italy.html",
+          "title": "President of Veneto joins campaign for Venetian independence from Italy - Telegraph",
+          "publisher": "telegraph.co.uk",
+          "access-date": "2014-03-25",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.thelocal.it/20140320/rome-treats-venice-like-a-suburb-of-roman-empire",
+          "title": "'Rome thinks it is still an empire': Veneto president - The Local",
+          "publisher": "thelocal.it",
+          "access-date": "2014-03-25",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Venetian autonomy",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zaia was a strong proponent of and oversaw the 2017 Venetian autonomy referendum, in which turnout was 57.2% and 98.1% of participants voted \"yes\".",
+              "links": [
+                {
+                  "text": "2017 Venetian autonomy referendum",
+                  "type": "internal",
+                  "page": "2017 Venetian autonomy referendum"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Covid-19 outbreak",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In February 2020 Zaia apologized after criticizing China over the COVID-19 pandemic and claiming that Chinese people \"eat live mice\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19 pandemic"
+                }
+              ]
+            },
+            {
+              "text": "Zaia has anyway emerged strengthened from the crisis, widely praised for keeping hospital admissions down."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Italian regional chief sorry for saying Chinese eat 'live mice'",
+          "url": "https://www.reuters.com/article/china-health-italy-idUSL8N2AT0G3",
+          "access-date": "22 September 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Italy's far-right League hurt by response to coronavirus in heartland",
+          "url": "https://www.reuters.com/article/us-health-coronavirus-italy-lombardy-idUSKCN2280GX",
+          "access-date": "22 September 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Miscellaneous",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In the occasion of the 2011 referendums on four questions concerning the repeal of recent laws regarding the privatisation of water services (two questions), a return to the nuclear energy which had been phased out after the 1987 referendum, and criminal procedure, specifically a provision exempting the Prime Minister and the Ministers from appearing in court, he voted \"4 Yes\".",
+              "links": [
+                {
+                  "text": "2011 referendums",
+                  "type": "internal",
+                  "page": "2011 Italian referendums"
+                },
+                {
+                  "text": "privatisation of water",
+                  "type": "internal",
+                  "page": "Water privatization"
+                },
+                {
+                  "text": "nuclear energy",
+                  "type": "internal",
+                  "page": "nuclear power"
+                },
+                {
+                  "text": "1987 referendum",
+                  "type": "internal",
+                  "page": "1987 Italian referendums"
+                },
+                {
+                  "text": "criminal procedure",
+                  "type": "internal",
+                  "page": "criminal procedure"
+                }
+              ]
+            },
+            {
+              "text": "He called for more transparency and demanded more citizens' supervision of public administration.",
+              "links": [
+                {
+                  "text": "transparency",
+                  "type": "internal",
+                  "page": "Transparency (behavior)",
+                  "anchor": "Politics"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.unita.it/italia/sorrisi-per-napolitano-al-seggio-br-zaia-ho-votato-quattro-si-1.303307",
+          "title": "Sorrisi per Napolitano al seggio Zaia: ho votato quattro Sì",
+          "publisher": "L'Unità",
+          "date": "June 12, 2011",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20160301225141/http://www.unita.it/italia/sorrisi-per-napolitano-al-seggio-br-zaia-ho-votato-quattro-si-1.303307",
+          "archive-date": "March 1, 2016",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Luca Zaia was born on 27 March 1968 in the Province of Treviso.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Province of Treviso"
+                }
+              ]
+            },
+            {
+              "text": "In 1993, he received a degree in the science of animal production at the veterinary college of the University of Udine before attending a managerial course.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Udine"
+                }
+              ]
+            },
+            {
+              "text": "He paid his studies by working as a commercial for local discothèques."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1998 Zaia married Raffaella Monti."
+            },
+            {
+              "text": "The couple has no children."
+            },
+            {
+              "text": "Zaia loves to ride horses and had one for 19 years."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In August 2006, when he was the Vice President of Veneto, Zaia saved an Albanian citizen who was wedged in a burning car.",
+              "links": [
+                {
+                  "text": "Albanian",
+                  "type": "internal",
+                  "page": "Albanian people"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.corriere.it/politica/15_agosto_14/quando-zaia-lavorava-discoteca-portavo-3-mila-persone-sera-fc50837c-4243-11e5-ab47-312038e9e7e2.shtml",
+          "title": "Quando Zaia lavorava in discoteca \"Portavo 3 mila persone a sera\"",
+          "date": "14 August 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://archiviostorico.corriere.it/2010/marzo/31/moglie_del_neo_governatore_Amo_co_8_100331012.shtml",
+          "title": "Archivio Corriere della Sera",
+          "access-date": "30 March 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ilgazzettino.it/nordest/venezia/fieracavalli_zaia_royal_cal-4853522.html",
+          "title": "Addio a Royal Cal, il governatore Zaia piange il suo amato cavallo: Era con lui da 19 anni",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://archiviostorico.corriere.it/2006/agosto/04/Auto_fiamme_leghista_Zaia_salva_co_9_060804057.shtml",
+          "title": "Auto in fiamme, il leghista Zaia salva un albanese",
+          "publisher": "Corriere della Sera",
+          "date": "August 4, 2006",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Regional Governments led by Luca Zaia:"
+          },
+          {
+            "text": "Zaia I Government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zaia I Government"
+              }
+            ]
+          },
+          {
+            "text": "Zaia II Government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zaia II Government"
+              }
+            ]
+          },
+          {
+            "text": "Zaia III Government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zaia III Government"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "italyregionpresidents"
+        },
+        {
+          "template": "berlusconi iv cabinet"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://lucazaia.it/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

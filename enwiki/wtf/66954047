@@ -1,0 +1,131 @@
+{
+  "title": "Giuseppe Moles",
+  "pageID": 66954047,
+  "categories": [
+    "Living people",
+    "1967 births",
+    "Deputies of Legislature XVI of Italy",
+    "Senators of Legislature XVIII of Italy",
+    "Forza Italia politicians",
+    "Forza Italia (2013) senators"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rocco Giuseppe Moles (born 7 January 1967) is an Italian politician from Forza Italia.",
+              "links": [
+                {
+                  "text": "Forza Italia",
+                  "type": "internal",
+                  "page": "Forza Italia (2013)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rocco Giuseppe Moles"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Giuseppe_Rocco_Moles_datisenato_2018.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Giuseppe_Rocco_Moles_datisenato_2018.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Giuseppe_Rocco_Moles_datisenato_2018.jpg",
+          "caption": "Moles in 2018.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian politician",
+          "template": "short description"
+        },
+        {
+          "date": "May 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "March 2021",
+          "template": "expand italian"
+        }
+      ],
+      "references": [
+        {
+          "title": "senato.it - Scheda di attività di Giuseppe MOLES - XVIII Legislatura",
+          "url": "http://www.senato.it/leg/18/BGT/Schede/Attsen/00018740.htm",
+          "access-date": "2021-03-02",
+          "website": "www.senato.it",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He is the Undersecretary to the Presidency of the Council of Ministers with responsibility for publishing in the Draghi Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Draghi Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He received two votes in the first round of the 2022 Italian presidential election.",
+              "links": [
+                {
+                  "text": "2022 Italian presidential election",
+                  "type": "internal",
+                  "page": "2022 Italian presidential election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Online",
+          "first": "Redazione",
+          "date": "2022-01-24",
+          "title": "I risultati della prima votazione per eleggere il presidente della Repubblica",
+          "url": "https://www.corriere.it/politica/elezioni-presidente-repubblica-2022/notizie/presidente-repubblica-quirinale-elezioni-prima-votazione-risultati-e2e7954a-7d44-11ec-9ae1-2cc0e30cf040.shtml",
+          "access-date": "2022-01-26",
+          "website": "Corriere della Sera",
+          "language": "it-IT",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "italy-politician-stub"
+        }
+      ]
+    }
+  ]
+}

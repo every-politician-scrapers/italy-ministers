@@ -1,0 +1,875 @@
+{
+  "title": "Michele Emiliano",
+  "pageID": 48599816,
+  "categories": [
+    "1959 births",
+    "Democratic Party (Italy) politicians",
+    "Living people",
+    "Presidents of Apulia",
+    "Mayors of Bari"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michele Emiliano (born 23 July 1959) is an Italian politician and former judge.",
+              "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "judge",
+                  "type": "internal",
+                  "page": "judge"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Michele Emiliano"
+                ]
+              }
+            },
+            {
+              "text": "He is the incumbent president of Apulia Region since June 2015, and he previously served as mayor of Bari from 2004 to 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Apulia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bari"
+                }
+              ]
+            },
+            {
+              "text": "Emiliano has often been considered a populist and regionalist politician.",
+              "links": [
+                {
+                  "text": "populist",
+                  "type": "internal",
+                  "page": "populist"
+                },
+                {
+                  "text": "regionalist",
+                  "type": "internal",
+                  "page": "Regionalism (politics)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian politician and former judge (born 1959)",
+          "template": "short description"
+        },
+        {
+          "year": "1959",
+          "month": "7",
+          "day": "23",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Elena Emiliano",
+          "from": "1988",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Michele Emiliano"
+          },
+          "image": {
+            "text": "Michele Emiliano crop.jpg"
+          },
+          "office": {
+            "text": "President of Apulia",
+            "links": [
+              {
+                "text": "President of Apulia",
+                "type": "internal",
+                "page": "List of Presidents of Apulia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 June 2015"
+          },
+          "predecessor": {
+            "text": "Nichi Vendola",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nichi Vendola"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Mayor of Bari",
+            "links": [
+              {
+                "text": "Mayor of Bari",
+                "type": "internal",
+                "page": "List of mayors of Bari"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "14 June 2004"
+          },
+          "term_end1": {
+            "text": "9 June 2014"
+          },
+          "predecessor1": {
+            "text": "Simeone Di Cagno Abbrescia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Simeone Di Cagno Abbrescia"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Antonio Decaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antonio Decaro"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 23, 1959"
+          },
+          "birth_place": {
+            "text": "Bari, Italy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bari"
+              },
+              {
+                "type": "internal",
+                "page": "Italy"
+              }
+            ]
+          },
+          "party": {
+            "text": "DS (2004–2007)\nPD (2007–2018) Independent (since 2018)",
+            "links": [
+              {
+                "text": "DS",
+                "type": "internal",
+                "page": "Democrats of the Left"
+              },
+              {
+                "text": "PD",
+                "type": "internal",
+                "page": "Democratic Party (Italy)"
+              },
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Bari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Bari"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Elena Emiliano (m. 1988)"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.regione.puglia.it/index.php?page=presidente&opz=scheda&dp_id=3",
+          "title": "Scheda Personale",
+          "access-date": "17 October 2015",
+          "website": "Sito web Istituzionale della Regione Puglia",
+          "language": "it",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://corrieredelmezzogiorno.corriere.it/bari/politica/17_settembre_05/emiliano-populista-inconsapevole-170adf7c-9216-11e7-ad4c-9fea13166872.shtml",
+          "title": "Emiliano, populista inconsapevole",
+          "first": "Francesco",
+          "last": "Strippoli",
+          "year": "2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.completamente.org/scarica/MicheleEmiliano.pdf",
+          "title": "BIOGRAFIA",
+          "access-date": "5 September 2015",
+          "website": "CompletaMente.org",
+          "language": "it",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Emiliano's father was a professional football player and small business owner."
+            },
+            {
+              "text": "In 1962, he moved with his family to Bologna.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bologna"
+                }
+              ]
+            },
+            {
+              "text": "In 1968, they returned to Bari."
+            },
+            {
+              "text": "While growing up there, he spent time playing basketball thanks to his physical size.",
+              "links": [
+                {
+                  "text": "basketball",
+                  "type": "internal",
+                  "page": "basketball"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1983, Emiliano graduated in Law at the University of Bari.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Law"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Bari"
+                }
+              ]
+            },
+            {
+              "text": "For some time, he worked as a trainee in a lawyer's office."
+            },
+            {
+              "text": "In 1988, he married his current wife, Elena, with whom he had three children: Giovanni, Francesca and Pietro."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the age of 26, Emiliano quit the practice as a lawyer and passed the test to become a judge."
+            },
+            {
+              "text": "He moved to Agrigento, where he worked in the public prosecutor's office and met Giovanni Falcone and Rosario Livatino.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Agrigento"
+                },
+                {
+                  "type": "internal",
+                  "page": "Giovanni Falcone"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rosario Livatino"
+                }
+              ]
+            },
+            {
+              "text": "From 1990 to 1995, he worked at the Brindisi Public Prosecutor's Office and dealt with the fight against the Mafia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mafia"
+                }
+              ]
+            },
+            {
+              "text": "In 1995, he returned to Bari as a deputy prosecutor of the District Anti-Mafia Directorate (DDA)."
+            },
+            {
+              "text": "He retained this post until 2003, when he became a member of the social-democratic party Democrats of the Left (DS) and run for mayor of Bari for the centre-left coalition.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democrats of the Left"
+                },
+                {
+                  "text": "centre-left coalition",
+                  "type": "internal",
+                  "page": "centre-left coalition"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "Mayor of Bari",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In the local elections, which took place on 12 and 13 June 2004, Emiliano was surprisingly elected mayor of Bari in the first round, beating the centre-right candidate Luigi Lobuono with 53.8% of the votes.",
+              "links": [
+                {
+                  "text": "centre-right",
+                  "type": "internal",
+                  "page": "Centre-right coalition"
+                }
+              ]
+            },
+            {
+              "text": "His civic list Emiliano List for Bari got a remarkable result and the largest number of elected representatives in the municipal council."
+            },
+            {
+              "text": "In January 2005, he was appointed delegate of the National Association of Italian Municipalities (ANCI) for policies for the South and, since 29 March 2007, coordinator of the mayors of metropolitan cities.",
+              "links": [
+                {
+                  "text": "South",
+                  "type": "internal",
+                  "page": "Southern Italy"
+                }
+              ]
+            },
+            {
+              "text": "In April 2007, he was also appointed Chairman of the Consortium for the Bari industrial development area."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 14 October 2007, Emiliano was elected regional secretary of the Democratic Party (PD) in Apulia, the new centre-left party, born from the union between the DS and The Daisy (DL).",
+              "links": [
+                {
+                  "text": "Democratic Party",
+                  "type": "internal",
+                  "page": "Democratic Party (Italy)"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Daisy"
+                }
+              ]
+            },
+            {
+              "text": "Emiliano hold the office until 2009, when he became regional president of the PD, post that he would held until January 2014."
+            },
+            {
+              "text": "Emiliano run again as mayor in the local elections of 6 and 7 June 2009, where he got 49.01% of the votes in the first round, with a gap of just over 6,000 votes on the centre-right candidate and former mayor of Bari Simeone Di Cagno Abbrescia (46.05%).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Simeone Di Cagno Abbrescia"
+                }
+              ]
+            },
+            {
+              "text": "He was confirmed mayor of Bari in the runoff on 21 and 22 June 2009 with 59.8% of votes and with a gap of almost 33,000 votes from his opponent."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the end of 2009, rumors rose up around Emiliano's candidacy at the head of centre-left candidate for the presidency of Apulia in the 2010 Apulian regional election.",
+              "links": [
+                {
+                  "text": "2010 Apulian regional election",
+                  "type": "internal",
+                  "page": "2010 Apulian regional election"
+                }
+              ]
+            },
+            {
+              "text": "The Union of the Centre (UdC) refused to accept the candidacy of incumbent governor Nichi Vendola, a democratic socialist.",
+              "links": [
+                {
+                  "text": "Union of the Centre",
+                  "type": "internal",
+                  "page": "Union of the Centre (2002)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nichi Vendola"
+                }
+              ]
+            },
+            {
+              "text": "UdC's leader Pier Ferdinando Casini proposed to the PD the candidacy of Emiliano, who initially refused; however, after a few days, under pressure from party's bigwigs like Massimo D'Alema and Pier Luigi Bersani, Emiliano was forced to accept the candidacy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pier Ferdinando Casini"
+                },
+                {
+                  "type": "internal",
+                  "page": "Massimo D'Alema"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pier Luigi Bersani"
+                }
+              ]
+            },
+            {
+              "text": "Emiliano agreed to carry out primary with Vendola, but he refused to resign as mayor of Bari, asking the Regional Council of Apulia to change a regional law, which prevented incumbent mayors to run for regional governor while in office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Regional Council of Apulia"
+                }
+              ]
+            },
+            {
+              "text": "Faced with the unavailability of the Regional Council to amend this law, Emiliano withdrew his candidacy and asked to the regional secretary of his party to directly appoint Vendola as the centre-left candidate."
+            },
+            {
+              "text": "Nevertheless, the PD nominated Francesco Boccia to the primaries, where he was defeated by Vendola.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Francesco Boccia"
+                }
+              ]
+            },
+            {
+              "text": "Boccia's defeat led to the break-up of the electoral alliance in Apulia between the UdC and the PD."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his years as mayor, Emiliano promoted a new urban plan, with the aims of redevelop the municipal area especially in the suburbs, thanks to investments in the environmental and the transport sector."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Michele_Emiliano_2011.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Michele_Emiliano_2011.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Michele_Emiliano_2011.jpg",
+          "caption": "Emiliano in 2011",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "first": "Bruno",
+          "last": "Vespa",
+          "title": "Il Cuore e la Spada: Storia politica e romantica dell'Italia unita, 1861-2011",
+          "publisher": "Mondadori",
+          "year": "2010",
+          "page": "650",
+          "url": "https://books.google.com/books?id=YpRt-k0VDEEC&pg=PA650",
+          "isbn": "9788852017285",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "first": "Giuliano",
+          "last": "Augusto",
+          "title": "De profundis per il Pd",
+          "newspaper": "Rinascita",
+          "date": "8 December 2013",
+          "url": "http://www.rinascita.eu/index.php?action=news&id=22749",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20140301073618/http://www.rinascita.eu/index.php?action=news&id=22749",
+          "archive-date": "1 March 2014",
+          "df": "dmy",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.comune.bari.it/portal/page/portal/bari/temiBari/CasaEdiliziaeTerritorio/DppBari",
+          "title": "Comune di Bari – Documento programmatico preliminare",
+          "access-date": "2019-10-01",
+          "archive-url": "https://web.archive.org/web/20141018083002/http://www.comune.bari.it/portal/page/portal/bari/temiBari/CasaEdiliziaeTerritorio/DppBari",
+          "archive-date": "2014-10-18",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "President of Apulia",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 31 May, Emiliano won the 2015 Apulian regional election with more than 47% of votes, doubling the votes of the second candidate, Antonella Laricchia, of the Five Star Movement (M5S).",
+              "links": [
+                {
+                  "text": "2015 Apulian regional election",
+                  "type": "internal",
+                  "page": "2015 Apulian regional election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Five Star Movement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2016, Emiliano signed with the Prime Minister Matteo Renzi the so-called \"Pact for Apulia\" in order to release 2.7 billion euros from the Fund for Development and Cohesion (FSC) to be assigned to Apulia region for various investments in the territory.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Matteo Renzi"
+                }
+              ]
+            },
+            {
+              "text": "Among the social policies promoted, there was the Regional Income of Dignity, a guaranteed minimum income for indigents.",
+              "links": [
+                {
+                  "text": "guaranteed minimum income",
+                  "type": "internal",
+                  "page": "guaranteed minimum income"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Despite the sign of the Pact for Apulia, Emiliano often criticized Prime Minister Renzi, who was also the leader of his own party, who was considered by Emiliano too centrist.",
+              "links": [
+                {
+                  "text": "centrist",
+                  "type": "internal",
+                  "page": "centrist"
+                }
+              ]
+            },
+            {
+              "text": "He often implemented regional policies in contrast with those of the government."
+            },
+            {
+              "text": "This contrast reached its peak at the 2016 Italian oil drilling referendum, which was promoted and supported by Emiliano and opposed by Renzi.",
+              "links": [
+                {
+                  "text": "2016 Italian oil drilling referendum",
+                  "type": "internal",
+                  "page": "2016 Italian oil drilling referendum"
+                }
+              ]
+            },
+            {
+              "text": "During the referendum campaign, Emiliano repeatedly accused the government of having introduced the law to favor oil companies and Renzi accused the governor of having promoted the referendum only for personal purposes."
+            },
+            {
+              "text": "Although 86% voted in favour of repealing the law, the turnout of 31% was below the majority threshold required to validate the result.",
+              "links": [
+                {
+                  "text": "majority",
+                  "type": "internal",
+                  "page": "majority"
+                }
+              ]
+            },
+            {
+              "text": "Moreover, during the campaign for the 2016 Italian constitutional referendum, concerning the Renzi's Senate reform, Emiliano supported the \"No\", in open opposition to the line of his party.",
+              "links": [
+                {
+                  "text": "2016 Italian constitutional referendum",
+                  "type": "internal",
+                  "page": "2016 Italian constitutional referendum"
+                }
+              ]
+            },
+            {
+              "text": "On 4 December, \"No\" won with 59% of votes and Renzi resigned as Prime Minister."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 21 February 2017, Emiliano announced his candidacy in 2017 PD leadership election, scheduled in April, where he would challenge Renzi.",
+              "links": [
+                {
+                  "text": "2017 PD leadership election",
+                  "type": "internal",
+                  "page": "2017 PD leadership election"
+                }
+              ]
+            },
+            {
+              "text": "On 10 March, Emiliano presented his electoral programme with the slogans \"We Are Party\" (Noi siamo partito) and \"Italy Is Our Party\" (L'Italia è il nostro partito).",
+              "formatting": {
+                "italic": [
+                  "Noi siamo partito",
+                  "L'Italia è il nostro partito"
+                ]
+              }
+            },
+            {
+              "text": "He described his candidacy as a revolution, and stated that he wanted a party closer to the people, especially the poorest, accusing Renzi of drastically changing the PD and of abandoning people on low incomes."
+            },
+            {
+              "text": "He also accused Andrea Orlando, the other candidate who was Justice Minister also in Renzi's government, of supporting Renzi's liberal and centrist policies, and not to have ever opposed his reforms.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andrea Orlando"
+                },
+                {
+                  "type": "internal",
+                  "page": "Renzi's government"
+                },
+                {
+                  "text": "liberal",
+                  "type": "internal",
+                  "page": "Liberalism"
+                }
+              ]
+            },
+            {
+              "text": "Emiliano also added that he would not run to become Prime Minister, as Renzi did from February 2014 to December 2016."
+            },
+            {
+              "text": "Emiliano asked for the M5S, Article One (Art.1), Progressive Camp, and Italian Left (SI) supporters to vote for him to beat Renzi; his intention is to build a centre-left to left-wing alliance composed of PD, Art.1, and SI, which can cooperate with the M5S.",
+              "links": [
+                {
+                  "text": "Article One",
+                  "type": "internal",
+                  "page": "Article One (political party)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Progressive Camp"
+                },
+                {
+                  "type": "internal",
+                  "page": "Italian Left"
+                }
+              ]
+            },
+            {
+              "text": "Despite Emiliano's strong support in the poorer South, Renzi was elected by a landslide, receiving 69% of votes, against 20% of Orlando, and 11% of Emiliano."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 3 December 2018, following the Constitutional Court of Italy's judgement that magistrates are ineligible for party membership, Emiliano announced that he would be resigning from the party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Constitutional Court of Italy"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Mattarella_Emiliano_2018.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Mattarella_Emiliano_2018.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Mattarella_Emiliano_2018.jpg",
+          "caption": "Emiliano with President Sergio Mattarella in 2018",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last": "Sala",
+          "first": "Alessandro",
+          "url": "http://www.corriere.it/referendum-costituzionale-2016/notizie/referendum-costituzionale-2016-risultati-860b84aa-ba6a-11e6-99a2-8ca865283c9e.shtml",
+          "title": "Referendum costituzionale 2016 Il No al 60%, la riforma non passa Renzi: «Ho perso io, mi dimetto",
+          "publisher": "Corriere.it",
+          "access-date": "2016-12-05",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Paolo Gentiloni, Italian foreign minister, appointed PM",
+          "url": "https://www.bbc.co.uk/news/world-europe-38281643",
+          "publisher": "BBC News",
+          "date": "11 December 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "italyregionpresidents"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

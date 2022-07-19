@@ -1,0 +1,137 @@
+{
+  "title": "Manlio Di Stefano",
+  "pageID": 65960010,
+  "categories": [
+    "Living people",
+    "1981 births",
+    "Deputies of Legislature XVII of Italy",
+    "Deputies of Legislature XVIII of Italy",
+    "Five Star Movement politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Manlio Di Stefano (born 16 May 1981) is an Italian MP from the Five Star Movement.",
+              "links": [
+                {
+                  "text": "MP",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Italy)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Five Star Movement"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Manlio Di Stefano"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2020",
+          "template": "expand italian"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Italian MP"
+          },
+          "image": {
+            "text": "Mds jpg.jpg"
+          },
+          "party": {
+            "text": "Together for the Future",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Together for the Future"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "2013",
+            "number": 2013
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "XVIII Legislatura - Deputati e Organi - Scheda deputato - DI STEFANO Manlio",
+          "url": "https://www.camera.it/leg18/29?shadow_deputato=306228&idLegislatura=18",
+          "access-date": "2020-11-28",
+          "website": "www.camera.it",
+          "language": "it",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He has been the Undersecretary of State for Foreign Affairs and International Cooperation in the Conte I government and the Conte II government.",
+              "links": [
+                {
+                  "text": "Conte I government",
+                  "type": "internal",
+                  "page": "Conte I Cabinet"
+                },
+                {
+                  "text": "Conte II government",
+                  "type": "internal",
+                  "page": "Conte II Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Online",
+          "first": "Redazione",
+          "date": "2019-09-13",
+          "title": "Sottosegretari del governo, la lista completa",
+          "url": "https://www.corriere.it/politica/19_settembre_13/sottosegretari-governo-lista-completa-b6bea8f2-d605-11e9-8d78-c16bbb32544a.shtml",
+          "access-date": "2020-11-28",
+          "website": "Corriere della Sera",
+          "language": "it",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "italy-politician-stub"
+        }
+      ]
+    }
+  ]
+}

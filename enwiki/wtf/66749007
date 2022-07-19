@@ -1,0 +1,225 @@
+{
+  "title": "Roberto Garofoli",
+  "pageID": 66749007,
+  "categories": [
+    "Living people",
+    "1966 births",
+    "People from Taranto",
+    "Government ministers of Italy",
+    "21st-century Italian politicians",
+    "Draghi Cabinet",
+    "University of Bari alumni",
+    "Italian magistrates"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Roberto Garofoli (born 20 April 1966) is an Italian magistrate and civil servant.",
+              "formatting": {
+                "bold": [
+                  "Roberto Garofoli"
+                ]
+              }
+            },
+            {
+              "text": "he serves as Secretary of the Council of Ministers in the cabinet of Prime Minister Mario Draghi.",
+              "links": [
+                {
+                  "text": "Secretary of the Council of Ministers",
+                  "type": "internal",
+                  "page": "Secretary of the Council of Ministers of Italy"
+                },
+                {
+                  "text": "the cabinet",
+                  "type": "internal",
+                  "page": "Draghi Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mario Draghi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has a degree in law of the University of Bari.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Bari"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian politician",
+          "template": "short description"
+        },
+        {
+          "date": "June 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1966",
+          "month": "4",
+          "day": "20",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2021",
+            "2",
+            "13"
+          ],
+          "post": ",",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Roberto Garofoli"
+          },
+          "image": {
+            "text": "Roberto Garofoli (cropped).jpg"
+          },
+          "office": {
+            "text": "Secretary of the Council of Ministers",
+            "links": [
+              {
+                "text": "Secretary of the Council of Ministers",
+                "type": "internal",
+                "page": "Secretary of the Council of Ministers of Italy"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Mario Draghi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mario Draghi"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 February 2021"
+          },
+          "predecessor": {
+            "text": "Riccardo Fraccaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Riccardo Fraccaro"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 20, 1966"
+          },
+          "birth_place": {
+            "text": "Taranto, Italy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Taranto"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Bari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Bari"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "13 February 2021",
+          "title": "Comunicato stampa del Consiglio dei Ministri n. 1",
+          "work": "Governo Italiano Presidenza del Consiglio dei Ministri",
+          "url": "http://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-1/16216",
+          "url-status": "live",
+          "access-date": "13 February 2021",
+          "language": "it",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Esposito",
+          "first": "Mario",
+          "date": "13 February 2021",
+          "title": "Roberto Garofoli, chi è il sottosegretario alla presidenza del Consiglio",
+          "work": "L'Occhio",
+          "url": "https://www.occhionotizie.it/chi-e-roberto-garofoli-sottosegretario-governo-draghi/",
+          "url-status": "live",
+          "access-date": "13 February 2021",
+          "language": "it",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Curriculum Vitae",
+          "url": "http://www.funzionepubblica.gov.it/media/930522/curriculum_cons_roberto_garofoli.pdf",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20150924020202/http://www.funzionepubblica.gov.it/media/930522/curriculum_cons_roberto_garofoli.pdf",
+          "archive-date": "24 September 2015",
+          "access-date": "24 September 2015",
+          "website": "Italian Government",
+          "language": "it",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Riccardo Fraccaro",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary of the Council of Ministers",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "italy-politician-stub"
+        }
+      ]
+    }
+  ]
+}

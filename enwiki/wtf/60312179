@@ -1,0 +1,294 @@
+{
+  "title": "Michele De Pascale",
+  "pageID": 60312179,
+  "categories": [
+    "1985 births",
+    "Living people",
+    "Mayors of Ravenna",
+    "People from Ravenna",
+    "Democratic Party (Italy) politicians",
+    "Presidents of the Province of Ravenna"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michele De Pascale (born 20 January 1985 in Cesena) is an Italian politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cesena"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Michele De Pascale"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is a member of the Democratic Party and he was elected Mayor of Ravenna on 21 June 2016.",
+              "links": [
+                {
+                  "text": "Democratic Party",
+                  "type": "internal",
+                  "page": "Democratic Party (Italy)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ravenna"
+                }
+              ]
+            },
+            {
+              "text": "He has also served as President of the Province of Ravenna since 4 August 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Province of Ravenna"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1985",
+          "month": "1",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Michele De Pascale"
+          },
+          "image": {
+            "text": "Michele De Pascale (cropped).jpg"
+          },
+          "office": {
+            "text": "Mayor of Ravenna",
+            "links": [
+              {
+                "text": "Mayor of Ravenna",
+                "type": "internal",
+                "page": "List of mayors of Ravenna"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "21 June 2016"
+          },
+          "predecessor": {
+            "text": "Fabrizio Matteucci",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fabrizio Matteucci"
+              }
+            ]
+          },
+          "office2": {
+            "text": "President of the Province of Ravenna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Province of Ravenna"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "4 August 2016"
+          },
+          "predecessor2": {
+            "text": "Claudio Casadio",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Claudio Casadio"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 20, 1985"
+          },
+          "birth_place": {
+            "text": "Cesena, Emilia-Romagna, Italy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cesena"
+              },
+              {
+                "type": "internal",
+                "page": "Emilia-Romagna"
+              },
+              {
+                "type": "internal",
+                "page": "Italy"
+              }
+            ]
+          },
+          "party": {
+            "text": "Democrats of the Left (2004-2007) Democratic Party (since 2007)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democrats of the Left"
+              },
+              {
+                "text": "Democratic Party",
+                "type": "internal",
+                "page": "Democratic Party (Italy)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.ilsole24ore.com/speciali/2016/elezioni-amm/risultati/amministrative_comunali/dati/sindaco_comune_ravenna.shtml",
+          "title": "Risultati elezioni comunali 2016 a Ravenna. De Pascale è il nuovo sindaco di Ravenna",
+          "work": "Il Sole 24 Ore",
+          "date": "22 June 2016",
+          "access-date": "23 March 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.lugonotizie.it/articoli/2016/08/04/michele-de-pascale-presidente-della-provincia-di-ravenna.-tutti-gli-eletti.html",
+          "title": "Michele de Pascale è il nuovo presidente della Provincia di Ravenna. I consiglieri eletti",
+          "work": "lugonotizie.it",
+          "date": "4 August 2016",
+          "access-date": "23 March 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://amministratori.interno.gov.it/amministratori/ServletNomeReg3?campo1=1026601&campo2=a",
+          "title": "Michele De Pascale",
+          "website": "Ministry of the Interior of Italy",
+          "access-date": "23 March 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "2016 Italian local elections",
+            "links": [
+              {
+                "text": "2016 Italian local elections",
+                "type": "internal",
+                "page": "2016 Italian local elections"
+              }
+            ]
+          },
+          {
+            "text": "List of mayors of Ravenna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of mayors of Ravenna"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Fabrizio Matteucci",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Ravenna",
+          "years": "since 2016",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-aft"
+        },
+        {
+          "before": "Claudio Casadio",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Province of Ravenna",
+          "years": "since 2016",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-aft"
+        },
+        {
+          "template": "italyprovincialcapitalmayors"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://amministratori.interno.gov.it/amministratori/ServletNomeReg3?campo1=1026601&campo2=a",
+          "title": "Michele De Pascale",
+          "website": "Ministry of the Interior of Italy",
+          "access-date": "23 March 2019",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    }
+  ]
+}

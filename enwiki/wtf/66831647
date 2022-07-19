@@ -1,0 +1,157 @@
+{
+  "title": "Alberto Rosso",
+  "pageID": 66831647,
+  "categories": [
+    "Living people",
+    "1959 births",
+    "Place of birth missing (living people)",
+    "Italian aviators",
+    "Italian Air Force generals"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alberto Rosso (born 29 September 1959) is an Italian Air Force general.",
+              "formatting": {
+                "bold": [
+                  "Alberto Rosso"
+                ]
+              }
+            },
+            {
+              "text": "He served as Chief of Staff of the Italian Air Force from 31 October 2018 to 28 October 2021.",
+              "links": [
+                {
+                  "text": "Chief of Staff",
+                  "type": "internal",
+                  "page": "Chief of Staff of the Italian Air Force"
+                },
+                {
+                  "type": "internal",
+                  "page": "Italian Air Force"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian Air Force general",
+          "template": "short description"
+        },
+        {
+          "year": "1959",
+          "month": "9",
+          "day": "29",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alberto Rosso"
+          },
+          "office": {
+            "text": "Chief of Staff of the Italian Air Force",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief of Staff of the Italian Air Force"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "31 October 2018"
+          },
+          "term_end": {
+            "text": "28 October 2021"
+          },
+          "predecessor": {
+            "text": "Enzo Vecciarelli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Enzo Vecciarelli"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Luca Goretti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luca Goretti"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 29, 1959"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Alberto Rosso",
+          "url": "https://www.euro-defence.eu/wp-content/uploads/2019/10/Rosso_B4_2019.pdf",
+          "url-status": "live",
+          "access-date": "20 February 2021",
+          "website": "Congress on European Defence and Security",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Lieutenant General Alberto ROSSO",
+          "url": "http://www.aeronautica.difesa.it/organizzazione/csma/Documents/CV%20GEN%20ROSSO%20ENG.pdf",
+          "url-status": "live",
+          "access-date": "20 February 2021",
+          "website": "Ministry of Defence",
+          "archive-url": "https://web.archive.org/web/20201022033534/http://www.aeronautica.difesa.it/organizzazione/csma/Documents/CV%20GEN%20ROSSO%20ENG.pdf",
+          "archive-date": "2020-10-22",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-mil"
+        },
+        {
+          "before": "Enzo Vecciarelli",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief of Staff of the Italian Air Force",
+          "years": "2018–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Luca Goretti",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "italy-mil-bio-stub"
+        }
+      ]
+    }
+  ]
+}

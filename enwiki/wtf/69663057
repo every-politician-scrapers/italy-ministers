@@ -1,0 +1,110 @@
+{
+  "title": "Tiziana Nisini",
+  "pageID": 69663057,
+  "categories": [
+    "Living people",
+    "1975 births",
+    "Senators of Legislature XVIII of Italy",
+    "Draghi Cabinet",
+    "21st-century Italian women politicians",
+    "Lega Nord politicians",
+    "Women government ministers of Italy"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tiziana Nisini (born 18 October 1975) is an Italian politician from Lega Nord.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lega Nord"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tiziana Nisini"
+                ]
+              }
+            },
+            {
+              "text": "She has been State Secretary at the Ministry of Labour and Social Policies since March 2021.",
+              "links": [
+                {
+                  "text": "Ministry of Labour and Social Policies",
+                  "type": "internal",
+                  "page": "Ministry of Labour and Social Policies (Italy)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was a Senator from 2018 to 2021.",
+              "links": [
+                {
+                  "text": "Senator",
+                  "type": "internal",
+                  "page": "Senate of the Republic (Italy)"
+                },
+                {
+                  "text": "2018",
+                  "type": "internal",
+                  "page": "2018 Italian general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Tiziana_Nisini_datisenato_2018.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Tiziana_Nisini_datisenato_2018.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Tiziana_Nisini_datisenato_2018.jpg",
+          "caption": "Tiziana Nisini in 2018.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian politician",
+          "template": "short description"
+        },
+        {
+          "date": "May 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "January 2022",
+          "template": "expand italian"
+        }
+      ],
+      "references": [
+        {
+          "title": "senato.it - Scheda di attività di Tiziana NISINI - XVIII Legislatura",
+          "url": "https://www.senato.it/leg/18/BGT/Schede/Attsen/00032750.htm",
+          "access-date": "2022-01-03",
+          "website": "www.senato.it",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

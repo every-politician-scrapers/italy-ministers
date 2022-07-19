@@ -1,0 +1,188 @@
+{
+  "title": "Erik Lavévaz",
+  "pageID": 65606818,
+  "categories": [
+    "1980 births",
+    "Living people",
+    "Presidents of Aosta Valley",
+    "Politicians of Aosta Valley",
+    "21st-century Italian politicians",
+    "University of Turin alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Erik Lavévaz (born 15 February 1980) is an Italian politician and entrepreneur.",
+              "formatting": {
+                "bold": [
+                  "Erik Lavévaz"
+                ]
+              }
+            },
+            {
+              "text": "He became the president of Aosta Valley on 21 October 2020, after being president of Valdostan Union since 2018 and mayor of Verrayes from 2005 to 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aosta Valley"
+                },
+                {
+                  "type": "internal",
+                  "page": "Valdostan Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "Verrayes"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1980",
+          "month": "2",
+          "day": "15",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Erik Lavévaz"
+          },
+          "image": {
+            "text": "Erik_Lavevaz.jpg"
+          },
+          "order": {
+            "text": "President of Aosta Valley",
+            "links": [
+              {
+                "text": "President of Aosta Valley",
+                "type": "internal",
+                "page": "List of presidents of Aosta Valley"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "21 October 2020"
+          },
+          "predecessor": {
+            "text": "Antonio Fosson Renzo Testolin (ad interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antonio Fosson"
+              },
+              {
+                "type": "internal",
+                "page": "Renzo Testolin"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "ad interim"
+              ]
+            }
+          },
+          "birth_date": {
+            "text": "February 15, 1980"
+          },
+          "birth_place": {
+            "text": "Aosta, Italy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aosta"
+              }
+            ]
+          },
+          "party": {
+            "text": "Union valdôtaine",
+            "links": [
+              {
+                "text": "Union valdôtaine",
+                "type": "internal",
+                "page": "Valdostan Union"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Italian"
+          },
+          "alma_mater": {
+            "text": "University of Turin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Turin"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Entrepreneur"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.consiglio.regione.vda.it/fr/app/consiglieri/curriculum?id=1109",
+          "title": "Conseil de la Vallée - Les Conseillers",
+          "website": "www.consiglio.regione.vda.it",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.deliapress.it/1-cronaca/la-giunta-regionale-e-al-completo/",
+          "title": "La Giunta Regionale è al completo &#124; DeliaPress.it",
+          "first": "Domenico",
+          "last": "Crea",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ansa.it/valledaosta/notizie/2020/10/14/regione-lavevaz-verso-designazione-a-presidenza_c286386c-c15a-4de0-b265-4e30530dd654.html",
+          "title": "Regione: Lavevaz verso designazione a presidenza - Valle d'Aosta",
+          "date": "October 14, 2020",
+          "website": "Agenzia ANSA",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.ansa.it/valledaosta/notizie/2018/10/06/uv-erik-lavevaz-e-il-nuovo-presidente_b40b2d53-1c7d-46f7-9327-5e8fec689d5c.html",
+          "title": "Uv, Erik Lavevaz è il nuovo presidente - Valle d'Aosta",
+          "date": "October 6, 2018",
+          "website": "ANSA.it",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "italyregionpresidents"
+        },
+        {
+          "template": "italy-politician-stub"
+        }
+      ]
+    }
+  ]
+}

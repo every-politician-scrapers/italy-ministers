@@ -1,0 +1,254 @@
+{
+  "title": "Massimiliano Fedriga",
+  "pageID": 46710989,
+  "categories": [
+    "1980 births",
+    "Living people",
+    "Politicians from Trieste",
+    "University of Trieste alumni",
+    "Lega Nord politicians",
+    "Deputies of Legislature XVI of Italy",
+    "Deputies of Legislature XVII of Italy",
+    "Deputies of Legislature XVIII of Italy",
+    "Presidents of Friuli-Venezia Giulia",
+    "21st-century Italian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Massimiliano Fedriga (born 2 July 1980 in Verona) is an Italian Northern League politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Verona"
+                },
+                {
+                  "text": "Northern League",
+                  "type": "internal",
+                  "page": "Lega Nord"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Massimiliano Fedriga"
+                ]
+              }
+            },
+            {
+              "text": "He is the president of the Friuli-Venezia Giulia autonomous region.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Friuli-Venezia Giulia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Italian Northern League politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "year": "1980",
+          "month": "07",
+          "day": "02",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Massimiliano Fedriga"
+          },
+          "image": {
+            "text": "Massimiliano Fedriga daticamera.jpg"
+          },
+          "office": {
+            "text": "President of Friuli-Venezia Giulia",
+            "links": [
+              {
+                "text": "President of Friuli-Venezia Giulia",
+                "type": "internal",
+                "page": "List of Presidents of Friuli-Venezia Giulia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "3 May 2018"
+          },
+          "predecessor": {
+            "text": "Debora Serracchiani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Debora Serracchiani"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 2, 1980"
+          },
+          "birth_place": {
+            "text": "Verona, Italy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Verona"
+              },
+              {
+                "type": "internal",
+                "page": "Italy"
+              }
+            ]
+          },
+          "party": {
+            "text": "Lega Nord",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lega Nord"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Politician, marketing consultant",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Trieste",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Trieste"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "author": "Mckenna, Josephine",
+          "title": "Italy expels imam for preaching hatred against Jews",
+          "newspaper": "Washington Post",
+          "date": "5 August 2014",
+          "url": "https://www.washingtonpost.com/national/religion/italy-expels-imam-for-preaching-hatred-against-jews/2014/08/05/564cc366-1cd1-11e4-9b6c-12e30cbe86a3_story.html",
+          "access-date": "6 June 2015",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Verona on 2 July 1980 and raised in Trieste, Fedriga graduated in Communication Sciences at the University of Trieste.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Trieste"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Trieste"
+                }
+              ]
+            },
+            {
+              "text": "After graduating, he obtained a master's degree in communication management and analysis."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He joined the Northern League in 1995."
+            },
+            {
+              "text": "Subsequently, he became a member of the \"National Council\", the decision-making body of the party in Friuli-Venezia Giulia and then of the Federal Council."
+            },
+            {
+              "text": "Since 2003 he has been provincial secretary of the League, while on 28 September 2014 he was elected national secretary of the party of Friuli Venezia Giulia."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected MP for the first time in 2008; he was then re-elected in 2013 and 2018."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2011 Fedriga was candidate for mayor of Trieste, but obtained only 6.3% of the votes."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2018 Fedriga was elected President of Friuli Venezia Giulia with 57.1% of preferences."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is Knight of Honor of the Order of St. George.",
+              "links": [
+                {
+                  "text": "Order of St. George",
+                  "type": "internal",
+                  "page": "Order of St. George (Habsburg-Lorraine)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "italyregionpresidents"
+        },
+        {
+          "template": "italy-politician-stub"
+        }
+      ]
+    }
+  ]
+}
