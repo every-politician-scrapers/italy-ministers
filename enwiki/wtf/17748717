@@ -173,14 +173,13 @@
             "text": "28 April 2006"
           },
           "constituency2": {
-            "text": "Lombardy (2006–2018)\nDesenzano (since 2018)",
+            "text": "Lombardy (2006–2018)\nDesenzano del Garda (since 2018)",
             "links": [
               {
                 "type": "internal",
                 "page": "Lombardy"
               },
               {
-                "text": "Desenzano",
                 "type": "internal",
                 "page": "Desenzano del Garda"
               }
@@ -209,13 +208,16 @@
             ]
           },
           "alma_mater": {
-            "text": "University of Reggio Calabria",
+            "text": "University of Brescia",
             "links": [
               {
                 "type": "internal",
-                "page": "University of Reggio Calabria"
+                "page": "University of Brescia"
               }
             ]
+          },
+          "profession": {
+            "text": "Lawyer"
           },
           "spouse": {
             "text": "Giorgio Patelli (since 2010)"
@@ -224,7 +226,7 @@
             "text": "Emma Patelli"
           },
           "party": {
-            "text": "FI (1994–2009)\nPdL (2009–2013)\nFI (2013–present)",
+            "text": "FI (1994–2009)\nPdL (2009–2013)\nFI (2013–2022)",
             "links": [
               {
                 "text": "FI",
@@ -433,6 +435,13 @@
               "text": "In the same year she was re-elected in the Chamber of Deputies."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 20 July 2022, she left Forza Italia after the confidence vote for the Draghi government failed to pass and the party choice to abstain."
+            }
+          ]
         }
       ],
       "images": [
@@ -635,9 +644,10 @@
               ]
             },
             "Constituency": {
-              "text": "Lombardy",
+              "text": "Lombardy 2",
               "links": [
                 {
+                  "text": "Lombardy 2",
                   "type": "internal",
                   "page": "Lombardy"
                 }
@@ -691,9 +701,10 @@
               ]
             },
             "Constituency": {
-              "text": "Lombardy",
+              "text": "Lombardy 2",
               "links": [
                 {
+                  "text": "Lombardy 2",
                   "type": "internal",
                   "page": "Lombardy"
                 }
@@ -747,9 +758,10 @@
               ]
             },
             "Constituency": {
-              "text": "Lombardy",
+              "text": "Lombardy 2",
               "links": [
                 {
+                  "text": "Lombardy 2",
                   "type": "internal",
                   "page": "Lombardy"
                 }
@@ -803,10 +815,9 @@
               ]
             },
             "Constituency": {
-              "text": "Desenzano",
+              "text": "Desenzano del Garda",
               "links": [
                 {
-                  "text": "Desenzano",
                   "type": "internal",
                   "page": "Desenzano del Garda"
                 }
@@ -1261,6 +1272,19 @@
           "before": "Fabio Mussi",
           "as": "Minister of University and Research",
           "template": "s-bef"
+        },
+        {
+          "before": "Francesco Boccia",
+          "template": "s-bef"
+        },
+        {
+          "title": "Italian Minister of Regional Affairs",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Incumbent",
+          "template": "s-aft"
         },
         {
           "template": "berlusconi iv cabinet"

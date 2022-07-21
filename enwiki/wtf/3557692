@@ -366,6 +366,7 @@
           "template": "use dmy dates"
         },
         {
+          "3": "2022 Italian government crisis",
           "date": "July 2022",
           "template": "current person"
         },
@@ -1719,8 +1720,7 @@
                 {
                   "text": "Long-Term Refinancing Operation",
                   "type": "internal",
-                  "page": "European Central Bank",
-                  "anchor": "Long-term refinancing operation"
+                  "page": "LTRO"
                 }
               ]
             },
@@ -3917,7 +3917,7 @@
         {
           "sentences": [
             {
-              "text": "On 13 July 2022, after months of tensions regarding economic policies implemented by the government as well as the military response to the war in Ukraine, Giuseppe Conte, leader of the Five Star Movement (M5S) and former prime minister, revoked the support to the government on the so-called decreto aiuti (decree of assistance), concerning economic stimulus to contrast the ongoing economic and energy crisis, opening a political crisis within the majority.",
+              "text": "On 13 July 2022, after months of tensions regarding economic policies implemented by the government as well as the military response to the war in Ukraine, Giuseppe Conte, leader of the Five Star Movement (M5S) and former prime minister, revoked the support to the government on the so-called decreto aiuti (decree on economic aid), concerning economic stimulus to contrast the ongoing economic and energy crisis, opening a political crisis within the majority.",
               "links": [
                 {
                   "type": "internal",
@@ -3946,7 +3946,13 @@
               "text": "After a few hours, following a meeting with president Mattarella, Draghi officially announced his resignation as prime minister, stating that \"the pact of trust and confidence underlying the government action had failed.\""
             },
             {
-              "text": "However, the resignation was rejected by Mattarella, who invited Draghi to explain the political situation to the Parliament in the following week."
+              "text": "However, the resignation was rejected by Mattarella, who invited Draghi to explain the political situation to the Parliament on Wednesday 20th."
+            },
+            {
+              "text": "On 20 July, the confidence vote \"failed\" to pass as Lega, FI and FDI voted along with M5S against the government."
+            },
+            {
+              "text": "As a result, Draghi is resigning on the morning of 21 July at 9 AM."
             }
           ]
         }
@@ -4003,6 +4009,50 @@
           "access-date": "14 July 2022",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://tg24.sky.it/politica/2022/07/20/crisi-governo-draghi-ultime-notizie",
+          "title": "DIRETTA Crisi di governo, Draghi al Quirinale da Mattarella",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.orizzontescuola.it/crisi-di-governo-draghi-verso-le-dimissioni-elezioni-il-2-ottobre-gli-ultimi-aggiornamenti/",
+          "title": "Crisi di governo, Draghi verso le dimissioni: Elezioni il 2 ottobre? Gli ultimi aggiornamenti",
+          "date": "20 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ilfoglio.it/politica/2022/07/20/video/crisi-di-governo-draghi-in-senato-4244252/",
+          "title": "Fine del governo Draghi Lega, Forza Italia e M5s non votano la fiducia. Il premier stasera non sale al Quirinale",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ilfattonisseno.it/2022/07/crisi-di-governo-verso-no-numero-legale-in-senato-draghi-rinnova-dimissioni/",
+          "title": "Crisi di Governo, verso 'no' numero legale in Senato: Draghi rinnova dimissioni? - il Fatto Nisseno - Caltanissetta notizie, cronaca, attualità",
+          "publisher": "Ilfattonisseno.it",
+          "accessdate": "2022-07-20",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "di Redazione Online",
+          "url": "https://www.corriere.it/politica/22_luglio_20/dimissioni-draghi-cosa-succede-2774dca0-083b-11ed-bd15-abd29857fc36.shtml",
+          "title": "Cosa succede ora al governo, viste le possibili dimissioni di Draghi?",
+          "publisher": "Corriere.it",
+          "date": "20 July 2022",
+          "accessdate": "2022-07-20",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.open.online/2022/07/20/crisi-di-governo-draghi-voto-di-fiducia-dimissioni-quirinale/",
+          "title": "Draghi potrebbe annunciare le dimissioni già domani alla Camera. Poi salirà al Quirinale da Mattarella",
+          "date": "20 July 2022",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
