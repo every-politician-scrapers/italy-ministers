@@ -5198,6 +5198,56 @@
               "text": "However, Mattarella rejected the resignation because the government had largely won the confidence vote in the Senate and invited the prime minister to address the Parliament, explaining the political situation."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 20 July, the government failed to reach the absolute majority in the confidence vote as Lega, FI and M5S decided not to take part in the ballot, de facto causing the fall of the government.",
+              "formatting": {
+                "italic": [
+                  "de facto"
+                ]
+              }
+            },
+            {
+              "text": "On the following day, after a speech in front of the Chamber of Deputies, Draghi officially resigned as prime minister."
+            },
+            {
+              "text": "Mattarella accepted his resignation, but Draghi will remain in office as caretaker prime minister, until the formation of a new government following the upcoming general election.",
+              "links": [
+                {
+                  "text": "upcoming general election",
+                  "type": "internal",
+                  "page": "2022 Italian general election"
+                }
+              ]
+            },
+            {
+              "text": "On the same day, Mattarella summoned Draghi, Roberto Fico and Elisabetta Casellati to the Quirinal Palace and then dissolved the Parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Roberto Fico"
+                },
+                {
+                  "type": "internal",
+                  "page": "Elisabetta Casellati"
+                }
+              ]
+            },
+            {
+              "text": "In a brief speech to the nation, Mattarella stated: \"Pauses are not possible at the moment we are going through: energy costs have consequences for families and businesses, economic difficulties must be addressed, there are many obligations to be closed in the interest of Italy.\""
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Mattarella_Draghi_Scioglimento_Camere_2022.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Mattarella_Draghi_Scioglimento_Camere_2022.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Mattarella_Draghi_Scioglimento_Camere_2022.jpg",
+          "caption": "Mattarella dissolving the Parliament following Draghi's resignation",
+          "links": []
         }
       ],
       "templates": [
@@ -5232,6 +5282,64 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://tg24.sky.it/politica/2022/07/20/crisi-governo-draghi-ultime-notizie",
+          "title": "DIRETTA Crisi di governo, Draghi al Quirinale da Mattarella",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.orizzontescuola.it/crisi-di-governo-draghi-verso-le-dimissioni-elezioni-il-2-ottobre-gli-ultimi-aggiornamenti/",
+          "title": "Crisi di governo, Draghi verso le dimissioni: Elezioni il 2 ottobre? Gli ultimi aggiornamenti",
+          "date": "20 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ilfoglio.it/politica/2022/07/20/video/crisi-di-governo-draghi-in-senato-4244252/",
+          "title": "Fine del governo Draghi Lega, Forza Italia e M5s non votano la fiducia. Il premier stasera non sale al Quirinale",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "di Redazione Online",
+          "url": "https://www.corriere.it/politica/22_luglio_20/dimissioni-draghi-cosa-succede-2774dca0-083b-11ed-bd15-abd29857fc36.shtml",
+          "title": "Cosa succede ora al governo, viste le possibili dimissioni di Draghi?",
+          "publisher": "Corriere.it",
+          "date": "20 July 2022",
+          "accessdate": "2022-07-20",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.open.online/2022/07/20/crisi-di-governo-draghi-voto-di-fiducia-dimissioni-quirinale/",
+          "title": "Draghi potrebbe annunciare le dimissioni già domani alla Camera. Poi salirà al Quirinale da Mattarella",
+          "date": "20 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.corriere.it/politica/22_luglio_21/draghi-dimissioni-governo-ad4926de-0835-11ed-bd15-abd29857fc36.shtml",
+          "title": "Draghi ha dato le dimissioni",
+          "work": "Corriere della Sera",
+          "language": "it",
+          "date": "21 July 2022",
+          "access-date": "21 July 2022",
+          "template": "citation",
+          "type": "news"
         },
         {
           "template": "citation",

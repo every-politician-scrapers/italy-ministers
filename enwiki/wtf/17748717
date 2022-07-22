@@ -226,7 +226,7 @@
             "text": "Emma Patelli"
           },
           "party": {
-            "text": "FI (1994–2009)\nPdL (2009–2013)\nFI (2013–2022)",
+            "text": "FI (1994–2009)\nPdL (2009–2013)\nFI (2013–2022) Action (2022–present)",
             "links": [
               {
                 "text": "FI",
@@ -242,6 +242,11 @@
                 "text": "FI",
                 "type": "internal",
                 "page": "Forza Italia (2013)"
+              },
+              {
+                "text": "Action",
+                "type": "internal",
+                "page": "Action (Italian political party)"
               }
             ]
           }

@@ -36,11 +36,12 @@
         {
           "sentences": [
             {
-              "text": "Mario Draghi (born 3 September 1947) is an Italian economist, banker, former professor and civil servant who has served as Prime Minister of Italy since February 2021.",
+              "text": "Mario Draghi (born 3 September 1947) is an Italian economist, banker, former professor and civil servant who has served as prime minister of Italy since February 2021.",
               "links": [
                 {
+                  "text": "prime minister of Italy",
                   "type": "internal",
-                  "page": "Prime Minister of Italy"
+                  "page": "prime minister of Italy"
                 }
               ],
               "formatting": {
@@ -48,6 +49,9 @@
                   "Mario Draghi"
                 ]
               }
+            },
+            {
+              "text": "He resigned from the office on 21 July 2022 and will remain as caretaker prime minister until a new leader is elected."
             },
             {
               "text": "Prior to his appointment as prime minister, he served as President of the European Central Bank (ECB) between 2011 and 2019.",
@@ -304,7 +308,7 @@
               ]
             },
             {
-              "text": "He has been rated highly in public opinion polls in Italy during his time as prime minister, and at the end of his first year in office The Economist named Italy as 'Country of the Year', singling out Draghi's leadership as central to its nomination.",
+              "text": "He has been rated highly in public opinion polls in Italy during his time as prime minister, and at the end of his first year in office, The Economist named Italy as 'Country of the Year', singling out Draghi's leadership as central to its nomination.",
               "links": [
                 {
                   "type": "internal",
@@ -322,7 +326,7 @@
         {
           "sentences": [
             {
-              "text": "On 14 July 2022, the populist Five Star Movement revoked the support to Draghi's coalition government regarding a decree concerning economic stimulus to offset the energy crisis.",
+              "text": "On 14 July 2022, the populist Five Star Movement revoked support to Draghi's coalition government regarding a decree concerning economic stimulus to offset the energy crisis.",
               "links": [
                 {
                   "type": "internal",
@@ -336,7 +340,7 @@
               ]
             },
             {
-              "text": "On the same day, despite having largely won the confidence vote, Draghi officially announced his resignation as prime minister.",
+              "text": "On the same day, despite having largely won the confidence vote, Draghi announced his resignation as prime minister.",
               "links": [
                 {
                   "text": "confidence vote",
@@ -352,13 +356,19 @@
             },
             {
               "text": "However, the resignation was rejected by president Mattarella."
+            },
+            {
+              "text": "On 21 July, Draghi resigned for a second time following the failure of the confidence vote to pass with an absolute majority, due to the withdrawals of M5S, Lega, and FI."
+            },
+            {
+              "text": "On the same day, President Mattarella accepted the resignation and Draghi remained in office as caretaker prime minister."
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "Prime Minister of Italy since 2021",
+          "description": "Prime minister of Italy since 2021",
           "template": "short description"
         },
         {
@@ -403,7 +413,7 @@
       "infoboxes": [
         {
           "image": {
-            "text": "File:Mario Draghi 2021 cropped.jpg"
+            "text": "Mario Draghi 2021 cropped.jpg"
           },
           "caption": {
             "text": "Draghi in 2021"
@@ -429,6 +439,9 @@
           "term_start1": {
             "text": "13 February 2021"
           },
+          "term_end1": {
+            "text": "21 July 2022"
+          },
           "predecessor1": {
             "text": "Giuseppe Conte",
             "links": [
@@ -437,6 +450,9 @@
                 "page": "Giuseppe Conte"
               }
             ]
+          },
+          "successor1": {
+            "text": "TBA"
           },
           "office2": {
             "text": "President of the European Central Bank",
@@ -599,6 +615,10 @@
               {
                 "type": "internal",
                 "page": "Massachusetts Institute of Technology"
+              },
+              {
+                "type": "internal",
+                "page": "PhD"
               }
             ]
           },
@@ -612,11 +632,25 @@
       ],
       "references": [
         {
+          "url": "https://www.corriere.it/politica/22_luglio_21/draghi-dimissioni-governo-ad4926de-0835-11ed-bd15-abd29857fc36.shtml",
+          "title": "Draghi ha dato le dimissioni",
+          "date": "21 July 2022",
+          "access-date": "21 July 2022",
+          "archive-date": "21 July 2022",
+          "archive-url": "https://web.archive.org/web/20220721171853/https://www.corriere.it/politica/22_luglio_21/draghi-dimissioni-governo-ad4926de-0835-11ed-bd15-abd29857fc36.shtml",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "title": "Mario Draghi sworn in as Italy's new prime minister",
           "url": "https://www.bbc.com/news/world-europe-56049115",
           "access-date": "6 January 2022",
           "work": "BBC News",
           "date": "13 February 2021",
+          "archive-date": "19 March 2022",
+          "archive-url": "https://web.archive.org/web/20220319075829/https://www.bbc.com/news/world-europe-56049115",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -627,6 +661,9 @@
           "work": "Rai News",
           "date": "13 February 2021",
           "language": "it",
+          "archive-date": "14 May 2021",
+          "archive-url": "https://web.archive.org/web/20210514110121/https://www.rainews.it/dl/rainews/articoli/Governo-Draghi-accetta-incarico-677dedcb-1285-4a3b-ae98-a7dcb77c922a.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -637,6 +674,9 @@
           "publisher": "Bank of Italy",
           "access-date": "6 January 2022",
           "language": "it",
+          "archive-date": "13 December 2021",
+          "archive-url": "https://web.archive.org/web/20211213121328/https://www.bancaditalia.it/chi-siamo/storia/governatori-direttori-generali/governatori/mario-draghi/index.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -645,6 +685,9 @@
           "title": "'Whatever it takes' – a speech and its implications for the euro area",
           "website": "www.kfw.de",
           "accessdate": "3 February 2021",
+          "archive-date": "26 May 2021",
+          "archive-url": "https://web.archive.org/web/20210526103408/https://www.kfw.de/KfW-Group/Newsroom/Latest-News/News-Details_426753.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -652,6 +695,10 @@
           "url": "https://www.euractiv.com/section/economy-jobs/news/mario-draghi-the-euro-is-irreversible/",
           "title": "Mario Draghi: The euro is irreversible",
           "date": "15 June 2018",
+          "access-date": "4 May 2022",
+          "archive-date": "4 May 2022",
+          "archive-url": "https://web.archive.org/web/20220504164104/https://www.euractiv.com/section/economy-jobs/news/mario-draghi-the-euro-is-irreversible/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -661,6 +708,9 @@
           "access-date": "6 January 2022",
           "work": "Fortune",
           "language": "en",
+          "archive-date": "1 November 2021",
+          "archive-url": "https://web.archive.org/web/20211101065155/https://fortune.com/worlds-greatest-leaders/2015/mario-draghi/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -671,6 +721,9 @@
           "work": "Corriere della Sera",
           "date": "15 September 2021",
           "language": "it",
+          "archive-date": "17 September 2021",
+          "archive-url": "https://web.archive.org/web/20210917024950/https://www.corriere.it/economia/finanza/21_settembre_15/mario-draghi-100-time-per-terza-volta-l-unico-italiano-8c7282c0-1628-11ec-a86d-66613f8ffd7b.shtml",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -680,6 +733,9 @@
           "access-date": "6 January 2022",
           "work": "POLITICO",
           "date": "6 July 2021",
+          "archive-date": "8 January 2022",
+          "archive-url": "https://web.archive.org/web/20220108210711/https://www.politico.eu/politico-28-class-of-2022/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -691,6 +747,9 @@
           "newspaper": "The New York Times",
           "date": "24 May 2019",
           "access-date": "24 October 2019",
+          "archive-date": "1 August 2019",
+          "archive-url": "https://web.archive.org/web/20190801231349/https://www.nytimes.com/2019/05/24/opinion/after-draghi-wonkish.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -704,6 +763,9 @@
           "access-date": "6 January 2022",
           "work": "Financial Times",
           "date": "5 February 2021",
+          "archive-date": "2 August 2021",
+          "archive-url": "https://web.archive.org/web/20210802142302/https://www.ft.com/content/383ec389-3fbe-44c5-bac9-ef61f0248f43",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -714,6 +776,9 @@
           "work": "MF Milano Finanza",
           "date": "25 October 2019",
           "language": "it",
+          "archive-date": "21 July 2021",
+          "archive-url": "https://web.archive.org/web/20210721145246/https://www.milanofinanza.it/news/il-saluto-del-salvatore-dell-euro-201910242045238162",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -724,6 +789,9 @@
           "work": "France 24",
           "date": "3 February 2021",
           "language": "en",
+          "archive-date": "17 June 2022",
+          "archive-url": "https://web.archive.org/web/20220617185649/https://www.france24.com/en/video/20210203-mario-draghi-eurozone-saviour-now-called-to-italy-s-side",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -733,6 +801,9 @@
           "access-date": "6 January 2022",
           "work": "Sky TG24",
           "language": "it",
+          "archive-date": "19 October 2021",
+          "archive-url": "https://web.archive.org/web/20211019192841/https://tg24.sky.it/politica/approfondimenti/mario-draghi",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -742,6 +813,9 @@
           "access-date": "6 January 2022",
           "work": "Sky News",
           "language": "en",
+          "archive-date": "22 May 2022",
+          "archive-url": "https://web.archive.org/web/20220522140136/https://news.sky.com/story/super-mario-draghi-sworn-in-as-italys-new-pm-can-he-save-its-economy-like-he-saved-the-euro-12215054",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -751,6 +825,9 @@
           "date": "2 February 2021",
           "access-date": "2 February 2021",
           "via": "Il Fatto Quotidiano",
+          "archive-date": "2 February 2021",
+          "archive-url": "https://web.archive.org/web/20210202203403/https://www.ilfattoquotidiano.it/2021/02/02/mattarella-sceglie-un-governo-del-presidente-e-convoca-mario-draghi-voto-non-opportuno-con-lemergenza-serve-pienezza-delle-funzioni/6088195/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -764,6 +841,9 @@
           "first1": "Miles",
           "last2": "Ghiglione",
           "first2": "Davide",
+          "archive-date": "3 February 2021",
+          "archive-url": "https://web.archive.org/web/20210203235731/https://www.ft.com/content/9022639f-9b88-40fe-9875-1d4a282ac5e4",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -777,6 +857,9 @@
           "url": "https://www.nytimes.com/2021/02/12/world/europe/italy-mario-draghi-government.html",
           "access-date": "14 February 2021",
           "issn": "0362-4331",
+          "archive-date": "15 February 2021",
+          "archive-url": "https://web.archive.org/web/20210215110506/https://www.nytimes.com/2021/02/12/world/europe/italy-mario-draghi-government.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -787,6 +870,9 @@
           "access-date": "11 February 2021",
           "website": "The Guardian",
           "language": "en",
+          "archive-date": "13 February 2021",
+          "archive-url": "https://web.archive.org/web/20210213124411/https://www.theguardian.com/world/2021/feb/13/mario-draghi-sworn-in-as-prime-minister-of-italy",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -797,6 +883,10 @@
           "website": "The Guardian",
           "first": "Angela",
           "last": "Giuffrida",
+          "access-date": "14 February 2021",
+          "archive-date": "19 April 2021",
+          "archive-url": "https://web.archive.org/web/20210419104552/https://www.theguardian.com/world/2021/feb/12/mario-draghis-new-italian-government-to-be-sworn-in-on-saturday",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -810,13 +900,36 @@
           "last2": "Pitrelli",
           "date": "14 July 2022",
           "access-date": "14 July 2022",
+          "archive-date": "14 July 2022",
+          "archive-url": "https://web.archive.org/web/20220714153809/https://www.washingtonpost.com/world/2022/07/14/italy-government-collapse-fivestar/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.rainews.it/maratona/2022/07/diario-della-crisi-21-luglio-verso-le-dimissioni-draghi-alla-camera-e-poi-al-quirinale-d7be732d-38f3-447a-ae58-430425e97b00.html",
+          "title": "Draghi si è dimesso, il presidente Mattarella ha sciolto le Camere: l'Italia al voto il 25 settembre",
+          "access-date": "21 July 2022",
+          "archive-date": "21 July 2022",
+          "archive-url": "https://web.archive.org/web/20220721132248/https://www.rainews.it/maratona/2022/07/diario-della-crisi-21-luglio-verso-le-dimissioni-draghi-alla-camera-e-poi-al-quirinale-d7be732d-38f3-447a-ae58-430425e97b00.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "url": "https://www.wantedinrome.com/news/the-economist-crowns-italy-country-of-the-year.html",
           "title": "The Economist crowns Italy 'Country of the Year'",
           "date": "16 December 2021",
+          "access-date": "23 March 2022",
+          "archive-date": "6 February 2022",
+          "archive-url": "https://web.archive.org/web/20220206142911/https://www.wantedinrome.com/news/the-economist-crowns-italy-country-of-the-year.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
@@ -864,7 +977,7 @@
               ]
             },
             {
-              "text": "He is the eldest of three children: Andreina, an art historian, and Marcello, an entrepreneur.",
+              "text": "He is the eldest of three children including Andreina, an art historian, and Marcello, an entrepreneur.",
               "links": [
                 {
                   "text": "art historian",
@@ -874,7 +987,7 @@
               ]
             },
             {
-              "text": "When he was 15 years old his father died, who was born in 1895, and at 19 his mother died."
+              "text": "When he was 15 years old, his father died; at 19, his mother died."
             }
           ]
         },
@@ -984,6 +1097,9 @@
           "access-date": "6 January 2022",
           "language": "it",
           "date": "26 April 2009",
+          "archive-date": "10 December 2021",
+          "archive-url": "https://web.archive.org/web/20211210212920/https://biografieonline.it/biografia-mario-draghi",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -994,6 +1110,9 @@
           "work": "Paulson Institute",
           "date": "2 December 2020",
           "language": "en",
+          "archive-date": "6 January 2022",
+          "archive-url": "https://web.archive.org/web/20220106093124/https://www.youtube.com/watch?v=zo2OzbcEEiU",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1003,6 +1122,9 @@
           "access-date": "5 September 2012",
           "language": "it",
           "publisher": "corriere.it",
+          "archive-date": "7 October 2012",
+          "archive-url": "https://web.archive.org/web/20121007233902/http://www.corriere.it/Primo_Piano/Cronache/2005/12_Dicembre/30/conti.shtml",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1037,6 +1159,9 @@
           "access-date": "6 January 2022",
           "language": "en",
           "date": "12 November 2014",
+          "archive-date": "22 November 2021",
+          "archive-url": "https://web.archive.org/web/20211122182328/https://www.ecb.europa.eu/press/key/date/2014/html/sp141112.en.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1293,6 +1418,9 @@
           "work": "La Stampa",
           "date": "4 February 2021",
           "language": "it",
+          "archive-date": "20 October 2021",
+          "archive-url": "https://web.archive.org/web/20211020024955/https://www.lastampa.it/rubriche/lato-boralevi/2021/02/04/news/la-biografia-di-mario-draghi-1.39860010",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1303,6 +1431,9 @@
           "work": "Il Post",
           "date": "3 February 2021",
           "language": "it-IT",
+          "archive-date": "1 January 2022",
+          "archive-url": "https://web.archive.org/web/20220101120447/https://www.ilpost.it/2021/02/03/chi-e-mario-draghi/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1313,6 +1444,9 @@
           "publisher": "Treccani",
           "access-date": "6 January 2022",
           "language": "it-IT",
+          "archive-date": "30 December 2021",
+          "archive-url": "https://web.archive.org/web/20211230130553/https://www.treccani.it/enciclopedia/mario-draghi",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1320,6 +1454,10 @@
           "url": "http://www.goldmansachs.com/media-relations/press-releases/archived/2002/2002-01-28.html",
           "title": "Goldman Sachs – Press Releases – Professor Mario Draghi Joins Goldman Sachs",
           "website": "Goldman Sachs",
+          "access-date": "5 February 2019",
+          "archive-date": "21 December 2018",
+          "archive-url": "https://web.archive.org/web/20181221004231/https://www.goldmansachs.com/media-relations/press-releases/archived/2002/2002-01-28.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1329,6 +1467,9 @@
           "url": "https://www.bloomberg.com/news/articles/2011-06-14/draghi-says-he-knew-nothing-about-goldman-greece-deal-1-",
           "access-date": "4 October 2020",
           "website": "Bloomberg.com",
+          "archive-date": "12 January 2021",
+          "archive-url": "https://web.archive.org/web/20210112025049/https://www.bloomberg.com/news/articles/2011-06-14/draghi-says-he-knew-nothing-about-goldman-greece-deal-1-",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1342,6 +1483,10 @@
           "publisher": "Palgrave Macmillan",
           "isbn": "978-1-137-31888-6",
           "page": "48",
+          "access-date": "29 April 2016",
+          "archive-date": "7 April 2022",
+          "archive-url": "https://web.archive.org/web/20220407103342/https://books.google.com/books?id=DenRAQAAQBAJ&pg=PA48",
+          "url-status": "live",
           "template": "citation",
           "type": "book"
         },
@@ -1353,6 +1498,10 @@
           "publisher": "ABC-CLIO",
           "isbn": "978-0-313-39747-9",
           "pages": "67–",
+          "access-date": "29 April 2016",
+          "archive-date": "17 October 2021",
+          "archive-url": "https://web.archive.org/web/20211017094628/https://books.google.com/books?id=qWyjAQAAQBAJ&pg=PA67",
+          "url-status": "live",
           "template": "citation",
           "type": "book"
         },
@@ -1377,6 +1526,9 @@
           "work": "The Independent",
           "access-date": "18 November 2011",
           "location": "London",
+          "archive-date": "4 March 2016",
+          "archive-url": "https://web.archive.org/web/20160304025943/http://www.independent.co.uk/news/business/analysis-and-features/what-price-the-new-democracy-goldman-sachs-conquers-europe-6264091.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         }
@@ -1535,6 +1687,10 @@
           "year": "2009",
           "publisher": "The Bank",
           "page": "xiii",
+          "access-date": "24 January 2015",
+          "archive-date": "18 May 2015",
+          "archive-url": "https://web.archive.org/web/20150518234002/https://books.google.com/books?id=23RQAQAAIAAJ&q=%22Board%20of%20Directors%20of%20the%20Bank%20for%20International%20Settlements%22",
+          "url-status": "live",
           "template": "citation",
           "type": "book"
         },
@@ -1546,6 +1702,10 @@
           "publisher": "Oxford University Press",
           "isbn": "978-0-19-999333-8",
           "page": "183",
+          "access-date": "29 April 2016",
+          "archive-date": "3 August 2020",
+          "archive-url": "https://web.archive.org/web/20200803173503/https://books.google.com/books?id=cjmTAwAAQBAJ&pg=PA183",
+          "url-status": "live",
           "template": "citation",
           "type": "book"
         }
@@ -1875,6 +2035,10 @@
           "title": "Super-Mario für die EZB",
           "newspaper": "Handelsblatt",
           "url": "https://www.handelsblatt.com/politik/konjunktur-nachrichten/super-mario-fuer-die-ezb;2462703",
+          "access-date": "9 March 2017",
+          "archive-date": "2 October 2009",
+          "archive-url": "https://web.archive.org/web/20091002232736/http://www.handelsblatt.com/politik/konjunktur-nachrichten/super-mario-fuer-die-ezb;2462703",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1883,6 +2047,10 @@
           "title": "Draghi can lead the eurozone out of danger",
           "newspaper": "Financial Times",
           "date": "13 February 2011",
+          "access-date": "14 February 2011",
+          "archive-date": "15 February 2011",
+          "archive-url": "https://web.archive.org/web/20110215095544/http://www.ft.com/cms/s/0/e9edc55e-37a9-11e0-b91a-00144feabdc0.html#axzz1DxWLv7dj",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1891,6 +2059,10 @@
           "title": "The Italian's Job",
           "newspaper": "The Economist",
           "date": "17 February 2011",
+          "access-date": "18 February 2011",
+          "archive-date": "21 February 2011",
+          "archive-url": "https://web.archive.org/web/20110221055519/http://www.economist.com/node/18180406",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1901,6 +2073,9 @@
           "work": "Il Sole 24 ORE",
           "date": "24 June 2011",
           "language": "it",
+          "archive-date": "10 April 2022",
+          "archive-url": "https://web.archive.org/web/20220410203453/https://st.ilsole24ore.com/art/notizie/2011-06-23/rinviata-nomina-draghi-presidente-230821.shtml?uuid=Aa5i6ZiD",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1916,6 +2091,9 @@
           "publisher": "BBC",
           "date": "24 June 2011",
           "access-date": "24 June 2011",
+          "archive-date": "24 June 2011",
+          "archive-url": "https://web.archive.org/web/20110624112712/http://www.bbc.co.uk/news/business-13904781",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1925,6 +2103,9 @@
           "work": "Reuters",
           "date": "24 June 2011",
           "access-date": "24 June 2011",
+          "archive-date": "11 March 2016",
+          "archive-url": "https://web.archive.org/web/20160311020726/http://www.reuters.com/article/us-eu-summit-draghi-idUSTRE75N0UK20110624",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1945,6 +2126,10 @@
           "first": "William L.",
           "last": "Watts",
           "date": "24 June 2011",
+          "access-date": "24 June 2011",
+          "archive-date": "27 June 2011",
+          "archive-url": "https://web.archive.org/web/20110627135844/http://www.marketwatch.com/story/eu-leaders-confirm-draghi-to-head-ecb-2011-06-24",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1959,6 +2144,9 @@
           "date": "6 February 2012",
           "access-date": "14 February 2012",
           "quote": "In fact, the ECB may be putting the interests of the few banks that have written credit-default swaps before those of Greece, Europe's taxpayers, and creditors who acted prudently and bought insurance.",
+          "archive-date": "12 February 2012",
+          "archive-url": "https://web.archive.org/web/20120212063354/http://www.project-syndicate.org/commentary/stiglitz148/English",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1970,6 +2158,9 @@
           "work": "MarketWatch",
           "date": "29 February 2012",
           "access-date": "29 February 2012",
+          "archive-date": "1 March 2012",
+          "archive-url": "https://web.archive.org/web/20120301210842/http://www.marketwatch.com/story/what-central-banks-provide-oil-markets-take-away-2012-02-29",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1981,6 +2172,9 @@
           "medium": "Video",
           "publisher": "Euronews via YouTube",
           "url": "https://www.youtube.com/watch?v=Pq1V0aPEO3c",
+          "archive-date": "24 January 2014",
+          "archive-url": "https://web.archive.org/web/20140124144312/http://www.youtube.com/watch?v=Pq1V0aPEO3c",
+          "url-status": "live",
           "template": "citation",
           "type": "av media"
         },
@@ -2007,6 +2201,9 @@
           "work": "The New York Times",
           "date": "30 July 2012",
           "access-date": "23 August 2018",
+          "archive-date": "23 August 2018",
+          "archive-url": "https://web.archive.org/web/20180823174425/https://www.nytimes.com/2012/07/30/business/global/30iht-dixon30.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2016,6 +2213,10 @@
           "newspaper": "Der Spiegel",
           "date": "29 January 2013",
           "via": "Spiegel Online",
+          "access-date": "30 November 2014",
+          "archive-date": "29 November 2014",
+          "archive-url": "https://web.archive.org/web/20141129090809/http://www.spiegel.de/wirtschaft/unternehmen/aelteste-bank-der-welt-monte-dei-paschi-affaere-erreicht-ezb-chef-draghi-a-880304.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2024,6 +2225,10 @@
           "title": "Europa droht ein Währungskrieg (Europe at the verge of currency wars)",
           "journal": "Manager Magazin",
           "date": "30 November 2014",
+          "access-date": "30 November 2014",
+          "archive-date": "2 December 2014",
+          "archive-url": "https://web.archive.org/web/20141202180342/http://www.manager-magazin.de/politik/konjunktur/muellers-memo-wir-exportieren-unsere-wirtschaftsprobleme-a-1005798.html",
+          "url-status": "live",
           "template": "citation",
           "type": "journal"
         },
@@ -2035,6 +2240,9 @@
           "work": "Business Insider",
           "date": "4 April 2013",
           "access-date": "20 May 2013",
+          "archive-date": "11 May 2013",
+          "archive-url": "https://web.archive.org/web/20130511033358/http://www.businessinsider.com/draghi-zero-hedge-readers-dont-understand-euro-crisis-2013-4",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2046,6 +2254,9 @@
           "work": "The New York Times",
           "date": "25 February 2015",
           "access-date": "26 February 2015",
+          "archive-date": "4 March 2015",
+          "archive-url": "https://web.archive.org/web/20150304034254/http://www.nytimes.com/2015/02/26/business/mario-draghi-warns-of-risky-future-for-eurozone.html?_r=0",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2055,6 +2266,10 @@
           "work": "Press Release",
           "publisher": "ECB",
           "date": "15 January 2015",
+          "access-date": "26 April 2021",
+          "archive-date": "26 April 2021",
+          "archive-url": "https://web.archive.org/web/20210426123533/https://www.ecb.europa.eu/press/inter/date/2015/html/sp150115.en.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2065,6 +2280,10 @@
           "first": "Alessandra, and William Horobin",
           "last": "Galloni",
           "date": "24 June 2011",
+          "access-date": "8 August 2017",
+          "archive-date": "11 January 2021",
+          "archive-url": "https://web.archive.org/web/20210111091901/https://www.wsj.com/articles/SB10001424052702304569504576405273012401058?mod=googlenews_wsj",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2085,6 +2304,9 @@
           "work": "Press Release",
           "publisher": "ECB",
           "access-date": "1 November 2019",
+          "archive-date": "27 December 2019",
+          "archive-url": "https://web.archive.org/web/20191227170018/https://www.ecb.europa.eu/press/pr/date/2019/html/ecb.pr191101~8f1889db97.en.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
@@ -2328,6 +2550,9 @@
           "work": "Open",
           "date": "3 January 2021",
           "language": "it-IT",
+          "archive-date": "5 February 2021",
+          "archive-url": "https://web.archive.org/web/20210205060354/https://www.open.online/2021/01/03/governo-conte-renzi-ritira-ministre-scenari/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2344,6 +2569,9 @@
           "publisher": "CNBC",
           "date": "13 January 2021",
           "ref": "Government Collapse 2021",
+          "archive-date": "31 January 2021",
+          "archive-url": "https://web.archive.org/web/20210131234301/https://www.cnbc.com/2021/01/13/renzi-italys-government-in-crisis-after-former-pm-pulls-support.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2355,6 +2583,9 @@
           "work": "The Wall Street Journal",
           "url": "https://www.wsj.com/articles/italian-prime-minister-giuseppe-conte-to-resign-11611599680",
           "access-date": "25 January 2021",
+          "archive-date": "16 February 2021",
+          "archive-url": "https://web.archive.org/web/20210216142256/https://www.wsj.com/articles/italian-prime-minister-giuseppe-conte-to-resign-11611599680",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2365,6 +2596,9 @@
           "date": "2 February 2021",
           "title": "La vecchia maggioranza non si è messa d'accordo",
           "publisher": "Il Post",
+          "archive-date": "7 February 2021",
+          "archive-url": "https://web.archive.org/web/20210207072944/https://www.ilpost.it/2021/02/02/nuovo-governo-trattative-roberto-fico/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2375,6 +2609,9 @@
           "access-date": "3 February 2021",
           "website": "euronews",
           "language": "en",
+          "archive-date": "3 February 2021",
+          "archive-url": "https://web.archive.org/web/20210203122834/https://www.euronews.com/2021/02/03/former-european-central-bank-chief-mario-draghi-asked-to-form-italy-s-next-government",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2385,6 +2622,9 @@
           "date": "2 February 2021",
           "title": "Mattarella sceglie un governo del presidente e convoca Mario Draghi: \"Voto non opportuno con l'emergenza, serve pienezza delle funzioni\"",
           "publisher": "Il Fatto Quotidiano",
+          "archive-date": "2 February 2021",
+          "archive-url": "https://web.archive.org/web/20210202203403/https://www.ilfattoquotidiano.it/2021/02/02/mattarella-sceglie-un-governo-del-presidente-e-convoca-mario-draghi-voto-non-opportuno-con-lemergenza-serve-pienezza-delle-funzioni/6088195/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2395,6 +2635,9 @@
           "work": "Sky TG24",
           "date": "3 February 2021",
           "language": "it",
+          "archive-date": "12 February 2021",
+          "archive-url": "https://web.archive.org/web/20210212201618/https://tg24.sky.it/politica/2021/02/03/crisi-governo-draghi-news-diretta",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2405,6 +2648,9 @@
           "access-date": "11 February 2021",
           "website": "la Repubblica",
           "language": "it",
+          "archive-date": "11 February 2021",
+          "archive-url": "https://web.archive.org/web/20210211183553/https://www.repubblica.it/politica/2021/02/11/news/governo_draghi_zingaretti_partito_democratico_consultazioni-287124139/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2415,6 +2661,9 @@
           "access-date": "11 February 2021",
           "website": "ilGiornale.it",
           "language": "it",
+          "archive-date": "11 February 2021",
+          "archive-url": "https://web.archive.org/web/20210211035339/https://www.ilgiornale.it/news/politica/berlusconi-e-salvini-sostegno-draghi-responsabilit-e-senza-1923011.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2425,6 +2674,9 @@
           "access-date": "11 February 2021",
           "website": "lastampa.it",
           "language": "it-IT",
+          "archive-date": "13 February 2021",
+          "archive-url": "https://web.archive.org/web/20210213131123/https://www.lastampa.it/politica/2021/02/11/news/al-via-il-voto-su-rousseau-fico-voto-si-il-momento-del-paese-e-molto-delicato-1.39887941",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2435,6 +2687,9 @@
           "work": "ANSA.it",
           "date": "13 February 2021",
           "language": "en",
+          "archive-date": "13 February 2021",
+          "archive-url": "https://web.archive.org/web/20210213123351/https://www.ansa.it/english/news/politics/2021/02/13/draghi-government-sworn-in_dd95ed4f-db58-4b2b-ab57-381898e9a950.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2446,6 +2701,9 @@
           "access-date": "15 February 2021",
           "work": "Politico",
           "date": "12 February 2021",
+          "archive-date": "15 February 2021",
+          "archive-url": "https://web.archive.org/web/20210215180445/https://www.politico.eu/article/mario-draghi-forms-italian-government/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2458,6 +2716,9 @@
           "work": "la Repubblica",
           "date": "17 February 2021",
           "language": "it",
+          "archive-date": "21 February 2021",
+          "archive-url": "https://web.archive.org/web/20210221213036/https://www.repubblica.it/politica/2021/02/17/news/governo_draghi_fiducia_senato_risultati_voto-288040204/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2472,6 +2733,9 @@
           "work": "la Repubblica",
           "date": "18 February 2021",
           "language": "it",
+          "archive-date": "31 October 2021",
+          "archive-url": "https://web.archive.org/web/20211031091142/https://www.repubblica.it/politica/2021/02/18/news/governo_draghi_fiducia_camera_che_cosa_succede-288009134/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2483,6 +2747,9 @@
           "access-date": "6 January 2022",
           "work": "The New York Times",
           "date": "17 February 2021",
+          "archive-date": "17 December 2021",
+          "archive-url": "https://web.archive.org/web/20211217182045/https://www.nytimes.com/2021/02/17/world/europe/italy-mario-draghi.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2493,6 +2760,9 @@
           "work": "L'HuffPost",
           "date": "17 February 2021",
           "language": "it",
+          "archive-date": "21 October 2021",
+          "archive-url": "https://web.archive.org/web/20211021033142/https://www.huffingtonpost.it/entry/draghi-a-salvini-sostenermi-significa-accettare-lirreversibilita-delleuro_it_602ce14fc5b66dfc101b1bc7",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2502,6 +2772,9 @@
           "date": "17 February 2021",
           "work": "Reuters",
           "access-date": "18 February 2021",
+          "archive-date": "17 February 2021",
+          "archive-url": "https://web.archive.org/web/20210217171828/https://www.reuters.com/article/italy-politics-draghi/key-policy-points-in-italy-pm-draghis-maiden-speech-to-senate-idUSL1N2KN0ZY",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2517,6 +2790,9 @@
           "date": "17 February 2021",
           "work": "Reuters",
           "access-date": "18 February 2021",
+          "archive-date": "17 February 2021",
+          "archive-url": "https://web.archive.org/web/20210217110547/https://www.reuters.com/article/us-italy-politics-draghi/italian-pm-draghi-vows-major-reforms-demands-unity-ahead-of-senate-vote-idUSKBN2AH143",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2528,6 +2804,9 @@
           "date": "17 February 2021",
           "work": "Politico",
           "access-date": "19 February 2021",
+          "archive-date": "18 February 2021",
+          "archive-url": "https://web.archive.org/web/20210218060129/https://www.politico.eu/article/mario-draghi-to-league-learn-to-love-the-euro-eu/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2539,6 +2818,9 @@
           "last": "Johnson",
           "first": "Miles",
           "access-date": "8 February 2022",
+          "archive-date": "8 December 2021",
+          "archive-url": "https://web.archive.org/web/20211208192815/http://www.ft.com/content/e2bb0d4d-29ec-48be-8660-fb39192b6caa",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2550,6 +2832,9 @@
           "access-date": "15 February 2021",
           "work": "The New York Times",
           "date": "12 February 2021",
+          "archive-date": "15 February 2021",
+          "archive-url": "https://web.archive.org/web/20210215110506/https://www.nytimes.com/2021/02/12/world/europe/italy-mario-draghi-government.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2561,6 +2846,9 @@
           "access-date": "15 February 2021",
           "work": "Financial Times",
           "date": "13 February 2021",
+          "archive-date": "15 February 2021",
+          "archive-url": "https://web.archive.org/web/20210215110530/https://www.ft.com/content/6f3c3de9-bb70-4352-ba26-c30b6965dcd6",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         }
@@ -2792,6 +3080,9 @@
           "work": "la Repubblica",
           "date": "1 March 2021",
           "language": "it",
+          "archive-date": "14 July 2022",
+          "archive-url": "https://web.archive.org/web/20220714201857/https://www.repubblica.it/cronaca/2021/03/01/news/figliuolo_nuovo_commissario_emergenza_covid-289765397/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2802,6 +3093,9 @@
           "work": "ilGiornale.it",
           "date": "27 February 2021",
           "language": "it",
+          "archive-date": "21 December 2021",
+          "archive-url": "https://web.archive.org/web/20211221001547/https://www.ilgiornale.it/news/politica/ecco-perch-arcuri-capolinea-1927056.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2812,6 +3106,9 @@
           "work": "Il Fatto Quotidiano",
           "date": "27 February 2021",
           "language": "it-IT",
+          "archive-date": "24 July 2021",
+          "archive-url": "https://web.archive.org/web/20210724121440/https://www.ilfattoquotidiano.it/in-edicola/articoli/2021/02/27/curcio-per-borrelli-draghi-cambia-la-protezione-civile/6115469/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2822,6 +3119,9 @@
           "work": "la Repubblica",
           "date": "3 March 2021",
           "language": "it",
+          "archive-date": "24 July 2021",
+          "archive-url": "https://web.archive.org/web/20210724121441/https://www.repubblica.it/politica/2021/03/03/news/draghi_sente_von_der_leyen_priorita_accelerare_vaccini-290161798/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2838,6 +3138,9 @@
           "work": "Bloomberg",
           "date": "4 March 2021",
           "language": "en",
+          "archive-date": "12 April 2022",
+          "archive-url": "https://web.archive.org/web/20220412172042/https://www.bloomberg.com/news/articles/2021-03-04/italy-blocks-astra-vaccine-export-risking-backlash-against-eu",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2847,6 +3150,9 @@
           "access-date": "6 January 2022",
           "work": "DW.COM",
           "date": "5 March 2021",
+          "archive-date": "21 July 2022",
+          "archive-url": "https://web.archive.org/web/20220721171851/https://www.dw.com/en/coronavirus-australia-wants-eu-to-review-italys-vaccine-block/a-56779185",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2857,6 +3163,9 @@
           "work": "GOV.UK",
           "date": "4 March 2021",
           "language": "en",
+          "archive-date": "28 February 2022",
+          "archive-url": "https://web.archive.org/web/20220228123145/https://www.gov.uk/government/news/pm-call-with-prime-minister-draghi-of-italy-4-march-2021",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2867,6 +3176,9 @@
           "work": "EuropaToday",
           "date": "5 March 2021",
           "language": "it",
+          "archive-date": "25 July 2021",
+          "archive-url": "https://web.archive.org/web/20210725151331/https://europa.today.it/attualita/vaccino-macron-draghi-export.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2875,6 +3187,9 @@
           "title": "COVID-19: Germany, France, Italy and Spain pause Oxford-AstraZeneca coronavirus vaccine amid blood clot concerns",
           "work": "Sky News",
           "date": "15 March 2021",
+          "archive-date": "16 March 2021",
+          "archive-url": "https://web.archive.org/web/20210316070926/https://news.sky.com/story/covid-19-germany-suspends-oxford-astrazeneca-coronavirus-vaccine-amid-blood-clot-concerns-12246936",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2885,6 +3200,9 @@
           "access-date": "20 March 2021",
           "website": "L'HuffPost",
           "language": "it",
+          "archive-date": "18 March 2021",
+          "archive-url": "https://web.archive.org/web/20210318234952/https://www.huffingtonpost.it/entry/mario-draghi-sente-emmanuel-macron-se-ok-dellema-si-riparte-con-astrazeneca_it_6050ec32c5b6f2f91a2cf48c",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2893,6 +3211,9 @@
           "url": "https://www.bloomberg.com/news/videos/2021-03-16/italy-back-in-lockdown-as-draghi-vows-to-speed-up-vaccines-video",
           "language": "en",
           "access-date": "20 March 2021",
+          "archive-date": "17 March 2021",
+          "archive-url": "https://web.archive.org/web/20210317152154/https://www.bloomberg.com/news/videos/2021-03-16/italy-back-in-lockdown-as-draghi-vows-to-speed-up-vaccines-video",
+          "url-status": "live",
           "template": "citation",
           "type": "citation"
         },
@@ -2903,6 +3224,9 @@
           "access-date": "20 March 2021",
           "website": "Il Fatto Quotidiano",
           "language": "it-IT",
+          "archive-date": "19 March 2021",
+          "archive-url": "https://web.archive.org/web/20210319004323/https://www.ilfattoquotidiano.it/2021/03/10/sondaggi-il-pd-senza-segretario-cala-al-174-draghi-conte-e-speranza-i-leader-piu-apprezzati/6129282/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -2913,6 +3237,9 @@
           "work": "ANSA.it",
           "date": "16 April 2021",
           "language": "en",
+          "archive-date": "21 October 2021",
+          "archive-url": "https://web.archive.org/web/20211021034040/https://www.ansa.it/english/news/politics/2021/04/16/restrictions-to-start-being-eased-april-26-draghi-4_24e15465-051a-43d7-b42c-85301ebe4a82.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2923,6 +3250,9 @@
           "agency": "ilsecoloxix.it",
           "publisher": "ilsecoloxix.it",
           "date": "16 July 2021",
+          "archive-date": "16 July 2021",
+          "archive-url": "https://web.archive.org/web/20210716140037/https://www.ilsecoloxix.it/italia/2021/07/16/news/variante-delta-impennata-di-casi-ricoveri-sotto-controllo-dal-regno-unito-un-mix-di-buone-e-cattive-notizie-i-dati-1.40504597",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2933,6 +3263,9 @@
           "agency": "ilsole24ore.com",
           "publisher": "ilsole24ore.com",
           "date": "20 July 2021",
+          "archive-date": "19 July 2021",
+          "archive-url": "https://web.archive.org/web/20210719144911/https://www.ilsole24ore.com/art/variante-delta-pantelleria-roma-ecco-dove-sono-cluster-AEx2owX",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2943,6 +3276,9 @@
           "agency": "ilsole24ore.com",
           "publisher": "ilsole24ore.com",
           "date": "14 July 2021",
+          "archive-date": "16 July 2021",
+          "archive-url": "https://web.archive.org/web/20210716184314/https://24plus.ilsole24ore.com/art/tre-scenari-l-epidemia-casi-forte-rialzo-ma-vaccini-reggono-l-urto-AEvqJlW?s=hpl",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2955,6 +3291,9 @@
           "work": "The Guardian",
           "date": "22 July 2021",
           "language": "en",
+          "archive-date": "31 August 2021",
+          "archive-url": "https://web.archive.org/web/20210831103139/https://www.theguardian.com/world/2021/jul/22/italy-covid-19-green-pass-vaccinations-restrictions",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2966,6 +3305,9 @@
           "access-date": "6 January 2022",
           "work": "The New York Times",
           "date": "15 October 2021",
+          "archive-date": "7 January 2022",
+          "archive-url": "https://web.archive.org/web/20220107030855/https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass/workers-across-italy-face-a-new-reality-no-health-pass-no-paycheck",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2976,6 +3318,9 @@
           "work": "Il Fatto Quotidiano",
           "date": "24 November 2021",
           "language": "it-IT",
+          "archive-date": "24 November 2021",
+          "archive-url": "https://web.archive.org/web/20211124175648/https://www.ilfattoquotidiano.it/2021/11/24/super-green-pass-via-libera-del-governo-varra-in-zona-bianca-dal-6-dicembre-al-15-gennaio-draghi-vogliamo-prevenire-ed-evitare-rischi/6403660/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2986,6 +3331,9 @@
           "work": "L'HuffPost",
           "date": "5 January 2022",
           "language": "it",
+          "archive-date": "5 January 2022",
+          "archive-url": "https://web.archive.org/web/20220105200546/https://www.huffingtonpost.it/entry/dallobbligo-vaccinale-al-green-pass-per-i-servizi-alla-persona-tutte-le-nuove-regole_it_61d5f1d8e4b04b42ab7b4de6?ref=twhh",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2996,6 +3344,9 @@
           "work": "la Repubblica",
           "date": "5 January 2022",
           "language": "it",
+          "archive-date": "5 January 2022",
+          "archive-url": "https://web.archive.org/web/20220105231510/https://www.repubblica.it/politica/2022/01/05/news/consiglio_dei_ministri_cabina_di_regia_5_gennaio_nuovo_decreto-332707415/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         }
@@ -3151,6 +3502,9 @@
           "url": "https://www.bloomberg.com/opinion/articles/2021-08-03/mario-draghi-buys-time-by-winning-a-bid-for-italian-reform-tied-to-eu-funding",
           "access-date": "30 January 2022",
           "website": "Bloomberg",
+          "archive-date": "22 October 2021",
+          "archive-url": "https://web.archive.org/web/20211022033300/https://www.bloomberg.com/opinion/articles/2021-08-03/mario-draghi-buys-time-by-winning-a-bid-for-italian-reform-tied-to-eu-funding",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -3161,6 +3515,9 @@
           "work": "Sky TG24",
           "date": "29 October 2021",
           "language": "it",
+          "archive-date": "4 November 2021",
+          "archive-url": "https://web.archive.org/web/20211104033652/https://tg24.sky.it/politica/2021/10/28/manovra-2022-cosa-prevede#02",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3171,6 +3528,9 @@
           "work": "ANSA",
           "date": "28 October 2021",
           "language": "it",
+          "archive-date": "4 November 2021",
+          "archive-url": "https://web.archive.org/web/20211104235553/https://www.ansa.it/sito/notizie/politica/2021/10/28/sindacati-quota-102-non-va-pronti-alla-piazza_deb645e3-2a24-49cf-880c-4271c8e5c669.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3181,6 +3541,9 @@
           "work": "Il Foglio",
           "date": "28 October 2021",
           "language": "it",
+          "archive-date": "7 January 2022",
+          "archive-url": "https://web.archive.org/web/20220107102738/https://www.ilfoglio.it/economia/2021/10/28/news/cosi-cambiera-il-reddito-di-cittadinanza-3255645/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3191,6 +3554,10 @@
           "date": "30 December 2021",
           "last1": "Sciorilli Borrelli",
           "first1": "Silvia",
+          "access-date": "30 December 2021",
+          "archive-date": "30 December 2021",
+          "archive-url": "https://web.archive.org/web/20211230212759/https://www.ft.com/content/c853063a-5ce8-491c-b6a1-186ab84cd21a",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3201,6 +3568,10 @@
           "date": "30 January 2022",
           "last1": "Kazmin",
           "first1": "Amy",
+          "access-date": "30 January 2022",
+          "archive-date": "30 January 2022",
+          "archive-url": "https://web.archive.org/web/20220130200118/https://www.ft.com/content/87db87ef-500e-4aa8-a7d7-aadca43fb024",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3209,6 +3580,10 @@
           "title": "DItaly approves 8 bln euro package to help economy, curb energy bills",
           "date": "18 February 2022",
           "work": "Reuters",
+          "access-date": "19 February 2022",
+          "archive-date": "19 February 2022",
+          "archive-url": "https://web.archive.org/web/20220219111448/https://www.reuters.com/business/energy/italy-preparing-6-bln-euro-package-curb-energy-bills-draft-2022-02-18/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3216,6 +3591,10 @@
           "url": "https://www.euronews.com/2021/08/03/italy-s-draghi-wins-confidence-votes-on-justice-reforms",
           "title": "Italy's Draghi wins confidence votes on justice reforms",
           "date": "3 August 2021",
+          "access-date": "6 August 2021",
+          "archive-date": "6 August 2021",
+          "archive-url": "https://web.archive.org/web/20210806140240/https://www.euronews.com/2021/08/03/italy-s-draghi-wins-confidence-votes-on-justice-reforms",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
@@ -3601,6 +3980,9 @@
           "access-date": "6 January 2022",
           "work": "The New York Times",
           "date": "15 April 2021",
+          "archive-date": "6 January 2022",
+          "archive-url": "https://web.archive.org/web/20220106152441/https://www.nytimes.com/2021/04/15/world/europe/italy-draghi-eu.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3613,6 +3995,9 @@
           "work": "Corriere della Sera",
           "date": "4 June 2021",
           "language": "it",
+          "archive-date": "5 November 2021",
+          "archive-url": "https://web.archive.org/web/20211105020911/https://www.corriere.it/esteri/21_aprile_06/libia-visita-draghi-solo-primo-passo-annullare-l-influenza-straniera-57ffa60e-9710-11eb-b9bd-e7351dbb7d6a.shtml",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3623,6 +4008,9 @@
           "work": "Il Post",
           "date": "6 April 2021",
           "language": "it-IT",
+          "archive-date": "21 April 2022",
+          "archive-url": "https://web.archive.org/web/20220421130302/https://www.ilpost.it/2021/04/06/visita-draghi-libia/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3638,6 +4026,9 @@
           "first2": "Paul",
           "last3": "Magdy",
           "first3": "Mirette",
+          "archive-date": "6 April 2021",
+          "archive-url": "https://web.archive.org/web/20210406110358/https://www.bloomberg.com/news/articles/2021-04-06/italy-s-draghi-picks-libya-for-first-trip-seeking-stronger-ties",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3648,6 +4039,9 @@
           "work": "Reuters",
           "date": "8 April 2021",
           "language": "en",
+          "archive-date": "14 January 2022",
+          "archive-url": "https://web.archive.org/web/20220114054619/https://www.reuters.com/article/us-turkey-eu-italy/italys-draghi-accuses-dictator-erdogan-draws-turkeys-condemnation-idUSKBN2BV2YW",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3658,6 +4052,9 @@
           "work": "L'HuffPost",
           "date": "8 April 2021",
           "language": "it",
+          "archive-date": "5 November 2021",
+          "archive-url": "https://web.archive.org/web/20211105034546/https://www.huffingtonpost.it/entry/draghi-erdogan-un-dittatore-di-cui-si-ha-bisogno_it_606f426bc5b6fc989f5a2db3",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3670,6 +4067,9 @@
           "work": "The Times",
           "date": "10 April 2021",
           "language": "en",
+          "archive-date": "7 May 2021",
+          "archive-url": "https://web.archive.org/web/20210507114416/https://www.thetimes.co.uk/article/turkey-summons-italian-ambassador-after-mario-draghi-called-erdogan-dictator-mnjxpbrbm",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3682,6 +4082,9 @@
           "work": "Bloomberg",
           "date": "8 April 2021",
           "language": "en",
+          "archive-date": "11 April 2021",
+          "archive-url": "https://web.archive.org/web/20210411105318/https://www.bloomberg.com/news/articles/2021-04-08/turkey-summons-italian-envoy-after-draghi-calls-erdogan-dictator",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3692,6 +4095,9 @@
           "work": "ANSA.it",
           "date": "9 April 2021",
           "language": "en",
+          "archive-date": "12 May 2021",
+          "archive-url": "https://web.archive.org/web/20210512024434/https://www.ansa.it/english/news/politics/2021/04/09/draghi-was-right-on-erdogan-says-weber_aa8cb72d-0001-4fbe-8ac8-e97b1067dc3d.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3704,6 +4110,9 @@
           "work": "la Repubblica",
           "date": "14 April 2021",
           "language": "it",
+          "archive-date": "22 October 2021",
+          "archive-url": "https://web.archive.org/web/20211022033420/https://www.repubblica.it/esteri/2021/04/14/news/erdogan_draghi_turchia_dittatore-296442527/?ref=RHTP-BH-I293269148-P1-S1-F",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3714,6 +4123,9 @@
           "work": "Tgcom24",
           "date": "14 April 2021",
           "language": "IT",
+          "archive-date": "14 May 2021",
+          "archive-url": "https://web.archive.org/web/20210514224614/https://www.tgcom24.mediaset.it/mondo/erdogan-draghi-nominato-e-non-eletto-danneggiate-relazioni_30985047-202102k.shtml",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3725,6 +4137,9 @@
           "publisher": "Bloomberg",
           "date": "11 June 2021",
           "access-date": "8 February 2022",
+          "archive-date": "30 January 2022",
+          "archive-url": "https://web.archive.org/web/20220130144430/https://www.bloomberg.com/news/articles/2021-06-11/johnson-defers-to-draghi-on-economy-at-first-g-7-summit-session",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3733,12 +4148,20 @@
           "title": "Readout of President Biden's Meeting with Prime Minister Mario Draghi of Italy",
           "website": "whitehouse.gov",
           "date": "12 June 2021",
+          "access-date": "1 July 2021",
+          "archive-date": "4 July 2021",
+          "archive-url": "https://web.archive.org/web/20210704114344/https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/readout-of-president-bidens-meeting-with-prime-minister-mario-draghi-of-italy/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
         {
           "url": "https://www.la7.it/tagada/video/mario-draghi-biden-ha-portato-aria-nuova-nei-rapporti-tra-usa-e-ue-26-03-2021-372283",
           "title": "Mario Draghi: \"Biden ha portato aria nuova nei rapporti tra USA e UE\"",
+          "access-date": "3 May 2021",
+          "archive-date": "3 May 2021",
+          "archive-url": "https://web.archive.org/web/20210503205315/https://www.la7.it/tagada/video/mario-draghi-biden-ha-portato-aria-nuova-nei-rapporti-tra-usa-e-ue-26-03-2021-372283",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -3749,6 +4172,9 @@
           "work": "Il Post",
           "date": "23 August 2021",
           "language": "it-IT",
+          "archive-date": "30 October 2021",
+          "archive-url": "https://web.archive.org/web/20211030090646/https://www.ilpost.it/2021/08/23/italia-evacuazione-kabul/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3759,6 +4185,9 @@
           "publisher": "Esercito Italiano",
           "access-date": "6 January 2022",
           "language": "it",
+          "archive-date": "27 August 2021",
+          "archive-url": "https://web.archive.org/web/20210827074730/http://www.esercito.difesa.it/comunicazione/Pagine/operazione-omnia_210823.aspx",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -3769,6 +4198,9 @@
           "work": "Dire.it",
           "date": "26 August 2021",
           "language": "it-IT",
+          "archive-date": "22 October 2021",
+          "archive-url": "https://web.archive.org/web/20211022045116/https://www.dire.it/26-08-2021/663295-afghanistan-sono-4-832-gli-afghani-evacuati-in-italia-con-loperazione-aquila-omnia/",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3779,6 +4211,9 @@
           "work": "Wanted in Rome",
           "date": "27 October 2021",
           "language": "en",
+          "archive-date": "30 October 2021",
+          "archive-url": "https://web.archive.org/web/20211030080818/https://www.wantedinrome.com/news/g20-italy-which-world-leaders-will-be-in-rome.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3788,6 +4223,9 @@
           "access-date": "30 November 2021",
           "work": "rainews",
           "language": "italian",
+          "archive-date": "30 November 2021",
+          "archive-url": "https://web.archive.org/web/20211130100052/https://www.rainews.it/dl/rainews/articoli/Macron-a-Roma-oggi-al-quirinale-la-firma-del-Trattato-bilaterale-f2bc83da-84d4-4026-b7a7-930e69a9dc54.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3800,6 +4238,9 @@
           "work": "Euronews",
           "date": "26 November 2021",
           "language": "en",
+          "archive-date": "25 January 2022",
+          "archive-url": "https://web.archive.org/web/20220125215709/https://www.euronews.com/2021/11/26/quirinale-treaty-can-a-new-french-italian-pact-shift-the-balance-of-power-in-europe",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3811,6 +4252,8 @@
           "url": "https://www.ft.com/content/70d99402-98c4-4f1b-a693-2f25739b2455",
           "access-date": "2 May 2022",
           "url-status": "live",
+          "archive-date": "2 May 2022",
+          "archive-url": "https://web.archive.org/web/20220502040922/https://www.ft.com/content/70d99402-98c4-4f1b-a693-2f25739b2455",
           "template": "citation",
           "type": "news"
         },
@@ -3821,6 +4264,9 @@
           "access-date": "24 February 2022",
           "website": "Sky Tg24",
           "language": "it",
+          "archive-date": "24 February 2022",
+          "archive-url": "https://web.archive.org/web/20220224070853/https://tg24.sky.it/politica/2022/02/24/draghi-attacco-russia-ucraina",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -3845,6 +4291,8 @@
           "url": "https://www.ansa.it/sito/notizie/mondo/2022/02/26/draghi-litalia-appoggia-le-sanzioni-alla-russia-anche-swift_42a648a1-d4eb-4772-aad5-aff5c81047f2.html",
           "access-date": "26 February 2022",
           "url-status": "live",
+          "archive-date": "26 February 2022",
+          "archive-url": "https://web.archive.org/web/20220226115420/https://www.ansa.it/sito/notizie/mondo/2022/02/26/draghi-litalia-appoggia-le-sanzioni-alla-russia-anche-swift_42a648a1-d4eb-4772-aad5-aff5c81047f2.html",
           "template": "citation",
           "type": "news"
         },
@@ -3855,6 +4303,10 @@
           "date": "22 March 2022",
           "last1": "Kazmin",
           "first1": "Amy",
+          "access-date": "23 March 2022",
+          "archive-date": "23 March 2022",
+          "archive-url": "https://web.archive.org/web/20220323213957/https://www.ft.com/content/dd2f9015-37cd-4a5b-a825-a156189c8826",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3889,6 +4341,9 @@
           "access-date": "16 June 2022",
           "website": "POLITICO",
           "language": "en-US",
+          "archive-date": "16 June 2022",
+          "archive-url": "https://web.archive.org/web/20220616055810/https://www.politico.eu/article/macron-scholz-draghi-kyiv-visit-zelenskyy-ukraine/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -3899,6 +4354,9 @@
           "access-date": "16 June 2022",
           "website": "la Repubblica",
           "language": "it",
+          "archive-date": "16 June 2022",
+          "archive-url": "https://web.archive.org/web/20220616014802/https://www.repubblica.it/esteri/2022/06/16/news/ucraina_draghi_macron_scholz_kiev_visita_viaggio_guerra-354107572/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -3911,7 +4369,7 @@
       ]
     },
     {
-      "title": "2022 government crisis",
+      "title": "Resignation",
       "depth": 1,
       "paragraphs": [
         {
@@ -3947,14 +4405,45 @@
             },
             {
               "text": "However, the resignation was rejected by Mattarella, who invited Draghi to explain the political situation to the Parliament on Wednesday 20th."
-            },
-            {
-              "text": "On 20 July, the confidence vote \"failed\" to pass as Lega, FI and FDI voted along with M5S against the government."
-            },
-            {
-              "text": "As a result, Draghi is resigning on the morning of 21 July at 9 AM."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 20 July, Mario Draghi held a speech in front of the Senate, harshly condamning the positions that M5S and Lega held during the last months of the cabinet."
+            },
+            {
+              "text": "In the evening, the government failed to reach the absolute majority in the confidence vote as Lega, FI and M5S decided not to take part in the ballot, de facto causing the fall of the government.",
+              "formatting": {
+                "italic": [
+                  "de facto"
+                ]
+              }
+            },
+            {
+              "text": "On the following day, after a speech in front of the Chamber of Deputies, Draghi officially resigned as prime minister."
+            },
+            {
+              "text": "Mattarella accepted his resignation, but Draghi will remain in office as caretaker prime minister, until the formation of a new government following the upcoming general election.",
+              "links": [
+                {
+                  "text": "upcoming general election",
+                  "type": "internal",
+                  "page": "2022 Italian general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Draghi_Quirinale_2022.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Draghi_Quirinale_2022.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Draghi_Quirinale_2022.jpg",
+          "caption": "Draghi arriving at the Quirinal Palace to resign",
+          "links": []
         }
       ],
       "templates": [
@@ -3975,6 +4464,9 @@
           "last": "Giuffrida",
           "language": "en",
           "access-date": "13 July 2022",
+          "archive-date": "13 July 2022",
+          "archive-url": "https://web.archive.org/web/20220713230914/https://www.theguardian.com/world/2022/jul/13/italys-government-on-the-brink-as-5-star-threatens-to-boycott-confidence-vote",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -4007,33 +4499,35 @@
           "last2": "Braithwaite",
           "language": "en",
           "access-date": "14 July 2022",
+          "archive-date": "14 July 2022",
+          "archive-url": "https://web.archive.org/web/20220714170616/https://edition.cnn.com/2022/07/14/europe/italy-government-collapse-july-intl/index.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
         {
-          "url": "https://tg24.sky.it/politica/2022/07/20/crisi-governo-draghi-ultime-notizie",
-          "title": "DIRETTA Crisi di governo, Draghi al Quirinale da Mattarella",
           "template": "citation",
-          "type": "web"
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
-          "url": "https://www.orizzontescuola.it/crisi-di-governo-draghi-verso-le-dimissioni-elezioni-il-2-ottobre-gli-ultimi-aggiornamenti/",
-          "title": "Crisi di governo, Draghi verso le dimissioni: Elezioni il 2 ottobre? Gli ultimi aggiornamenti",
-          "date": "20 July 2022",
+          "url": "https://tg24.sky.it/politica/2022/07/20/crisi-governo-draghi-ultime-notizie",
+          "title": "DIRETTA Crisi di governo, Draghi al Quirinale da Mattarella",
+          "access-date": "20 July 2022",
+          "archive-date": "20 July 2022",
+          "archive-url": "https://web.archive.org/web/20220720084719/https://tg24.sky.it/politica/2022/07/20/crisi-governo-draghi-ultime-notizie",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
         {
           "url": "https://www.ilfoglio.it/politica/2022/07/20/video/crisi-di-governo-draghi-in-senato-4244252/",
           "title": "Fine del governo Draghi Lega, Forza Italia e M5s non votano la fiducia. Il premier stasera non sale al Quirinale",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.ilfattonisseno.it/2022/07/crisi-di-governo-verso-no-numero-legale-in-senato-draghi-rinnova-dimissioni/",
-          "title": "Crisi di Governo, verso 'no' numero legale in Senato: Draghi rinnova dimissioni? - il Fatto Nisseno - Caltanissetta notizie, cronaca, attualità",
-          "publisher": "Ilfattonisseno.it",
-          "accessdate": "2022-07-20",
+          "access-date": "20 July 2022",
+          "archive-date": "20 July 2022",
+          "archive-url": "https://web.archive.org/web/20220720093238/https://www.ilfoglio.it/politica/2022/07/20/video/crisi-di-governo-draghi-in-senato-4244252/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -4044,6 +4538,9 @@
           "publisher": "Corriere.it",
           "date": "20 July 2022",
           "accessdate": "2022-07-20",
+          "archive-date": "21 July 2022",
+          "archive-url": "https://web.archive.org/web/20220721171852/https://www.corriere.it/politica/22_luglio_20/dimissioni-draghi-cosa-succede-2774dca0-083b-11ed-bd15-abd29857fc36.shtml",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -4053,6 +4550,16 @@
           "date": "20 July 2022",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://www.corriere.it/politica/22_luglio_21/draghi-dimissioni-governo-ad4926de-0835-11ed-bd15-abd29857fc36.shtml",
+          "title": "Draghi ha dato le dimissioni",
+          "work": "Corriere della Sera",
+          "language": "it",
+          "date": "21 July 2022",
+          "access-date": "21 July 2022",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -4177,6 +4684,9 @@
           "date": "14 June 2019",
           "access-date": "14 June 2019",
           "language": "en",
+          "archive-date": "22 October 2021",
+          "archive-url": "https://web.archive.org/web/20211022192404/https://www.bloomberg.com/news/articles/2017-02-08/giacomo-draghi-said-to-exit-morgan-stanley-for-hedge-fund-lmr",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -4187,6 +4697,9 @@
           "website": "Repubblica.it",
           "language": "it",
           "access-date": "14 June 2019",
+          "archive-date": "20 December 2021",
+          "archive-url": "https://web.archive.org/web/20211220141606/https://www.repubblica.it/economia/finanza/2017/02/08/news/il_figlio_di_mario_draghi_lascia_morgan_stanley_per_un_fondo_hedge-157861230/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -4197,6 +4710,9 @@
           "work": "Il Giorno",
           "date": "2 February 2021",
           "language": "it",
+          "archive-date": "31 October 2021",
+          "archive-url": "https://web.archive.org/web/20211031091139/https://www.ilgiorno.it/politica/mario-draghi-profilo-1.5978154",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -4207,6 +4723,9 @@
           "date": "3 February 2021",
           "access-date": "19 February 2021",
           "language": "it",
+          "archive-date": "4 February 2021",
+          "archive-url": "https://web.archive.org/web/20210204082137/https://www.romatoday.it/politica/mario-draghi-roma-dove-vive.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -4217,6 +4736,9 @@
           "work": "Sky Sport",
           "date": "3 February 2021",
           "language": "it",
+          "archive-date": "21 October 2021",
+          "archive-url": "https://web.archive.org/web/20211021035642/https://sport.sky.it/altro/2021/02/03/mario-draghi-partito-sport",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -4224,6 +4746,10 @@
           "url": "https://www.true-news.it/facts/mario-draghi-e-di-destra-o-di-sinistra",
           "title": "Mario Draghi è di destra o di sinistra?",
           "date": "7 June 2021",
+          "access-date": "16 July 2022",
+          "archive-date": "16 July 2022",
+          "archive-url": "https://web.archive.org/web/20220716121828/https://www.true-news.it/facts/mario-draghi-e-di-destra-o-di-sinistra",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -4231,6 +4757,10 @@
           "url": "https://www.tpi.it/politica/mario-draghi-partito-orientamento-politico-20210203737026/",
           "title": "Mario Draghi, partito e orientamento politico dell'ex presidente della Bce",
           "date": "3 February 2021",
+          "access-date": "16 July 2022",
+          "archive-date": "1 August 2021",
+          "archive-url": "https://web.archive.org/web/20210801231944/https://www.tpi.it/politica/mario-draghi-partito-orientamento-politico-20210203737026/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -4290,6 +4820,9 @@
           "website": "Quirinale",
           "language": "it",
           "access-date": "24 February 2018",
+          "archive-date": "4 March 2016",
+          "archive-url": "https://web.archive.org/web/20160304200902/http://www.quirinale.it/elementi/DettaglioOnorificenze.aspx?decorato=207569",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -4312,6 +4845,10 @@
           "page": "88",
           "chapter-url": "https://books.google.com/books?id=LmphDgAAQBAJ&pg=RA3-PA88",
           "chapter": "Draghi, Mario",
+          "access-date": "16 November 2020",
+          "archive-date": "21 July 2022",
+          "archive-url": "https://web.archive.org/web/20220721172127/https://books.google.com/books?id=LmphDgAAQBAJ&pg=RA3-PA88",
+          "url-status": "live",
           "template": "citation",
           "type": "book"
         }
@@ -4360,6 +4897,9 @@
           "title": "Página Oficial da Presidência da República Portuguesa",
           "website": "www.presidencia.pt",
           "access-date": "24 October 2019",
+          "archive-date": "24 February 2011",
+          "archive-url": "https://web.archive.org/web/20110224155518/http://www.presidencia.pt/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -4368,6 +4908,9 @@
           "title": "www.bundespraesident.de: Der Bundespräsident / Reden / Verleihung des Großkreuzes des Verdienstordens der Bundesrepublik Deutschland an Mario Draghi",
           "website": "www.bundespraesident.de",
           "accessdate": "3 February 2021",
+          "archive-date": "25 February 2021",
+          "archive-url": "https://web.archive.org/web/20210225010142/https://www.bundespraesident.de/SharedDocs/Reden/DE/Frank-Walter-Steinmeier/Reden/2020/01/200131-Verdienstorden-Draghi.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
@@ -4456,6 +4999,9 @@
           "url": "https://mib.edu/proxyvfs.axd/image/r15728/file-jpg?v=8507&ext=.jpg",
           "title": "MARIO DRAGHI, PRESIDENT OF THE EUROPEAN CENTRAL BANK, RECEIVING THE DIPLOMA MBA HONORIS CAUSA BY THE DEAN PROF. NANUT",
           "accessdate": "3 February 2021",
+          "archive-date": "20 October 2021",
+          "archive-url": "https://web.archive.org/web/20211020084616/https://mib.edu/proxyvfs.axd/image/r15728/file-jpg?v=8507&ext=.jpg",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -4491,6 +5037,10 @@
           "title": "TAU Honorary Doctorates 2017",
           "website": "Tel Aviv University",
           "date": "15 May 2017",
+          "access-date": "15 December 2018",
+          "archive-date": "16 November 2019",
+          "archive-url": "https://web.archive.org/web/20191116212721/https://english.tau.ac.il/news/honorary_doctorates_2017",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -4499,6 +5049,9 @@
           "title": "Celebrating new academic year 2018–2019",
           "website": "Sant'Anna School of Advanced Studies",
           "access-date": "24 October 2019",
+          "archive-date": "2 April 2019",
+          "archive-url": "https://web.archive.org/web/20190402180742/https://www.santannapisa.it/en/event/celebrating-new-academic-year-2018-2019",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -4507,6 +5060,9 @@
           "title": "Mario Draghi to be awarded Law Degree honoris causa from the University of Bologna – University of Bologna",
           "website": "www.unibo.it",
           "access-date": "24 October 2019",
+          "archive-date": "23 February 2019",
+          "archive-url": "https://web.archive.org/web/20190223184612/https://www.unibo.it/en/notice-board/mario-draghi-to-be-awarded-law-degree-honoris-causa-from-the-university-of-bologna",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -4515,6 +5071,9 @@
           "title": "\"Conoscenza, coraggio, umiltà\": la lezione di Mario Draghi",
           "website": "www.cattolicanews.it",
           "access-date": "24 October 2019",
+          "archive-date": "12 October 2019",
+          "archive-url": "https://web.archive.org/web/20191012143711/https://www.cattolicanews.it/conoscenza-coraggio-umilta-la-lezione-di-mario-draghi",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }

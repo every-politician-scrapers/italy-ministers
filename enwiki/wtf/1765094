@@ -49,7 +49,11 @@
                   "Renato Brunetta"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "He was minister for public administration and innovation from May 2008 to November 2011 in the Berlusconi government, and again he is minister for Public Administration in the Draghi government, since February 2021.",
               "links": [
@@ -61,7 +65,7 @@
               ]
             },
             {
-              "text": "Currently he is also the head of Forza Italia's deputies group at the Chamber of Deputies.",
+              "text": "He has also the head of Forza Italia's deputies group at the Chamber of Deputies from 2013 to 2018.",
               "links": [
                 {
                   "text": "Chamber of Deputies",
@@ -82,6 +86,10 @@
         {
           "date": "September 2021",
           "template": "advert"
+        },
+        {
+          "date": "July 2022",
+          "template": "like resume"
         },
         {
           "year": "1950",
@@ -196,16 +204,10 @@
             ]
           },
           "term_start3": {
-            "text": "20 July 2004"
+            "text": "20 July 1999"
           },
           "term_end3": {
             "text": "28 April 2008"
-          },
-          "term_start4": {
-            "text": "20 July 1999"
-          },
-          "term_end4": {
-            "text": "19 July 2004"
           },
           "birth_date": {
             "text": "May 15, 1950"
@@ -224,29 +226,32 @@
             ]
           },
           "party": {
-            "text": "Forza Italia\n(2013-present)",
+            "text": "PSI (1983–1994)\nFI (1994–2009)\nPdL (2009–2013) FI (2013–2022) Independent (since 2022)",
             "links": [
               {
-                "text": "Forza Italia",
-                "type": "internal",
-                "page": "Forza Italia (2013)"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Italian Socialist Party\n(1983-1994)\nForza Italia\n(1994-2009)\nThe People of Freedom\n(2009-2013)",
-            "links": [
-              {
+                "text": "PSI",
                 "type": "internal",
                 "page": "Italian Socialist Party"
               },
               {
+                "text": "FI",
                 "type": "internal",
                 "page": "Forza Italia"
               },
               {
+                "text": "PdL",
                 "type": "internal",
                 "page": "The People of Freedom"
+              },
+              {
+                "text": "FI",
+                "type": "internal",
+                "page": "Forza Italia (2013)"
+              },
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
               }
             ]
           },
@@ -654,72 +659,6 @@
       ]
     },
     {
-      "title": "Awards",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "1988 - Saint Vincent Prize - Journalism"
-          },
-          {
-            "text": "1992 - Ezio Tarantelli prize - Best work of labor economics"
-          },
-          {
-            "text": "1994 - Scanno Prize - Best work of industrial relations"
-          },
-          {
-            "text": "2002 - Rudolph Valentino International Prize - Economy, finance and communication"
-          }
-        ]
-      ],
-      "references": [
-        {
-          "last": "Brunetta",
-          "first": "Renato",
-          "title": "Microeconomia del lavoro. Teorie e analisi empiriche",
-          "year": "1996",
-          "publisher": "Marsilio Editori",
-          "location": "Venice",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "last": "Brunetta",
-          "first": "Renato",
-          "title": "Disocupazione, isteresi e irreversibilità. Per una nuova interpretazione del mercato del lavoro",
-          "year": "1992",
-          "publisher": "ETASLIBRI",
-          "location": "Milan",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "last": "Brunetta",
-          "first": "Renato",
-          "title": "La fine della società dei salariati",
-          "year": "1994",
-          "publisher": "Marsilio Editori",
-          "location": "Venice",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "url": "http://www.wondersanddreams.com/It/Events/Valentino.shtml",
-          "title": "Register of winnersi",
-          "url-status": "dead",
-          "archiveurl": "https://archive.today/20070115153226/http://www.wondersanddreams.com/It/Events/Valentino.shtml",
-          "archivedate": "2007-01-15",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
       "title": "See also",
       "depth": 0,
       "paragraphs": [
@@ -729,6 +668,16 @@
       ],
       "lists": [
         [
+          {
+            "text": "1999 European Parliament election in Italy",
+            "links": [
+              {
+                "text": "1999 European Parliament election in Italy",
+                "type": "internal",
+                "page": "1999 European Parliament election in Italy"
+              }
+            ]
+          },
           {
             "text": "2004 European Parliament election in Italy",
             "links": [
@@ -793,6 +742,19 @@
           "template": "s-aft"
         },
         {
+          "before": "Fabiana Dadone",
+          "template": "s-bef"
+        },
+        {
+          "title": "Italian Minister of Public Administration",
+          "years": "2021 – present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Incumbent",
+          "template": "s-aft"
+        },
+        {
           "list": [
             "it-lwr"
           ],
@@ -803,7 +765,7 @@
           "template": "s-bef"
         },
         {
-          "title": "Member of the Italian Chamber of Deputies\nLegislatures:\nXVI",
+          "title": "Member of the Italian Chamber of Deputies\nLegislatures:\nXVI, XVII, XVIII",
           "years": "2008 – present",
           "template": "s-ttl"
         },
