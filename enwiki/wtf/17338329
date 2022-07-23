@@ -256,23 +256,18 @@
             ]
           },
           "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Forza Italia (2013–2022)\nThe People of Freedom\n(2009–2013)\nForza Italia",
+            "text": "Forza Italia (2013-present)",
             "links": [
               {
                 "text": "Forza Italia",
                 "type": "internal",
                 "page": "Forza Italia (2013)"
-              },
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "The People of Freedom (2009–2013)\nForza Italia (2004-2009)",
+            "links": [
               {
                 "type": "internal",
                 "page": "The People of Freedom"

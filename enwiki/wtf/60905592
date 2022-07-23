@@ -157,10 +157,10 @@
             ]
           },
           "profession": {
-            "text": "Enterpreneur",
+            "text": "Entrepreneur",
             "links": [
               {
-                "text": "Enterpreneur",
+                "text": "Entrepreneur",
                 "type": "internal",
                 "page": "Entrepreneurship"
               }

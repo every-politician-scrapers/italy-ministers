@@ -36,7 +36,7 @@
         {
           "sentences": [
             {
-              "text": "Mario Draghi (born 3 September 1947) is an Italian economist, banker, former professor and civil servant who has served as prime minister of Italy since February 2021.",
+              "text": "Mario Draghi (born 3 September 1947) is an Italian economist, banker, former professor, and civil servant who has served as prime minister of Italy since February 2021.",
               "links": [
                 {
                   "text": "prime minister of Italy",
@@ -51,7 +51,14 @@
               }
             },
             {
-              "text": "He resigned from the office on 21 July 2022 and will remain as caretaker prime minister until a new leader is elected."
+              "text": "He resigned from the office on 21 July 2022 and will remain as caretaker prime minister until a new leader is elected.",
+              "links": [
+                {
+                  "text": "caretaker prime minister",
+                  "type": "internal",
+                  "page": "caretaker prime minister"
+                }
+              ]
             },
             {
               "text": "Prior to his appointment as prime minister, he served as President of the European Central Bank (ECB) between 2011 and 2019.",
@@ -66,7 +73,6 @@
               "text": "Draghi was also Chair of the Financial Stability Board between 2009 and 2011, and Governor of the Bank of Italy between 2006 and 2011.",
               "links": [
                 {
-                  "text": "Chair of the Financial Stability Board",
                   "type": "internal",
                   "page": "Financial Stability Board"
                 },
@@ -92,10 +98,8 @@
                   "page": "Rome"
                 },
                 {
-                  "text": "Director General of the Italian Treasury",
                   "type": "internal",
-                  "page": "Ministry of Economy and Finance (Italy)",
-                  "anchor": "Organization"
+                  "page": "Director General of the Italian Treasury"
                 }
               ]
             },
@@ -154,7 +158,7 @@
               ]
             },
             {
-              "text": "In 2014, Draghi was listed by Forbes magazine as the eighth-most powerful person in the world.",
+              "text": "In 2014, Draghi was listed by Forbes as the eighth-most powerful person in the world.",
               "links": [
                 {
                   "text": "Forbes",
@@ -195,7 +199,12 @@
                   "type": "internal",
                   "page": "listicle"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "Time 100"
+                ]
+              }
             },
             {
               "text": "In 2021, Politico Europe ranked him as the most powerful person in Europe.",
@@ -204,7 +213,12 @@
                   "type": "internal",
                   "page": "Politico Europe"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "Politico Europe"
+                ]
+              }
             },
             {
               "text": "In 2019, Paul Krugman described him as \"the greatest central banker of modern times.\"",
@@ -256,10 +270,9 @@
               "text": "After Draghi's term as ECB President ended in 2019, he initially returned to private life."
             },
             {
-              "text": "On 3 February 2021, in the midst of the COVID-19 pandemic, Draghi was invited by Italian President Sergio Mattarella to form a government of national unity, following the resignation of Giuseppe Conte.",
+              "text": "On 3 February 2021, in the midst of the COVID-19 pandemic in Italy, Draghi was invited by President Sergio Mattarella to form a government of national unity (Draghi Cabinet), following the resignation of Giuseppe Conte.",
               "links": [
                 {
-                  "text": "COVID-19 pandemic",
                   "type": "internal",
                   "page": "COVID-19 pandemic in Italy"
                 },
@@ -269,6 +282,10 @@
                 },
                 {
                   "text": "government of national unity",
+                  "type": "internal",
+                  "page": "government of national unity"
+                },
+                {
                   "type": "internal",
                   "page": "Draghi Cabinet"
                 },
@@ -284,7 +301,7 @@
               ]
             },
             {
-              "text": "After successful negotiations with parties including the League, the Five Star Movement, the Democratic Party and Forza Italia, Draghi was sworn in as Prime Minister on 11 February, pledging to oversee effective implementation of COVID-19 economic stimulus.",
+              "text": "After successful negotiations with parties including the League (Lega), the Five Star Movement (M5S), the Democratic Party (PD), and Forza Italia (FI), Draghi was sworn in as Prime Minister on 11 February, pledging to oversee effective implementation of COVID-19 economic stimulus.",
               "links": [
                 {
                   "text": "League",
@@ -308,7 +325,7 @@
               ]
             },
             {
-              "text": "He has been rated highly in public opinion polls in Italy during his time as prime minister, and at the end of his first year in office, The Economist named Italy as 'Country of the Year', singling out Draghi's leadership as central to its nomination.",
+              "text": "He has been rated highly in public opinion polls in Italy during his time as prime minister, and at the end of his first year in office The Economist named Italy as \"Country of the Year\", singling out Draghi's leadership as central to its nomination.",
               "links": [
                 {
                   "type": "internal",
@@ -326,12 +343,8 @@
         {
           "sentences": [
             {
-              "text": "On 14 July 2022, the populist Five Star Movement revoked support to Draghi's coalition government regarding a decree concerning economic stimulus to offset the energy crisis.",
+              "text": "On 14 July 2022, the M5S revoked support to Draghi's coalition government regarding a decree concerning economic stimulus to offset the energy crisis.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Five Star Movement"
-                },
                 {
                   "text": "decree",
                   "type": "internal",
@@ -340,25 +353,24 @@
               ]
             },
             {
-              "text": "On the same day, despite having largely won the confidence vote, Draghi announced his resignation as prime minister.",
+              "text": "On the same day, despite having largely won the confidence vote, Draghi announced his resignation as prime minister, which was was rejected by President Mattarella.",
               "links": [
                 {
                   "text": "confidence vote",
                   "type": "internal",
                   "page": "confidence vote"
-                },
-                {
-                  "text": "prime minister",
-                  "type": "internal",
-                  "page": "Prime Minister of Italy"
                 }
               ]
             },
             {
-              "text": "However, the resignation was rejected by president Mattarella."
-            },
-            {
-              "text": "On 21 July, Draghi resigned for a second time following the failure of the confidence vote to pass with an absolute majority, due to the withdrawals of M5S, Lega, and FI."
+              "text": "On 21 July, Draghi resigned for a second time following the failure of the confidence vote to pass with an absolute majority due to the withdrawals of M5S, Lega, and FI.",
+              "links": [
+                {
+                  "text": "absolute majority",
+                  "type": "internal",
+                  "page": "absolute majority"
+                }
+              ]
             },
             {
               "text": "On the same day, President Mattarella accepted the resignation and Draghi remained in office as caretaker prime minister."
@@ -372,13 +384,13 @@
           "template": "short description"
         },
         {
-          "date": "July 2022",
-          "template": "use dmy dates"
-        },
-        {
           "3": "2022 Italian government crisis",
           "date": "July 2022",
           "template": "current person"
+        },
+        {
+          "date": "July 2022",
+          "template": "use dmy dates"
         },
         {
           "_list": "OMRI",
@@ -439,9 +451,6 @@
           "term_start1": {
             "text": "13 February 2021"
           },
-          "term_end1": {
-            "text": "21 July 2022"
-          },
           "predecessor1": {
             "text": "Giuseppe Conte",
             "links": [
@@ -450,9 +459,6 @@
                 "page": "Giuseppe Conte"
               }
             ]
-          },
-          "successor1": {
-            "text": "TBA"
           },
           "office2": {
             "text": "President of the European Central Bank",
@@ -670,7 +676,6 @@
         {
           "title": "Banca d'Italia – Mario Draghi",
           "url": "https://www.bancaditalia.it/chi-siamo/storia/governatori-direttori-generali/governatori/mario-draghi/index.html",
-          "website": "www.bancaditalia.it",
           "publisher": "Bank of Italy",
           "access-date": "6 January 2022",
           "language": "it",
@@ -1928,7 +1933,7 @@
         {
           "sentences": [
             {
-              "text": "In July 2012, in the midst of renewed fears about sovereigns in the eurozone, Draghi stated in a panel discussion that, under his leadership, the ECB \"...is ready to do whatever it takes to preserve the euro. And believe me, it will be enough.\"",
+              "text": "In July 2012, in the midst of renewed fears about sovereigns in the eurozone, Draghi stated in a panel discussion that, under his leadership, the ECB \"is ready to do whatever it takes to preserve the euro. And believe me, it will be enough.\"",
               "formatting": {
                 "italic": [
                   "whatever it takes"
@@ -1940,16 +1945,16 @@
             },
             {
               "text": "In light of what had been slow political progress on solving the eurozone crisis, Draghi's statement has come to be seen subsequently as the major turning point in the fortunes of the eurozone, with numerous policymakers and commentators describing it as having been essential to the continuation of the euro currency."
-            },
-            {
-              "text": "Draghi has since come to be prominently associated with the phrase \"whatever it takes\"."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Beginning in 2013, Draghi was criticised in the context of the scandals rising around the bank Banca Monte dei Paschi di Siena which according to at least one German publication was making very risky deals.",
+              "text": "Draghi has since come to be prominently associated with the phrase \"whatever it takes\"."
+            },
+            {
+              "text": "Beginning in 2013, Draghi was criticised in the context of the scandals rising around the bank Banca Monte dei Paschi di Siena, which according to at least one German publication was making very risky deals.",
               "links": [
                 {
                   "type": "internal",
@@ -4411,7 +4416,7 @@
         {
           "sentences": [
             {
-              "text": "On 20 July, Mario Draghi held a speech in front of the Senate, harshly condamning the positions that M5S and Lega held during the last months of the cabinet."
+              "text": "On 20 July, Draghi held a speech in front of the Senate, harshly condemning the positions that M5S and Lega held during the last months of the cabinet."
             },
             {
               "text": "In the evening, the government failed to reach the absolute majority in the confidence vote as Lega, FI and M5S decided not to take part in the ballot, de facto causing the fall of the government.",
